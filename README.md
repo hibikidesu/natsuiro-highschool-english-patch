@@ -1,8 +1,8 @@
 # Natsurio High School Seishun Hakusho English Translation [PS3]
 
 # Installation
-1. Unpack npg10.cpk from `dev_hdd0/game/BLJS10273_INSTALLDATA/USRDIR/DSC/Install` using a cpk unpacker into
-2. Download the `translated/` folder from [Releases](https://github.com/hibikidesu/natsuiro-highschool-english-patch/releases) and replace files to your unpacked directory
+1. Unpack npg10.cpk from `dev_hdd0/game/BLJS10273_INSTALLDATA/USRDIR/DSC/Install` using a cpk unpacker into a folder somewhere
+2. Download the `translated/` folder from [Releases](https://github.com/hibikidesu/natsuiro-highschool-english-patch/releases) or from this repo and replace the files to your unpacked directory
 3. Repack your unpacked cpk directory using CRI File System Tools with compression disabled as it seems to crash the game.
 4. Send your newly packed .cpk file back where you got it from on your ps3
 
