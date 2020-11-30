@@ -28,3 +28,5 @@ Unknown data. From `0x10`, size of `0x20`. First `0x10` bytes look to be a key, 
 Unknown.
 ## script/script.cat && script/script2.cat
 Unknown format. looks easier to just extract all strings from it and replace it directly rather than rebuilding everything, other cat files are large in size, .cat could be a container for assets too? These scripts are the main scripts of the game
+## present/PresentList.bin
+File with a bunch of `0x01`'s `0x02`'s and `0x03`'s, unknown use.
