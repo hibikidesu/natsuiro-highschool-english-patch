@@ -11,7 +11,7 @@
 - .gtf texture modding
 
 # File formats
-## .bin
+## text/.bin
 |        Offset        |   Size   |         Example         | Type  |                                        Notes                                         |
 |----------------------|----------|-------------------------|-------|--------------------------------------------------------------------------------------|
 | 0x00                 | 0x04     |             00 00 00 04 | >I    | Amount of pointers in the table                                                      |

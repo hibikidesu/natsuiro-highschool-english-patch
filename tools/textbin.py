@@ -1,9 +1,9 @@
 from struct import unpack, pack
 
-__all__ = ["extract_bin", "create_bin"]
+__all__ = ["extract_text_bin", "create_text_bin"]
 
 
-def extract_bin(file_path: str) -> list:
+def extract_text_bin(file_path: str) -> list:
     """
     Extracts a data from a .bin file
 
@@ -46,7 +46,7 @@ def extract_bin(file_path: str) -> list:
     return data
 
 
-def create_bin(file_path: str, data: list):
+def create_text_bin(file_path: str, data: list):
     """
     Repack all data 1:1 as to what it should be
 
