@@ -18,3 +18,5 @@
 | 0x04                 | 0x08     | 00 00 00 00 00 00 00 28 | >Q    | File offset of which location the first piece of data is located at                  |
 | final pointer + 0x08 | 0x04     |             00 00 00 00 | >I    | Unknown value, unsure type (assumed is unsigned integer), may be flags or extra data |
 | final pointer + 0x0C | variable |                   01 00 | char* | Could be any value, terminated with 0x00, goes on until end of file                  |
+## help/HelpText.bin
+Constant `0x5E` throughout file, terminated string with `0x00`
