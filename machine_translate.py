@@ -30,8 +30,17 @@ def translate_text(text: str):
         return text
 
 
-def file_exists(path: str):
-    return os.path.isfile(os.path.join(path))
+def file_exists(file: str) -> bool:
+    """
+    Checks if file exists
+
+    Args:
+        file (str): location of file to check in current directory
+
+    Returns:
+        [bool]: if exists
+    """
+    return os.path.isfile(file)
 
 
 def translate_text_files():
