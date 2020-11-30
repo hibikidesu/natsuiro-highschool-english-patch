@@ -8,6 +8,18 @@ translator = googletrans.Translator()
 
 
 def translate_text(text: str):
+    """
+    Translates jp text into en text and returns it as a string
+
+    Args:
+        text (str): jp text to translate
+
+    Returns:
+        [type]: en translated text
+
+    Raises:
+        Exception: if failed to encode or translate text
+    """
     try:
         translated = translator.translate(text, "en", "ja").text
         # Check if cp932 encodable
@@ -18,9 +30,19 @@ def translate_text(text: str):
         return text
 
 
+def file_exists(path: str):
+    return os.path.isfile(os.path.join(path))
+
+
 def translate_text_files():
+    # Check if already exists
+    if file_exists("translated_text.json"):
+        print("Skipping translated_text.json, already done.")
+        return
+
     with open("dumped_text.json", "r", encoding="cp932") as f:
         data = json.load(f)
+
     new_data = {}
     for file in data:
         new_data[file] = []
@@ -28,14 +50,37 @@ def translate_text_files():
             translated = translate_text(string)
             sleep_time = random.uniform(4, 8)
             new_data[file].append(translated)
-            print(f"File: {file}, Old: {string}, New: {translated}, Done {i}/{len(data[file])}, Sleeping for {round(sleep_time, 2)}s")
+            print(f"File: {file}, Old: {repr(string)}, New: {repr(translated)}, Done {i}/{len(data[file])}, Sleeping for {round(sleep_time, 2)}s")
             sleep(sleep_time)
 
     with open("translated_text.json", "w", encoding="cp932") as f:
         json.dump(new_data, f, indent=4)
 
 
+def translate_helptext_file():
+    # Check if already exists
+    if file_exists("translated_helptext.json"):
+        print("Skipping translated_helptext.json, already done.")
+        return
+
+    with open("dumped_helptext.json", "r", encoding="cp932") as f:
+        data = json.load(f)
+
+    new_data = {}
+    for i, file in enumerate(data):
+        translated = translate_text(data[file])
+        sleep_time = random.uniform(4, 8)
+        new_data[file] = translated
+        print(f"File: HelpText.bin, Old: {repr(data[file])}, New: {repr(translated)}, Done {i}/{len(data)}, Sleeping for {round(sleep_time, 2)}s")
+        sleep(sleep_time)
+
+    with open("translated_helptext.json", "w", encoding="cp932") as f:
+        json.dump(new_data, f, indent=4)
+
+
 if __name__ == "__main__":
     # Machine translate dumped text/ files
-    os.makedirs(os.path.join("translated", "text"), exist_ok=True)
     translate_text_files()
+
+    # Machine translate dumped help/HelpText.bin file
+    translate_helptext_file()

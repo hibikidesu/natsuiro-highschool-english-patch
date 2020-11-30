@@ -39,7 +39,6 @@ def create_helptext_bin(file_path: str, data: list):
     """
     with open(file_path, "wb") as f:
         for item in data:
-            print(item)
             if len(item[1]) >= 0x90:
                 raise ValueError(f"'{item[1]}' exceeds character count ({len(item[1])}/143")
             f.write(pack(">I90s", item[0], item[1].encode("cp932")))
