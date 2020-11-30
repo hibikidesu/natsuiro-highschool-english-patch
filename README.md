@@ -22,3 +22,9 @@
 Constant `0x5E` throughout the file, first part is a big endian 4 byte int (unknown usage), rest is a string terminated with `0x00`
 ## tutorial/Tutorial.bin
 Constant `0x20` throughout the file, all are strings terminated with `0x00`
+## script/LipList.bin
+Unknown data. From `0x10`, size of `0x20`. First `0x10` bytes look to be a key, rest of the bytes look to be a value starting from the right position. Only ever see the last 4 bytes being used in the value.
+## script/lsd.cat
+Unknown.
+## script/script.cat && script/script2.cat
+Unknown format. looks easier to just extract all strings from it and replace it directly rather than rebuilding everything, other cat files are large in size, .cat could be a container for assets too? These scripts are the main scripts of the game
