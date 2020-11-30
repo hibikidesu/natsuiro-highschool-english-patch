@@ -43,15 +43,7 @@ def file_exists(file: str) -> bool:
     return os.path.isfile(file)
 
 
-def translate_text_files():
-    # Check if already exists
-    if file_exists("translated_text.json"):
-        print("Skipping translated_text.json, already done.")
-        return
-
-    with open("dumped_text.json", "r", encoding="cp932") as f:
-        data = json.load(f)
-
+def machine_translate_list(data: dict):
     new_data = {}
     for file in data:
         new_data[file] = []
@@ -61,6 +53,30 @@ def translate_text_files():
             new_data[file].append(translated)
             print(f"File: {file}, Old: {repr(string)}, New: {repr(translated)}, Done {i}/{len(data[file])}, Sleeping for {round(sleep_time, 2)}s")
             sleep(sleep_time)
+    return new_data
+
+
+def machine_translate_single(file_name: str, data: dict):
+    new_data = {}
+    for i, file in enumerate(data):
+        translated = translate_text(data[file])
+        sleep_time = random.uniform(4, 8)
+        new_data[file] = translated
+        print(f"File: {file_name}, Old: {repr(data[file])}, New: {repr(translated)}, Done {i}/{len(data)}, Sleeping for {round(sleep_time, 2)}s")
+        sleep(sleep_time)
+    return new_data
+
+
+def translate_text_files():
+    # Check if already exists
+    if file_exists("translated_text.json"):
+        print("Skipping translated_text.json, already done.")
+        return
+
+    with open("dumped_text.json", "r", encoding="cp932") as f:
+        data = json.load(f)
+
+    new_data = machine_translate_list(data)
 
     with open("translated_text.json", "w", encoding="cp932") as f:
         json.dump(new_data, f, indent=4)
@@ -75,15 +91,24 @@ def translate_helptext_file():
     with open("dumped_helptext.json", "r", encoding="cp932") as f:
         data = json.load(f)
 
-    new_data = {}
-    for i, file in enumerate(data):
-        translated = translate_text(data[file])
-        sleep_time = random.uniform(4, 8)
-        new_data[file] = translated
-        print(f"File: HelpText.bin, Old: {repr(data[file])}, New: {repr(translated)}, Done {i}/{len(data)}, Sleeping for {round(sleep_time, 2)}s")
-        sleep(sleep_time)
+    new_data = machine_translate_single("HelpText.bin", data)
 
     with open("translated_helptext.json", "w", encoding="cp932") as f:
+        json.dump(new_data, f, indent=4)
+
+
+def translate_tutorial_file():
+    # Check if already exists
+    if file_exists("translated_tutorial.json"):
+        print("Skipping translated_tutorial.json, already done.")
+        return
+
+    with open("dumped_tutorial.json", "r", encoding="cp932") as f:
+        data = json.load(f)
+
+    new_data = machine_translate_single("Tutorial.bin", data)
+
+    with open("translated_tutorial.json", "w", encoding="cp932") as f:
         json.dump(new_data, f, indent=4)
 
 
@@ -93,3 +118,6 @@ if __name__ == "__main__":
 
     # Machine translate dumped help/HelpText.bin file
     translate_helptext_file()
+
+    # Machine translate dumped tutorial/Tutorial.bin file
+    translate_tutorial_file()

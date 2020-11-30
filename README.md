@@ -19,4 +19,6 @@
 | final pointer + 0x08 | 0x04     |             00 00 00 00 | >I    | Unknown value, unsure type (assumed is unsigned integer), may be flags or extra data |
 | final pointer + 0x0C | variable |                   01 00 | char* | Could be any value, terminated with 0x00, goes on until end of file                  |
 ## help/HelpText.bin
-Constant `0x5E` throughout file, first part is a big endian 4 byte int (unknown usage), rest is a string terminated with `0x00`
+Constant `0x5E` throughout the file, first part is a big endian 4 byte int (unknown usage), rest is a string terminated with `0x00`
+## tutorial/Tutorial.bin
+Constant `0x20` throughout the file, all are strings terminated with `0x00`
