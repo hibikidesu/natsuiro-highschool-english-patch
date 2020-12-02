@@ -2,9 +2,16 @@
 
 # Installation
 1. Unpack `npg10.cpk` from `dev_hdd0/game/BLJS10273_INSTALLDATA/USRDIR/DSC/Install` using a cpk unpacker into a folder somewhere
-2. Download the `translated/` folder from [Releases](https://github.com/hibikidesu/natsuiro-highschool-english-patch/releases) or from this repo and replace the files to your unpacked directory
-3. Repack your unpacked cpk directory using CRI File System Tools with compression disabled as it seems to crash the game.
-4. Send your newly packed .cpk file back where you got it from on your ps3
+2. Download the `translated/` folder from [Releases](https://github.com/hibikidesu/natsuiro-highschool-english-patch/releases) or from this repo and replace the files from folder `translated/npg10/` to your unpacked directory.
+4. Repack your unpacked cpk directory using CRI File System Tools with compression disabled as it seems to crash the game.
+5. Send your newly packed .cpk file back where you got it from on your ps3
+
+# For people with the 1.01 patch
+The 1.01 patch causes scripts to be replaced with an updated package file making the `npg10.cpk` `script/` folder useless
+1. Follow previous installation instructions
+2. Unpack `npg11.cpk` from `dev_hdd0/game/BLJS10273/USRDIR/DSC/Patch` using a cpk unpacker into a folder somewhere
+3. From the `translated/` folder you downloaded in the installation steps, do the same but move contents of `translated/npg11/` to your extracted `npg11.cpk` folder
+4. Do steps 4 and 5 of the installation steps.
 
 # TODO
 - .cat file format dumping
