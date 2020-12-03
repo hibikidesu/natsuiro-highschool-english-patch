@@ -52,7 +52,7 @@ def build_scripts():
                     # Check if patch under limit
                     size = config[patch]["size"]
                     content = config[patch]["content"]
-                    if len(content) >= int(size):
+                    if len(content) > int(size):
                         print(f"{file} @ {patch} oversize {len(content)}/{size}")
                     else:
                         f.seek(int(patch, 16))
