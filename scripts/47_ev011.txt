@@ -1,0 +1,964 @@
+[0x65c50]
+size = 39
+content = めぐ同行取材EV011：樋口ゆかり（文芸部）
+
+[0x65c78]
+size = 4
+content = めぐ
+
+[0x65c7d]
+size = 15
+content = 001001iv0110010
+
+[0x65c8d]
+size = 12
+content = 失礼します。
+
+[0x65c9a]
+size = 20
+content = 報道部の三日月です。
+
+[0x65cb0]
+size = 10
+content = 樋口ゆかり
+
+[0x65cbb]
+size = 15
+content = 280001iv0110020
+
+[0x65ccb]
+size = 18
+content = ああ、こんにちは。
+
+[0x65cde]
+size = 20
+content = 私が部長の樋口です。
+
+[0x65cf3]
+size = 12
+content = どうぞ中へ。
+
+[0x65d00]
+size = 15
+content = 001001iv0110030
+
+[0x65d10]
+size = 15
+content = 001001iv0110040
+
+[0x65d20]
+size = 32
+content = 今日は樋口先輩、おひとりですか？
+
+[0x65d41]
+size = 15
+content = 280001iv0110050
+
+[0x65d51]
+size = 16
+content = たまたま……ね。
+
+[0x65d62]
+size = 30
+content = 報道部の取材があるって言ったら
+
+[0x65d81]
+size = 28
+content = みんな遠慮しちゃったみたい。
+
+[0x65d9e]
+size = 15
+content = 001001iv0110060
+
+[0x65dae]
+size = 28
+content = シャイな部員が多いんですね。
+
+[0x65dcb]
+size = 15
+content = 280001iv0110070
+
+[0x65ddb]
+size = 14
+content = 文芸部だから。
+
+[0x65dea]
+size = 8
+content = 割り込み
+
+[0x65df3]
+size = 12
+content = ○○○○○○
+
+[0x65e00]
+size = 20
+content = お話し中すみません。
+
+[0x65e15]
+size = 20
+content = 報道部の○○○です。
+
+[0x65e2a]
+size = 28
+content = 今日はよろしくお願いします。
+
+[0x65e47]
+size = 15
+content = 280001iv0110080
+
+[0x65e57]
+size = 22
+content = よろしくお願いします。
+
+[0x65e6e]
+size = 24
+content = 聞いてくださいよ、先輩。
+
+[0x65e87]
+size = 44
+content = オレって、いつもこうして無視されるんですよ。
+
+[0x65eb4]
+size = 22
+content = ひどいと思いませんか？
+
+[0x65ecb]
+size = 15
+content = 001001iv0110090
+
+[0x65edb]
+size = 16
+content = そんな事ないよ。
+
+[0x65eec]
+size = 36
+content = ちょっと取材の方に夢中で……ごめん。
+
+[0x65f11]
+size = 15
+content = 280001iv0110100
+
+[0x65f21]
+size = 34
+content = 私も、気が付かなくてごめんなさい。
+
+[0x65f44]
+size = 38
+content = あ、いや、先輩は全然悪くないですって。
+
+[0x65f6b]
+size = 30
+content = そんな事気にしないでください。
+
+[0x65f8a]
+size = 15
+content = 001001iv0110110
+
+[0x65f9a]
+size = 6
+content = そう？
+
+[0x65fa1]
+size = 10
+content = 良かった。
+
+[0x65fac]
+size = 20
+content = ありがと、あなっち。
+
+[0x65fc1]
+size = 28
+content = 三日月、キミじゃないよ……。
+
+[0x65fde]
+size = 12
+content = 割り込みなし
+
+[0x65feb]
+size = 15
+content = 001001iv0110120
+
+[0x65ffb]
+size = 24
+content = そういうものなんですか。
+
+[0x66014]
+size = 15
+content = 001001iv0110130
+
+[0x66024]
+size = 16
+content = あ、すみません。
+
+[0x66035]
+size = 18
+content = 申し遅れましたが、
+
+[0x66048]
+size = 34
+content = こちらは同じ報道部のあなっちです。
+
+[0x6606b]
+size = 15
+content = 280001iv0110140
+
+[0x6607b]
+size = 32
+content = あだ名で呼び合うっていいですね。
+
+[0x6609c]
+size = 15
+content = 001001iv0110150
+
+[0x660ac]
+size = 28
+content = 実は私たち、幼馴染なんです！
+
+[0x660c9]
+size = 15
+content = 280001iv0110160
+
+[0x660d9]
+size = 22
+content = まぁ……うらやましい。
+
+[0x660f0]
+size = 40
+content = お２人には色んな歴史があるんでしょうね。
+
+[0x66119]
+size = 42
+content = いや、全然そんなたいした事ありませんから。
+
+[0x66144]
+size = 34
+content = 久しぶりに再会したばっかりなんで。
+
+[0x66167]
+size = 15
+content = 001001iv0110170
+
+[0x66177]
+size = 18
+content = んもう、あなっち！
+
+[0x6618a]
+size = 26
+content = ちゃんと色々あるでしょ！！
+
+[0x661a5]
+size = 16
+content = え、そうだっけ？
+
+[0x661b6]
+size = 15
+content = 001001iv0110180
+
+[0x661c6]
+size = 10
+content = そうなの！
+
+[0x661d1]
+size = 15
+content = 280001iv0110190
+
+[0x661e1]
+size = 30
+content = まぁまぁ２人とも、落ち着いて。
+
+[0x66200]
+size = 15
+content = 001001iv0110200
+
+[0x66210]
+size = 20
+content = あ、すみません……。
+
+[0x66225]
+size = 15
+content = 001001iv0110210
+
+[0x66235]
+size = 32
+content = では取材に入らせていただきます。
+
+[0x66256]
+size = 42
+content = まずは文芸部の活動について教えてください。
+
+[0x66281]
+size = 15
+content = 280001iv0110220
+
+[0x66291]
+size = 34
+content = 私たち文芸部は、詩や文学・小説など
+
+[0x662b4]
+size = 44
+content = 様々な文芸作品を愛好する人たちの集まりです。
+
+[0x662e1]
+size = 15
+content = 280001iv0110230
+
+[0x662f1]
+size = 18
+content = 主な活動としては、
+
+[0x66304]
+size = 42
+content = 不定期発行している文集「はかなぎ」の制作と
+
+[0x6632f]
+size = 38
+content = 年２回行っている本土の施設慰問ですね。
+
+[0x66356]
+size = 15
+content = 001001iv0110240
+
+[0x66366]
+size = 26
+content = 本土の施設慰問というのは？
+
+[0x66381]
+size = 15
+content = 280001iv0110250
+
+[0x66391]
+size = 8
+content = 図書館や
+
+[0x6639a]
+size = 38
+content = 養護施設を訪問して、紙芝居や読み聞かせ
+
+[0x663c1]
+size = 14
+content = をしているの。
+
+[0x663d0]
+size = 15
+content = 001001iv0110260
+
+[0x663e0]
+size = 30
+content = そんな活動をしていたんですね。
+
+[0x663ff]
+size = 22
+content = 全然知りませんでした。
+
+[0x66416]
+size = 15
+content = 280001iv0110270
+
+[0x66426]
+size = 46
+content = そうね、たぶん文芸部の部員しか知らないと思う。
+
+[0x66455]
+size = 36
+content = 学内で宣伝するような事でもないから。
+
+[0x6647a]
+size = 15
+content = 001001iv0110280
+
+[0x6648a]
+size = 48
+content = 今度是非その本土慰問の時に取材をさせてください。
+
+[0x664bb]
+size = 34
+content = せっかく有意義な活動をしているのに
+
+[0x664de]
+size = 20
+content = もったいないですよ！
+
+[0x664f3]
+size = 15
+content = 280001iv0110290
+
+[0x66503]
+size = 38
+content = それはいいけど、施設の方やお客さんには
+
+[0x6652a]
+size = 24
+content = 充分配慮してくださいね。
+
+[0x66543]
+size = 15
+content = 001001iv0110300
+
+[0x66553]
+size = 20
+content = はい、わかりました。
+
+[0x66568]
+size = 42
+content = あの、もう一つの文集っていうのは何ですか？
+
+[0x66593]
+size = 15
+content = 001001iv0110310
+
+[0x665a3]
+size = 26
+content = あ、私もそれ知りたいです！
+
+[0x665be]
+size = 15
+content = 280001iv0110320
+
+[0x665ce]
+size = 20
+content = 「はかなぎ」の事ね。
+
+[0x665e3]
+size = 15
+content = 280001iv0110330
+
+[0x665f3]
+size = 24
+content = 以前は年に４回、季節毎に
+
+[0x6660c]
+size = 30
+content = 定期発行していたらしいんだけど
+
+[0x6662b]
+size = 48
+content = さすがにそのペースは維持できなくなったみたいで。
+
+[0x6665c]
+size = 15
+content = 280001iv0110340
+
+[0x6666c]
+size = 46
+content = 私が入部した頃にはもう不定期発行になってたわ。
+
+[0x6669b]
+size = 24
+content = それでも何とか年に１回、
+
+[0x666b4]
+size = 42
+content = 夢高祭には間に合わせようってやってきたの。
+
+[0x666df]
+size = 15
+content = 001001iv0110350
+
+[0x666ef]
+size = 24
+content = 今年の夢高祭はどうです？
+
+[0x66708]
+size = 20
+content = 発行できそうですか？
+
+[0x6671d]
+size = 15
+content = 280001iv0110360
+
+[0x6672d]
+size = 28
+content = う～ん、ギリギリってとこね。
+
+[0x6674a]
+size = 34
+content = かく言う私も、まだ校了してないの。
+
+[0x6676d]
+size = 42
+content = 部長自らこの有様で……ホント情けないわね。
+
+[0x66798]
+size = 30
+content = でもまだ１ヶ月以上ありますし。
+
+[0x667b7]
+size = 32
+content = 大丈夫ですよ、頑張ってください。
+
+[0x667d8]
+size = 15
+content = 280001iv0110370
+
+[0x667e8]
+size = 12
+content = ありがとう。
+
+[0x667f5]
+size = 34
+content = もちろん諦めるつもりは毛頭ないわ。
+
+[0x66818]
+size = 15
+content = 280001iv0110380
+
+[0x66828]
+size = 30
+content = 私の代で、発行が止まったなんて
+
+[0x66847]
+size = 26
+content = 絶対に言われたくないもの！
+
+[0x66862]
+size = 15
+content = 001001iv0110390
+
+[0x66872]
+size = 14
+content = ファイトです！
+
+[0x66881]
+size = 14
+content = 樋口先輩っ！！
+
+[0x66890]
+size = 44
+content = ちなみになんですけど、文集の名前になっている
+
+[0x668bd]
+size = 40
+content = 「はかなぎ」ってどういう由来なんですか？
+
+[0x668e6]
+size = 15
+content = 280001iv0110400
+
+[0x668f6]
+size = 14
+content = ああ、それね。
+
+[0x66905]
+size = 30
+content = 実は私も知りたいくらいなのよ。
+
+[0x66924]
+size = 48
+content = お盆に墓を掃除する事じゃないのは確かなんだけど。
+
+[0x66955]
+size = 34
+content = そう言えばオレ、お盆の墓参りなんて
+
+[0x66978]
+size = 26
+content = 何年行ってなかったかなぁ？
+
+[0x66993]
+size = 15
+content = 001001iv0110410
+
+[0x669a3]
+size = 18
+content = あなっち、ダメよ。
+
+[0x669b6]
+size = 34
+content = ご先祖様の供養はちゃんとしないと。
+
+[0x669d9]
+size = 34
+content = ああご先祖さまっ、ごめんなさい！！
+
+[0x669fc]
+size = 15
+content = 001001iv0110420
+
+[0x66a0c]
+size = 30
+content = ところで、そうじゃないとなると
+
+[0x66a2b]
+size = 46
+content = どういう意味なんでしょうね、「はかなぎ」って。
+
+[0x66a5a]
+size = 15
+content = 280001iv0110430
+
+[0x66a6a]
+size = 46
+content = 幾つか文芸部の先輩たちから語り継がれている話は
+
+[0x66a99]
+size = 34
+content = あるんだけれど、どれも眉唾なのよ。
+
+[0x66abc]
+size = 15
+content = 280001iv0110440
+
+[0x66acc]
+size = 30
+content = 儚い気持ちを縮めたものだとか、
+
+[0x66aeb]
+size = 26
+content = 逆凪が変化したものだとか、
+
+[0x66b06]
+size = 38
+content = 島の伝承に由来する名前から取ったとか。
+
+[0x66b2d]
+size = 15
+content = 001001iv0110450
+
+[0x66b3d]
+size = 48
+content = う～ん、確かにどれもいまひとつピンと来ませんね。
+
+[0x66b6e]
+size = 24
+content = オレは島の伝承説に一票！
+
+[0x66b87]
+size = 30
+content = なんだかロマンがありそうだし。
+
+[0x66ba6]
+size = 15
+content = 280001iv0110460
+
+[0x66bb6]
+size = 30
+content = でもその伝承がどんなものかとか
+
+[0x66bd5]
+size = 32
+content = 伝承の何から名前を取ったのかまで
+
+[0x66bf6]
+size = 36
+content = 何一つ具体的な事はわかってないのよ。
+
+[0x66c1b]
+size = 15
+content = 001001iv0110470
+
+[0x66c2b]
+size = 16
+content = 謎めいてますね。
+
+[0x66c3c]
+size = 15
+content = 280001iv0110480
+
+[0x66c4c]
+size = 38
+content = でもなんだか、優しいような悲しいような
+
+[0x66c73]
+size = 38
+content = 不思議な響きの言葉だから、私は好きよ。
+
+[0x66c9a]
+size = 15
+content = 280001iv0110490
+
+[0x66caa]
+size = 30
+content = 今年の「はかなぎ」が完成したら
+
+[0x66cc9]
+size = 28
+content = 是非お２人にも見て欲しいわ。
+
+[0x66ce6]
+size = 15
+content = 001001iv0110500
+
+[0x66cf6]
+size = 28
+content = はいっ、楽しみにしています。
+
+[0x66d13]
+size = 15
+content = 280001iv0110510
+
+[0x66d23]
+size = 26
+content = それにしても、遅いわねぇ。
+
+[0x66d3e]
+size = 50
+content = みんな、本当に今日は部室に来ないつもりなのかしら？
+
+[0x66d71]
+size = 15
+content = 001001iv0110520
+
+[0x66d81]
+size = 32
+content = ちなみに文芸部の現在の部員数は？
+
+[0x66da2]
+size = 15
+content = 280001iv0110530
+
+[0x66db2]
+size = 20
+content = 私を含めて８人です。
+
+[0x66dc7]
+size = 26
+content = もう少し人数がいてくれると
+
+[0x66de2]
+size = 38
+content = 文集の制作もラクになるんですけど……。
+
+[0x66e09]
+size = 15
+content = 001001iv0110540
+
+[0x66e19]
+size = 32
+content = ８人もいれば充分じゃないですか。
+
+[0x66e3a]
+size = 46
+content = うちなんてやっと５人そろったばかりなんですよ。
+
+[0x66e69]
+size = 24
+content = ちなみにその５人目です。
+
+[0x66e82]
+size = 15
+content = 280001iv0110550
+
+[0x66e92]
+size = 26
+content = まぁ、そうだったんですか。
+
+[0x66ead]
+size = 42
+content = そうですね、贅沢な悩みなのかもしれません。
+
+[0x66ed8]
+size = 15
+content = 001001iv0110560
+
+[0x66ee8]
+size = 26
+content = 取材の方は以上となります。
+
+[0x66f03]
+size = 30
+content = ご協力ありがとうございました。
+
+[0x66f22]
+size = 15
+content = 280001iv0110570
+
+[0x66f32]
+size = 34
+content = こちらこそ、ありがとうございます。
+
+[0x66f55]
+size = 34
+content = 最後に写真を一枚撮らせてください。
+
+[0x66f78]
+size = 15
+content = 280001iv0110580
+
+[0x66f88]
+size = 20
+content = 私ひとりの、ですか？
+
+[0x66f9d]
+size = 12
+content = はい、是非。
+
+[0x66faa]
+size = 15
+content = 280001iv0110590
+
+[0x66fba]
+size = 14
+content = わかりました。
+
+[0x66fc9]
+size = 28
+content = でも、もし何かで使う時には、
+
+[0x66fe6]
+size = 34
+content = 出来るだけ小さく扱ってくださいね。
+
+[0x67009]
+size = 15
+content = 001001iv0110600
+
+[0x67019]
+size = 28
+content = わかりました。　善処します。
+
+[0x67036]
+size = 28
+content = はい、それじゃ撮りますね～。
+
+[0x67053]
+size = 22
+content = たけくらべ、っと……。
+
+[0x6706a]
+size = 14
+content = オッケーです。
+
+[0x67079]
+size = 24
+content = ありがとうございました。
+
+[0x67092]
+size = 15
+content = 280001iv0110610
+
+[0x670a2]
+size = 26
+content = ……あの、好きなんですか？
+
+[0x670bd]
+size = 10
+content = 樋口一葉。
+
+[0x670c8]
+size = 44
+content = いやぁ、それくらいしか作品が思いつかなくて。
+
+[0x670f5]
+size = 38
+content = 恥ずかしながら、読んだ事もないんです。
+
+[0x6711c]
+size = 18
+content = どうもすみません。
+
+[0x6712f]
+size = 15
+content = 280001iv0110620
+
+[0x6713f]
+size = 32
+content = いいえ、こちらこそ失礼しました。
+
+[0x67160]
+size = 22
+content = でも、嬉しかったです。
+
+[0x67177]
+size = 16
+content = ど、どうも……。
+
+[0x67188]
+size = 24
+content = （なんか恥ずかしいかも）
+
+[0x671a1]
+size = 15
+content = 001001iv0110630
+
+[0x671b1]
+size = 26
+content = それではこれで失礼します。
+
+[0x671cc]
+size = 16
+content = お疲れ様でした。
+
+[0x671dd]
+size = 15
+content = 001001iv0110640
+
+[0x671ed]
+size = 26
+content = あなっちのあのヘンな言葉で
+
+[0x67208]
+size = 38
+content = 喜ぶ人がいるなんて……信じられないッ！
+
+[0x6722f]
+size = 34
+content = いやいや、今目の前で見てたでしょ。
+
+[0x67252]
+size = 40
+content = 現実から目を背けてはいけないよ、三日月。
+
+[0x6727b]
+size = 15
+content = 001001iv0110650
+
+[0x6728b]
+size = 26
+content = んもう、なんか悔しいっ！！
+
+[0x672a6]
+size = 32
+content = フフフ、せいぜい悔しがるがよい。
+
+[0x672c7]
+size = 15
+content = 001001iv0110660
+
+[0x672d7]
+size = 30
+content = いいから、早く部室に戻るわよ。
+
+[0x672f6]
+size = 10
+content = え、あれ？
+
+[0x67301]
+size = 32
+content = オレに勝利の余韻をもう少し……。
+
+[0x67322]
+size = 15
+content = 001001iv0110670
+
+[0x67332]
+size = 12
+content = 報道部心得！
+
+[0x6733f]
+size = 34
+content = ひとつ、成功に満足し慢心する勿れ。
+
+[0x67362]
+size = 24
+content = 常に謙虚に、常に真摯に。
+
+[0x6737b]
+size = 24
+content = ちぇっ、いいじゃん別に。
+
+[0x67394]
+size = 28
+content = 厳しすぎるんだよ、三日月は。
+
+[0x673b1]
+size = 15
+content = 001001iv0110680
+
+[0x673c1]
+size = 18
+content = つべこべ言わない。
+
+[0x673d4]
+size = 25
+content = めぐ同行取材EV011：樋口ゆ
+

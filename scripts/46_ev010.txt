@@ -1,0 +1,1608 @@
+[0x61480]
+size = 45
+content = めぐ同行取材EV010：今田莞爾（行事企画委員会）
+
+[0x614ae]
+size = 4
+content = めぐ
+
+[0x614b3]
+size = 15
+content = 001001iv0100010
+
+[0x614c3]
+size = 12
+content = 失礼します。
+
+[0x614d0]
+size = 34
+content = 行事企画委員会はこちらでしょうか？
+
+[0x614f4]
+size = 6
+content = 李美帆
+
+[0x614fb]
+size = 15
+content = 247001iv0100020
+
+[0x6150b]
+size = 6
+content = メグ！
+
+[0x61512]
+size = 24
+content = どうした、何か用アルか？
+
+[0x6152b]
+size = 12
+content = ○○○○○○
+
+[0x61538]
+size = 8
+content = ！！！！
+
+[0x61541]
+size = 32
+content = （なんだ？　三日月の知り合い？）
+
+[0x61562]
+size = 15
+content = 001001iv0100030
+
+[0x61572]
+size = 16
+content = あ、メイファン。
+
+[0x61583]
+size = 26
+content = 違うの、報道部の仕事でね。
+
+[0x6159e]
+size = 34
+content = 委員長の今田さんに用事なんだけど？
+
+[0x615c1]
+size = 15
+content = 247001iv0100040
+
+[0x615d1]
+size = 8
+content = イマダ？
+
+[0x615da]
+size = 26
+content = ああ、カンジのことアルね。
+
+[0x615f5]
+size = 15
+content = 247001iv0100050
+
+[0x61605]
+size = 10
+content = カンジー！
+
+[0x61610]
+size = 14
+content = お客さんアル。
+
+[0x6161f]
+size = 8
+content = 今田莞爾
+
+[0x61628]
+size = 15
+content = 337001iv0100060
+
+[0x61638]
+size = 20
+content = なんだよメイファン。
+
+[0x6164d]
+size = 15
+content = 337001iv0100070
+
+[0x6165d]
+size = 32
+content = あ、キミたちはもしかして報道部？
+
+[0x6167e]
+size = 15
+content = 001001iv0100080
+
+[0x6168e]
+size = 24
+content = はい、三日月といいます。
+
+[0x616a7]
+size = 18
+content = 同じく○○○です。
+
+[0x616ba]
+size = 15
+content = 337001iv0100090
+
+[0x616ca]
+size = 48
+content = うん、自己紹介はいいからとりあえずこっち来てよ。
+
+[0x616fb]
+size = 15
+content = 001001iv0100100
+
+[0x6170b]
+size = 6
+content = はい。
+
+[0x61712]
+size = 20
+content = では、お邪魔します。
+
+[0x61727]
+size = 15
+content = 337001iv0100110
+
+[0x61737]
+size = 46
+content = 今日は確かうちの委員会の取材って事だったよね？
+
+[0x61766]
+size = 15
+content = 001001iv0100120
+
+[0x61776]
+size = 34
+content = はい、どうかよろしくお願いします。
+
+[0x61799]
+size = 15
+content = 337001iv0100130
+
+[0x617a9]
+size = 34
+content = で、まずは何から話せばいいのかな。
+
+[0x617cc]
+size = 42
+content = よければ先にうちのメンバーを紹介させてよ。
+
+[0x617f7]
+size = 15
+content = 001001iv0100140
+
+[0x61807]
+size = 10
+content = あ、はい。
+
+[0x61812]
+size = 18
+content = 是非お願いします。
+
+[0x61825]
+size = 38
+content = （なんか、いきなり相手のペースだなぁ）
+
+[0x6184c]
+size = 15
+content = 337001iv0100150
+
+[0x6185c]
+size = 18
+content = それじゃ、みんな！
+
+[0x6186f]
+size = 34
+content = ちょっとこっち集まってくれないか。
+
+[0x61892]
+size = 34
+content = 報道部の人たちに軽く紹介するから。
+
+[0x618b5]
+size = 15
+content = 247001iv0100160
+
+[0x618c5]
+size = 10
+content = はいアル。
+
+[0x618d0]
+size = 8
+content = 足軽周治
+
+[0x618d9]
+size = 15
+content = 292001iv0100170
+
+[0x618e9]
+size = 20
+content = お、報道部キタコレ！
+
+[0x618fe]
+size = 8
+content = 藤沢美流
+
+[0x61907]
+size = 15
+content = 238001iv0100180
+
+[0x61917]
+size = 8
+content = は～い。
+
+[0x61920]
+size = 10
+content = 沙童こより
+
+[0x6192b]
+size = 15
+content = 145001iv0100190
+
+[0x6193b]
+size = 14
+content = お供しま～す。
+
+[0x6194a]
+size = 6
+content = 北川臣
+
+[0x61951]
+size = 15
+content = 176001iv0100200
+
+[0x61961]
+size = 10
+content = 了解です！
+
+[0x6196c]
+size = 8
+content = 設楽夕貴
+
+[0x61975]
+size = 15
+content = 117001iv0100210
+
+[0x61985]
+size = 14
+content = わかりました。
+
+[0x61994]
+size = 10
+content = 茉莉千園実
+
+[0x6199f]
+size = 15
+content = 122001iv0100220
+
+[0x619af]
+size = 16
+content = 夕貴、待ってよ！
+
+[0x619c0]
+size = 8
+content = 池田星良
+
+[0x619c9]
+size = 15
+content = 318001iv0100230
+
+[0x619d9]
+size = 30
+content = カンジ君、みんな集まったわよ。
+
+[0x619f8]
+size = 15
+content = 337001iv0100240
+
+[0x61a08]
+size = 6
+content = うん。
+
+[0x61a0f]
+size = 34
+content = え～っと、漆原は……またサボリか。
+
+[0x61a32]
+size = 24
+content = しょうがないヤツだなぁ。
+
+[0x61a4b]
+size = 15
+content = 337001iv0100250
+
+[0x61a5b]
+size = 32
+content = ま、ここにいる１０人の他に１人。
+
+[0x61a7c]
+size = 40
+content = オレたち行企のメンバーは全部で１１人だ。
+
+[0x61aa5]
+size = 34
+content = そっちの方から順に紹介すると……。
+
+[0x61ac8]
+size = 15
+content = 337001iv0100260
+
+[0x61ad8]
+size = 22
+content = １年Ａ組の茉莉千園実。
+
+[0x61aef]
+size = 15
+content = 122001iv0100270
+
+[0x61aff]
+size = 12
+content = こんにちは。
+
+[0x61b0c]
+size = 15
+content = 337001iv0100280
+
+[0x61b1c]
+size = 24
+content = 同じく１年Ａ組の設楽夕貴
+
+[0x61b35]
+size = 15
+content = 117001iv0100290
+
+[0x61b45]
+size = 22
+content = よろしくお願いします。
+
+[0x61b5c]
+size = 15
+content = 337001iv0100300
+
+[0x61b6c]
+size = 22
+content = １年Ｂ組の沙童こより。
+
+[0x61b83]
+size = 15
+content = 145001iv0100310
+
+[0x61b93]
+size = 24
+content = よろしくお願いしま～す。
+
+[0x61bac]
+size = 15
+content = 337001iv0100320
+
+[0x61bbc]
+size = 18
+content = １年Ｃ組の井倉学。
+
+[0x61bcf]
+size = 6
+content = 井倉学
+
+[0x61bd6]
+size = 15
+content = 175001iv0100330
+
+[0x61be6]
+size = 12
+content = ……どうも。
+
+[0x61bf3]
+size = 15
+content = 337001iv0100340
+
+[0x61c03]
+size = 24
+content = 同じく１年Ｃ組の北川臣。
+
+[0x61c1c]
+size = 15
+content = 176001iv0100350
+
+[0x61c2c]
+size = 36
+content = こんにちは！　よろしくお願いします！
+
+[0x61c51]
+size = 15
+content = 337001iv0100360
+
+[0x61c61]
+size = 26
+content = 続いて２年Ｂ組の藤沢美流。
+
+[0x61c7c]
+size = 24
+content = 彼女は行企２年目の子だ。
+
+[0x61c95]
+size = 15
+content = 238001iv0100370
+
+[0x61ca5]
+size = 28
+content = えへへ、お仕事ご苦労様です。
+
+[0x61cc2]
+size = 12
+content = あ、どうも。
+
+[0x61ccf]
+size = 30
+content = （同じクラスの藤沢さんか……）
+
+[0x61cee]
+size = 15
+content = 337001iv0100380
+
+[0x61cfe]
+size = 26
+content = ２年Ｃ組のリーメイファン。
+
+[0x61d19]
+size = 20
+content = 香港からの留学生だ。
+
+[0x61d2e]
+size = 15
+content = 247001iv0100390
+
+[0x61d3e]
+size = 16
+content = こんにちわアル。
+
+[0x61d4f]
+size = 24
+content = メグ、頑張ってるアルね。
+
+[0x61d68]
+size = 15
+content = 337001iv0100400
+
+[0x61d78]
+size = 50
+content = で、次がオレと１年の時からいっしょに行企をやってる
+
+[0x61dab]
+size = 16
+content = ３Ａの足軽周治。
+
+[0x61dbc]
+size = 15
+content = 292001iv0100410
+
+[0x61dcc]
+size = 8
+content = どうも！
+
+[0x61dd5]
+size = 22
+content = 我らが行企へようこそ。
+
+[0x61dec]
+size = 15
+content = 337001iv0100420
+
+[0x61dfc]
+size = 38
+content = うちの副委員長で学園マドンナのひとり、
+
+[0x61e23]
+size = 20
+content = ３Ｂの池田星良さん。
+
+[0x61e38]
+size = 15
+content = 318001iv0100430
+
+[0x61e48]
+size = 12
+content = よろしくね。
+
+[0x61e55]
+size = 15
+content = 337001iv0100440
+
+[0x61e65]
+size = 36
+content = 最後にオレが、行企委員長の今田莞爾。
+
+[0x61e8a]
+size = 32
+content = １年から行企一筋でやってきたから
+
+[0x61eab]
+size = 44
+content = 学校行事の事なら何でもオレに聞いてくれよな。
+
+[0x61ed8]
+size = 15
+content = 001001iv0100450
+
+[0x61ee8]
+size = 40
+content = ご紹介いただき、ありがとうございました。
+
+[0x61f11]
+size = 30
+content = いくつか質問させていただいても
+
+[0x61f30]
+size = 16
+content = よろしいですか？
+
+[0x61f41]
+size = 15
+content = 337001iv0100460
+
+[0x61f51]
+size = 10
+content = もちろん。
+
+[0x61f5c]
+size = 15
+content = 001001iv0100470
+
+[0x61f6c]
+size = 34
+content = ではまず行事企画委員の活動について
+
+[0x61f8f]
+size = 26
+content = 簡単に説明をお願いします。
+
+[0x61faa]
+size = 15
+content = 337001iv0100480
+
+[0x61fba]
+size = 26
+content = じゃ、セイラさんよろしく。
+
+[0x61fd5]
+size = 15
+content = 318001iv0100490
+
+[0x61fe5]
+size = 22
+content = もう、カンジ君ったら。
+
+[0x61ffc]
+size = 18
+content = しょうがないわね。
+
+[0x6200f]
+size = 15
+content = 318001iv0100500
+
+[0x6201f]
+size = 42
+content = 行事企画委員会、略して行企って言うんだけど
+
+[0x6204a]
+size = 50
+content = 夢高の学校行事全般の企画立案・運営を行っているの。
+
+[0x6207d]
+size = 15
+content = 318001iv0100510
+
+[0x6208d]
+size = 38
+content = 夢高最大のイベントである夢高祭をはじめ
+
+[0x620b4]
+size = 42
+content = 運動会、新入生歓迎会、卒業記念パーティまで
+
+[0x620df]
+size = 32
+content = 冬以外はずっと忙しくしてるわね。
+
+[0x62100]
+size = 15
+content = 001001iv0100520
+
+[0x62110]
+size = 34
+content = 確かに冬は特に何もありませんよね。
+
+[0x62133]
+size = 15
+content = 318001iv0100530
+
+[0x62143]
+size = 28
+content = 受験シーズンに入るから……。
+
+[0x62160]
+size = 44
+content = ３年生に気を使ってくれてるんじゃないかしら。
+
+[0x6218d]
+size = 15
+content = 337001iv0100540
+
+[0x6219d]
+size = 48
+content = オレは冬にも新しいイベントをやりたいんだけどね。
+
+[0x621ce]
+size = 32
+content = さすがに今年は自分が受験生だから
+
+[0x621ef]
+size = 18
+content = もう難しいかなぁ。
+
+[0x62202]
+size = 15
+content = 318001iv0100550
+
+[0x62212]
+size = 40
+content = あら、カンジ君は推薦狙いじゃなかったの？
+
+[0x6223b]
+size = 15
+content = 292001iv0100560
+
+[0x6224b]
+size = 28
+content = そういやそんな事言ってたな。
+
+[0x62268]
+size = 22
+content = どうなんだよ、カンジ？
+
+[0x6227f]
+size = 15
+content = 337001iv0100570
+
+[0x6228f]
+size = 26
+content = え、そんなプライベートな事
+
+[0x622aa]
+size = 32
+content = 今ここで発表しなきゃいけないの？
+
+[0x622cb]
+size = 15
+content = 001001iv0100580
+
+[0x622db]
+size = 20
+content = いえ、私たちは別に。
+
+[0x622f0]
+size = 15
+content = 292001iv0100590
+
+[0x62300]
+size = 26
+content = いいじゃん、言っちゃえよ。
+
+[0x6231b]
+size = 15
+content = 318001iv0100600
+
+[0x6232b]
+size = 24
+content = そうよ、私も知りたいわ。
+
+[0x62344]
+size = 15
+content = 238001iv0100610
+
+[0x62354]
+size = 26
+content = 今田先輩、推薦なんですか？
+
+[0x6236f]
+size = 18
+content = わぁ～、すごい！！
+
+[0x62382]
+size = 15
+content = 337001iv0100620
+
+[0x62392]
+size = 20
+content = うるせーよ、お前ら。
+
+[0x623a7]
+size = 30
+content = わかったよ、言えばいいんだろ。
+
+[0x623c6]
+size = 15
+content = 337001iv0100630
+
+[0x623d6]
+size = 46
+content = こないだの進路相談で推薦受けたいって言ったけど
+
+[0x62405]
+size = 42
+content = 成績が足りないから無理って言われたんだよ！
+
+[0x62430]
+size = 30
+content = わかったらもうほっといてくれ。
+
+[0x6244f]
+size = 15
+content = 238001iv0100640
+
+[0x6245f]
+size = 14
+content = あ～…………。
+
+[0x6246e]
+size = 15
+content = 318001iv0100650
+
+[0x6247e]
+size = 30
+content = ……ごめんなさいね、カンジ君。
+
+[0x6249d]
+size = 15
+content = 292001iv0100660
+
+[0x624ad]
+size = 22
+content = オ、オレは悪くねぇぞ。
+
+[0x624c4]
+size = 32
+content = 池田が言いだしっぺなんだからな。
+
+[0x624e5]
+size = 15
+content = 247001iv0100670
+
+[0x624f5]
+size = 22
+content = カンジ、元気出すアル。
+
+[0x6250c]
+size = 24
+content = ウーロン茶入れるアルか？
+
+[0x62525]
+size = 15
+content = 337001iv0100680
+
+[0x62535]
+size = 16
+content = いらないアルよ。
+
+[0x62546]
+size = 36
+content = 気持ちだけもらっとくよ、リーファン。
+
+[0x6256b]
+size = 15
+content = 001001iv0100690
+
+[0x6257b]
+size = 40
+content = あの……取材の方、続けてよろしいですか？
+
+[0x625a4]
+size = 15
+content = 337001iv0100700
+
+[0x625b4]
+size = 12
+content = いいアルよ。
+
+[0x625c1]
+size = 15
+content = 337001iv0100710
+
+[0x625d1]
+size = 18
+content = ……じゃなかった。
+
+[0x625e4]
+size = 18
+content = 続けてくれ、頼む。
+
+[0x625f7]
+size = 15
+content = 001001iv0100720
+
+[0x62607]
+size = 14
+content = ……は、はい。
+
+[0x62616]
+size = 15
+content = 001001iv0100730
+
+[0x62626]
+size = 46
+content = 行事企画員会では常勤と非常勤があるそうですけど
+
+[0x62655]
+size = 48
+content = 非常勤の人っていうのは、どうなっているんですか？
+
+[0x62686]
+size = 15
+content = 337001iv0100740
+
+[0x62696]
+size = 34
+content = ああ、それはイベント毎に募集される
+
+[0x626b9]
+size = 24
+content = 臨時の行企委員の事だよ。
+
+[0x626d2]
+size = 15
+content = 337001iv0100750
+
+[0x626e2]
+size = 44
+content = 例えば、運動会や夢高祭のような大きな行事だと
+
+[0x6270f]
+size = 36
+content = オレたちだけじゃ人手が足りなくてね。
+
+[0x62734]
+size = 15
+content = 337001iv0100760
+
+[0x62744]
+size = 40
+content = だから、その時専用の助っ人みたいな感じで
+
+[0x6276d]
+size = 32
+content = 有志の生徒に手伝ってもらうんだ。
+
+[0x6278e]
+size = 50
+content = 夢高祭の時なんかは全部で３０人くらいになるんだぜ？
+
+[0x627c1]
+size = 15
+content = 001001iv0100770
+
+[0x627d1]
+size = 18
+content = ３０人も、ですか？
+
+[0x627e4]
+size = 28
+content = すごい大所帯になるんですね。
+
+[0x62801]
+size = 15
+content = 337001iv0100780
+
+[0x62811]
+size = 6
+content = ああ。
+
+[0x62818]
+size = 48
+content = でも、そんな時こそ委員長の腕の見せ所ってわけだ。
+
+[0x62849]
+size = 15
+content = 292001iv0100790
+
+[0x62859]
+size = 44
+content = ２年連続委員長のカンジ様の言葉は重いねぇ～。
+
+[0x62886]
+size = 15
+content = 337001iv0100800
+
+[0x62896]
+size = 20
+content = うるせぇよシュウジ！
+
+[0x628ab]
+size = 15
+content = 292001iv0100810
+
+[0x628bb]
+size = 22
+content = うぉ～、こえーこえー。
+
+[0x628d2]
+size = 15
+content = 001001iv0100820
+
+[0x628e2]
+size = 38
+content = １年から委員長やってらしたんですよね？
+
+[0x62909]
+size = 14
+content = すごいですね。
+
+[0x62918]
+size = 15
+content = 337001iv0100830
+
+[0x62928]
+size = 46
+content = １年の時は委員長って言っても名前ばっかりでさ。
+
+[0x62957]
+size = 48
+content = 実質３年が仕切ってたんだけど、立候補したオレの事
+
+[0x62988]
+size = 36
+content = 面白がって委員長に立ててくれたんだ。
+
+[0x629ad]
+size = 15
+content = 337001iv0100840
+
+[0x629bd]
+size = 30
+content = おかげで色んな経験が出来たから
+
+[0x629dc]
+size = 46
+content = ２年目はちゃんと自分で仕切る事が出来たんだよ。
+
+[0x62a0b]
+size = 15
+content = 001001iv0100850
+
+[0x62a1b]
+size = 20
+content = 苦労されたんですね。
+
+[0x62a30]
+size = 15
+content = 001001iv0100860
+
+[0x62a40]
+size = 38
+content = で、いよいよ集大成となる今度の夢高祭は
+
+[0x62a67]
+size = 44
+content = どんな風にするのか、展望を聞かせてください。
+
+[0x62a94]
+size = 15
+content = 337001iv0100870
+
+[0x62aa4]
+size = 24
+content = 今、集大成って言ったけど
+
+[0x62abd]
+size = 30
+content = ホント、オレもそう思っててさ。
+
+[0x62adc]
+size = 15
+content = 337001iv0100880
+
+[0x62aec]
+size = 24
+content = 夢高ならでは、っていうか
+
+[0x62b05]
+size = 50
+content = オレだから出来る最高の夢高祭にしたいって思ってる。
+
+[0x62b38]
+size = 8
+content = 割り込み
+
+[0x62b41]
+size = 42
+content = 具体的にはどんなアイディアがあるんですか？
+
+[0x62b6c]
+size = 15
+content = 337001iv0100890
+
+[0x62b7c]
+size = 48
+content = それは……まだうちの連中ともちゃんと決めてないし
+
+[0x62bad]
+size = 42
+content = ここでオレが勝手に言っちゃうのはちょっと。
+
+[0x62bd8]
+size = 15
+content = 292001iv0100900
+
+[0x62be8]
+size = 16
+content = なんだよカンジ！
+
+[0x62bf9]
+size = 34
+content = 思ってる事があるなら言ってくれよ！
+
+[0x62c1c]
+size = 15
+content = 318001iv0100910
+
+[0x62c2c]
+size = 32
+content = そうよ、せっかくだから話したら。
+
+[0x62c4d]
+size = 15
+content = 238001iv0100920
+
+[0x62c5d]
+size = 36
+content = 今田先輩のアイディア、楽しみです～。
+
+[0x62c82]
+size = 15
+content = 176001iv0100930
+
+[0x62c92]
+size = 8
+content = 先輩！！
+
+[0x62c9b]
+size = 15
+content = 117001iv0100940
+
+[0x62cab]
+size = 14
+content = お願いします！
+
+[0x62cba]
+size = 15
+content = 337001iv0100900
+
+[0x62cca]
+size = 26
+content = お前らがそう言うなら……。
+
+[0x62ce5]
+size = 15
+content = 337001iv0100910
+
+[0x62cf5]
+size = 20
+content = 今度の夢高祭ではさ、
+
+[0x62d0a]
+size = 36
+content = メインイベントのひとつをコンペ形式で
+
+[0x62d2f]
+size = 38
+content = 全校生徒から募集しようと思ってるんだ。
+
+[0x62d56]
+size = 15
+content = 001001iv0100970
+
+[0x62d66]
+size = 8
+content = えっ！？
+
+[0x62d6f]
+size = 42
+content = 夢高祭のメインイベントをコンペで、ですか？
+
+[0x62d9a]
+size = 15
+content = 292001iv0100980
+
+[0x62daa]
+size = 28
+content = さすがカンジ、そう来るか～。
+
+[0x62dc7]
+size = 15
+content = 176001iv0100990
+
+[0x62dd7]
+size = 16
+content = 面白そうですね！
+
+[0x62de8]
+size = 15
+content = 117001iv0100950
+
+[0x62df8]
+size = 42
+content = それ、ボクたちも参加していいんでしょうか？
+
+[0x62e23]
+size = 15
+content = 337001iv0100920
+
+[0x62e33]
+size = 12
+content = もちろんだ。
+
+[0x62e40]
+size = 15
+content = 337001iv0100930
+
+[0x62e50]
+size = 44
+content = 但し、決定するのはオレたち行企のメンバーだ。
+
+[0x62e7d]
+size = 44
+content = コンペに寄せられた企画をひとつひとつ検討して
+
+[0x62eaa]
+size = 42
+content = 予算や場所、集客性なんかを考慮して決める。
+
+[0x62ed5]
+size = 15
+content = 337001iv0100940
+
+[0x62ee5]
+size = 18
+content = もちろん発案者には
+
+[0x62ef8]
+size = 40
+content = 非常勤委員として運営に関わってもらうし、
+
+[0x62f21]
+size = 36
+content = オレたちはそれを全力でサポートする。
+
+[0x62f46]
+size = 15
+content = 001001iv0100971
+
+[0x62f56]
+size = 50
+content = 夢高の自主自立の精神にピッタリのアイディアですね！
+
+[0x62f89]
+size = 15
+content = 337001iv0100945
+
+[0x62f99]
+size = 8
+content = へへっ。
+
+[0x62fa2]
+size = 18
+content = ま、そういう事だ。
+
+[0x62fb5]
+size = 15
+content = 337001iv0100950
+
+[0x62fc5]
+size = 48
+content = あ、でもこの事はオレたち行企から正式発表するまで
+
+[0x62ff6]
+size = 38
+content = 報道部の方では情報出さないでくれよな。
+
+[0x6301d]
+size = 26
+content = それだけはくれぐれも頼む。
+
+[0x63038]
+size = 15
+content = 001001iv0100972
+
+[0x63048]
+size = 22
+content = その点はお約束します。
+
+[0x6305f]
+size = 12
+content = 割り込みなし
+
+[0x6306c]
+size = 15
+content = 001001iv0100973
+
+[0x6307c]
+size = 36
+content = どんな夢高祭になるのか楽しみですね。
+
+[0x630a1]
+size = 24
+content = 私たちも期待しています。
+
+[0x630ba]
+size = 15
+content = 337001iv0100960
+
+[0x630ca]
+size = 22
+content = ああ、任せといてくれ。
+
+[0x630e1]
+size = 32
+content = オレたち行企の力を見せてやるよ。
+
+[0x63102]
+size = 15
+content = 318001iv0100920
+
+[0x63112]
+size = 22
+content = 責任重大ね、カンジ君。
+
+[0x63129]
+size = 15
+content = 292001iv0100981
+
+[0x63139]
+size = 30
+content = さすが、ビッグマウスカンジ！！
+
+[0x63158]
+size = 15
+content = 337001iv0100970
+
+[0x63168]
+size = 26
+content = だからうるせーってお前ら。
+
+[0x63183]
+size = 15
+content = 001001iv0100974
+
+[0x63193]
+size = 28
+content = では、取材は以上となります。
+
+[0x631b0]
+size = 24
+content = ありがとうございました。
+
+[0x631c9]
+size = 15
+content = 337001iv0100980
+
+[0x631d9]
+size = 16
+content = え、もう終わり？
+
+[0x631ea]
+size = 34
+content = オレ、まだ全然しゃべってなくない？
+
+[0x6320d]
+size = 15
+content = 318001iv0100930
+
+[0x6321d]
+size = 16
+content = そんな事ないわ。
+
+[0x6322e]
+size = 32
+content = ずっとひとりで話してたじゃない。
+
+[0x6324f]
+size = 15
+content = 292001iv0100982
+
+[0x6325f]
+size = 24
+content = うるせーうるせーってな。
+
+[0x63278]
+size = 15
+content = 337001iv0100990
+
+[0x63288]
+size = 16
+content = ……悪かったよ。
+
+[0x63299]
+size = 34
+content = それでは最後にみなさんの写真を一枚
+
+[0x632bc]
+size = 18
+content = 撮らせてください。
+
+[0x632cf]
+size = 15
+content = 292001iv0100983
+
+[0x632df]
+size = 20
+content = おっ、写真キタコレ。
+
+[0x632f4]
+size = 15
+content = 337001iv0100995
+
+[0x63304]
+size = 42
+content = じゃあみんな、もう一度集まってくれないか。
+
+[0x6332f]
+size = 15
+content = 176001iv0100991
+
+[0x6333f]
+size = 15
+content = 122001iv0100280
+
+[0x6334f]
+size = 15
+content = 117001iv0100960
+
+[0x6335f]
+size = 15
+content = 238001iv0100930
+
+[0x6336f]
+size = 12
+content = 行きま～す。
+
+[0x6337c]
+size = 15
+content = 145001iv0100320
+
+[0x6338c]
+size = 16
+content = 美流さんの隣～。
+
+[0x6339d]
+size = 15
+content = 175001iv0100340
+
+[0x633ad]
+size = 10
+content = 邪魔だよ。
+
+[0x633b8]
+size = 15
+content = 247001iv0100680
+
+[0x633c8]
+size = 18
+content = ワタシはいいアル。
+
+[0x633db]
+size = 12
+content = 写真はダメ。
+
+[0x633e8]
+size = 18
+content = 魂抜かれるアルね。
+
+[0x633fb]
+size = 40
+content = 大丈夫、このカメラは魂抜かないですよ～。
+
+[0x63424]
+size = 15
+content = 247001iv0100690
+
+[0x63434]
+size = 12
+content = 本当アルか？
+
+[0x63441]
+size = 18
+content = それならいいアル。
+
+[0x63454]
+size = 28
+content = はい、それじゃ撮りますね～。
+
+[0x63471]
+size = 18
+content = イーアルサンスー！
+
+[0x63484]
+size = 14
+content = オッケーです。
+
+[0x63493]
+size = 15
+content = 238001iv0100940
+
+[0x634a3]
+size = 18
+content = え、もう撮ったの？
+
+[0x634b6]
+size = 15
+content = 292001iv0100984
+
+[0x634c6]
+size = 24
+content = タイミングわかんねーよ。
+
+[0x634df]
+size = 16
+content = おいコラ報道部！
+
+[0x634f0]
+size = 15
+content = 001001iv0100975
+
+[0x63500]
+size = 12
+content = すみません。
+
+[0x6350d]
+size = 15
+content = 001001iv0100976
+
+[0x6351d]
+size = 22
+content = あなっち、やり直して！
+
+[0x63534]
+size = 14
+content = ごめんなさい。
+
+[0x63543]
+size = 34
+content = 気を取り直して、もう一回行きます。
+
+[0x63566]
+size = 36
+content = 今後はオーソドックスに、ハイチーズ！
+
+[0x6358b]
+size = 24
+content = はい、お疲れ様でした～。
+
+[0x635a4]
+size = 15
+content = 001001iv0100977
+
+[0x635b4]
+size = 32
+content = では、私たちはこれで失礼します。
+
+[0x635d5]
+size = 15
+content = 001001iv0100978
+
+[0x635e5]
+size = 22
+content = もう、あなっちったら。
+
+[0x635fc]
+size = 20
+content = ちゃんとやってよね。
+
+[0x63611]
+size = 16
+content = おっかしいなぁ。
+
+[0x63622]
+size = 42
+content = イーアルサンスーでわかると思ったんだけど。
+
+[0x6364d]
+size = 15
+content = 001001iv0100979
+
+[0x6365d]
+size = 28
+content = 毎回意味わかんないよ、それ。
+
+[0x6367a]
+size = 34
+content = 唯一の出番なんだからちゃんとして！
+
+[0x6369d]
+size = 12
+content = あ、ひでぇ。
+
+[0x636aa]
+size = 20
+content = 唯一の出番とか……。
+
+[0x636bf]
+size = 50
+content = オレだってちゃんと取材のサポートしてるつもりだよ。
+
+[0x636f2]
+size = 15
+content = 001001iv0100980
+
+[0x63702]
+size = 36
+content = ……まぁ、たまには役に立ってるけど。
+
+[0x63727]
+size = 14
+content = いつも、だろ？
+
+[0x63736]
+size = 15
+content = 001001iv0100981
+
+[0x63746]
+size = 6
+content = え～？
+
+[0x6374d]
+size = 22
+content = はいはい、もういいよ。
+
+[0x63764]
+size = 15
+content = 001001iv0100982
+
+[0x63774]
+size = 18
+content = ところであなっち。
+
+[0x63787]
+size = 44
+content = 今年の夢高祭、なんだか期待できると思わない？
+
+[0x637b4]
+size = 20
+content = 今年のって言われても
+
+[0x637c9]
+size = 40
+content = オレは去年がどうだったか知らないしなぁ。
+
+[0x637f2]
+size = 15
+content = 001001iv0100983
+
+[0x63802]
+size = 26
+content = あ～、なんか冷めてる……。
+
+[0x6381d]
+size = 15
+content = 001001iv0100984
+
+[0x6382d]
+size = 26
+content = 報道部だって夢高祭に向けて
+
+[0x63848]
+size = 32
+content = 頑張らなきゃいけないんだからね。
+
+[0x63869]
+size = 26
+content = これからもしっかりしてよ！
+
+[0x63884]
+size = 16
+content = わかったよ……。
+
+[0x63895]
+size = 40
+content = （ううっ、そんなにこき使われるのか……）
+
+[0x638be]
+size = 25
+content = めぐ同行取材EV010：今田莞
+

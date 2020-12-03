@@ -1,0 +1,1548 @@
+[0x55794]
+size = 37
+content = 同行取材EV008：宮崎円花（図書委員会）
+
+[0x557ba]
+size = 4
+content = めぐ
+
+[0x557bf]
+size = 15
+content = 001001iv0080010
+
+[0x557cf]
+size = 12
+content = こんにちは。
+
+[0x557dc]
+size = 28
+content = 報道部の三日月ですけど……。
+
+[0x557fa]
+size = 8
+content = 宮崎円花
+
+[0x55803]
+size = 15
+content = 353001iv0080020
+
+[0x55813]
+size = 18
+content = あ、私が宮崎です。
+
+[0x55826]
+size = 18
+content = どうぞ、こちらへ。
+
+[0x55839]
+size = 15
+content = 001001iv0080030
+
+[0x55849]
+size = 40
+content = 今日は先日お話した取材の件で伺いました。
+
+[0x55872]
+size = 22
+content = よろしくお願いします。
+
+[0x55889]
+size = 15
+content = 353001iv0080040
+
+[0x55899]
+size = 32
+content = こちらこそよろしくお願いします。
+
+[0x558ba]
+size = 15
+content = 353001iv0080050
+
+[0x558ca]
+size = 28
+content = 図書委員のような地味な仕事を
+
+[0x558e7]
+size = 24
+content = 取材していただけるなんて
+
+[0x55900]
+size = 42
+content = 本当に嬉しいです。　ありがとうございます。
+
+[0x5592b]
+size = 12
+content = ○○○○○○
+
+[0x55938]
+size = 36
+content = （なんだか、穏やかで優しい人だなぁ）
+
+[0x5595d]
+size = 15
+content = 001001iv0080060
+
+[0x5596d]
+size = 42
+content = それでこっちは、同じ報道部のあなっちです。
+
+[0x55998]
+size = 8
+content = 割り込み
+
+[0x559a1]
+size = 22
+content = いやいや、三日月さん？
+
+[0x559b8]
+size = 34
+content = もうそろそろそれ、やめましょうよ。
+
+[0x559db]
+size = 15
+content = 001001iv0080070
+
+[0x559eb]
+size = 10
+content = えっ、何？
+
+[0x559f6]
+size = 34
+content = 宮崎先輩、２Ｂの○○○○○○です。
+
+[0x55a19]
+size = 15
+content = 353001iv0080080
+
+[0x55a29]
+size = 28
+content = あの……あなっちというのは？
+
+[0x55a46]
+size = 36
+content = あ、それですね、なんでもありません。
+
+[0x55a6b]
+size = 32
+content = すぐに記憶から抹消してください。
+
+[0x55a8c]
+size = 15
+content = 001001iv0080090
+
+[0x55a9c]
+size = 22
+content = ちょっとあなっち……。
+
+[0x55ab3]
+size = 15
+content = 353001iv0080100
+
+[0x55ac3]
+size = 18
+content = ぷっ……うふふふ。
+
+[0x55ad6]
+size = 15
+content = 353001iv0080110
+
+[0x55ae6]
+size = 26
+content = お２人は仲がいいんですね。
+
+[0x55b01]
+size = 18
+content = うらやましいです。
+
+[0x55b14]
+size = 15
+content = 001001iv0080120
+
+[0x55b24]
+size = 28
+content = それは、まぁ幼馴染ですから。
+
+[0x55b41]
+size = 15
+content = 353001iv0080130
+
+[0x55b51]
+size = 8
+content = まぁっ！
+
+[0x55b5a]
+size = 12
+content = 幼馴染っ！？
+
+[0x55b67]
+size = 15
+content = 353001iv0080140
+
+[0x55b77]
+size = 36
+content = いいなぁ～、なんだかロマンチックで。
+
+[0x55b9c]
+size = 18
+content = いやぁ、ぶっちゃけ
+
+[0x55baf]
+size = 32
+content = そんなにいいものでもないですよ。
+
+[0x55bd0]
+size = 15
+content = 353001iv0080150
+
+[0x55be0]
+size = 16
+content = そうなんですか？
+
+[0x55bf1]
+size = 16
+content = そうなんですよ。
+
+[0x55c02]
+size = 15
+content = 001001iv0080160
+
+[0x55c12]
+size = 22
+content = そんな事ありませんっ！
+
+[0x55c29]
+size = 15
+content = 353001iv0080170
+
+[0x55c39]
+size = 28
+content = うふっ……やっぱり仲がいい。
+
+[0x55c56]
+size = 38
+content = あ～あ、なんだか暑くなってきちゃった。
+
+[0x55c7d]
+size = 15
+content = 001001iv0080180
+
+[0x55c8d]
+size = 16
+content = ……すみません。
+
+[0x55c9e]
+size = 15
+content = 353001iv0080190
+
+[0x55cae]
+size = 22
+content = 謝らなくてもいいのに。
+
+[0x55cc5]
+size = 44
+content = （なんだか宮崎先輩って大神先輩に似てるかも）
+
+[0x55cf2]
+size = 12
+content = 割り込みなし
+
+[0x55cff]
+size = 15
+content = 353001iv0080200
+
+[0x55d0f]
+size = 15
+content = 001001iv0080210
+
+[0x55d1f]
+size = 36
+content = では取材をはじめさせていただきます。
+
+[0x55d44]
+size = 15
+content = 353001iv0080220
+
+[0x55d54]
+size = 8
+content = どうぞ。
+
+[0x55d5d]
+size = 15
+content = 001001iv0080230
+
+[0x55d6d]
+size = 44
+content = まずは図書委員の活動について教えてください。
+
+[0x55d9a]
+size = 15
+content = 353001iv0080240
+
+[0x55daa]
+size = 32
+content = そうですね、図書委員は毎日交代で
+
+[0x55dcb]
+size = 30
+content = この図書室の管理をしています。
+
+[0x55dea]
+size = 15
+content = 353001iv0080250
+
+[0x55dfa]
+size = 34
+content = 管理というのは本棚の書籍の整理とか
+
+[0x55e1d]
+size = 34
+content = 新しい書籍にバーコードを張り付けて
+
+[0x55e40]
+size = 32
+content = データベースに登録したりとか……
+
+[0x55e61]
+size = 15
+content = 353001iv0080260
+
+[0x55e71]
+size = 40
+content = 後はみなさんもご存じの貸し出し業務など、
+
+[0x55e9a]
+size = 42
+content = 図書室の運営全般を任せていただいています。
+
+[0x55ec5]
+size = 15
+content = 001001iv0080270
+
+[0x55ed5]
+size = 36
+content = 図書委員は確か各クラスから１名ずつで
+
+[0x55efa]
+size = 20
+content = ９名いるんですよね？
+
+[0x55f0f]
+size = 15
+content = 353001iv0080280
+
+[0x55f1f]
+size = 10
+content = そうです。
+
+[0x55f2a]
+size = 30
+content = その９人で３人ずつ３組になって
+
+[0x55f49]
+size = 38
+content = 交替シフトを組んでいるんですけど……。
+
+[0x55f70]
+size = 15
+content = 001001iv0080290
+
+[0x55f80]
+size = 14
+content = 何か問題でも？
+
+[0x55f8f]
+size = 15
+content = 353001iv0080300
+
+[0x55f9f]
+size = 42
+content = やっぱり、自薦で立候補したわけじゃないので
+
+[0x55fca]
+size = 38
+content = ３人ちゃんと揃うのが難しい事もあって。
+
+[0x55ff1]
+size = 15
+content = 001001iv0080310
+
+[0x56001]
+size = 48
+content = 出席率のいい人にしわ寄せがいってしまうんですね。
+
+[0x56032]
+size = 12
+content = わかります。
+
+[0x5603f]
+size = 15
+content = 353001iv0080320
+
+[0x5604f]
+size = 28
+content = 委員会活動の難しさ、ですね。
+
+[0x5606c]
+size = 34
+content = 私もまだまだ修行が足りなくて……。
+
+[0x5608f]
+size = 15
+content = 001001iv0080330
+
+[0x5609f]
+size = 20
+content = そんな事ないですよ。
+
+[0x560b4]
+size = 42
+content = 宮崎先輩って、確か１年からずっと図書委員を
+
+[0x560df]
+size = 26
+content = されているって聞きました。
+
+[0x560fa]
+size = 15
+content = 353001iv0080340
+
+[0x5610a]
+size = 22
+content = 本が……好きなんです。
+
+[0x56121]
+size = 44
+content = 同じように本を好きな人のお手伝いがしたくて。
+
+[0x5614e]
+size = 15
+content = 001001iv0080350
+
+[0x5615e]
+size = 30
+content = 宮崎先輩はきっとたくさんの人に
+
+[0x5617d]
+size = 24
+content = 感謝されてると思います。
+
+[0x56196]
+size = 15
+content = 353001iv0080360
+
+[0x561a6]
+size = 24
+content = ありがとう、三日月さん。
+
+[0x561bf]
+size = 36
+content = あの～、ひとつ質問があるんですけど？
+
+[0x561e4]
+size = 15
+content = 353001iv0080370
+
+[0x561f4]
+size = 14
+content = 何でしょうか？
+
+[0x56203]
+size = 26
+content = 図書室に入れる本の選定も、
+
+[0x5621e]
+size = 32
+content = 図書委員の人たちでやるんですか？
+
+[0x5623f]
+size = 15
+content = 353001iv0080380
+
+[0x5624f]
+size = 16
+content = はい、そうです。
+
+[0x56260]
+size = 40
+content = これはあくまで一個人の希望なんですけど、
+
+[0x56289]
+size = 36
+content = もうちょっとこう、面白い本っていうか
+
+[0x562ae]
+size = 46
+content = マンガとか雑誌類なんかも置いてほしいなぁ……。
+
+[0x562dd]
+size = 15
+content = 001001iv0080390
+
+[0x562ed]
+size = 24
+content = あなっち、今は取材中よ！
+
+[0x56306]
+size = 26
+content = そういうのは後でやってよ。
+
+[0x56321]
+size = 15
+content = 353001iv0080400
+
+[0x56331]
+size = 44
+content = いいえ、そういう要望はとてもありがたいです。
+
+[0x5635e]
+size = 34
+content = 私たちが選んでしまうと、どうしても
+
+[0x56381]
+size = 44
+content = ジャンルや作家さんに偏りが出てしまうんです。
+
+[0x563ae]
+size = 15
+content = 353001iv0080410
+
+[0x563be]
+size = 22
+content = だから私たちの中でも、
+
+[0x563d5]
+size = 40
+content = その点は大きな課題として認識しています。
+
+[0x563fe]
+size = 28
+content = なんていうか、目安箱みたいな
+
+[0x5641b]
+size = 38
+content = こういう本が欲しい、という意見を出せる
+
+[0x56442]
+size = 36
+content = 仕組みがあるといいと思うんですけど？
+
+[0x56467]
+size = 15
+content = 353001iv0080420
+
+[0x56477]
+size = 22
+content = それは私たちも考えて、
+
+[0x5648e]
+size = 30
+content = 運用してみた時期があるんです。
+
+[0x564ad]
+size = 15
+content = 353001iv0080430
+
+[0x564bd]
+size = 38
+content = でも結局、意見を言う人たちっていうのは
+
+[0x564e4]
+size = 24
+content = 本好きな人たちなわけで。
+
+[0x564fd]
+size = 15
+content = 353001iv0080440
+
+[0x5650d]
+size = 34
+content = 最終的にはそういう意見を含めた上で
+
+[0x56530]
+size = 48
+content = やっぱりまだ偏っているなぁ、というのが実感です。
+
+[0x56561]
+size = 15
+content = 001001iv0080450
+
+[0x56571]
+size = 20
+content = そうなんですね……。
+
+[0x56586]
+size = 38
+content = 私も今度、リクエストしてみようかなぁ。
+
+[0x565ad]
+size = 15
+content = 353001iv0080460
+
+[0x565bd]
+size = 18
+content = 是非お願いします！
+
+[0x565d0]
+size = 44
+content = あの～、男子代表として言わせていただきますが
+
+[0x565fd]
+size = 40
+content = グラビア写真集を是非今度お願いします！！
+
+[0x56626]
+size = 15
+content = 353001iv0080470
+
+[0x56636]
+size = 24
+content = ……えっ、グラビア……？
+
+[0x5664f]
+size = 15
+content = 001001iv0080480
+
+[0x5665f]
+size = 28
+content = あなっち！　何言ってるのよ！
+
+[0x5667c]
+size = 42
+content = それはあくまであなっちの個人的趣味でしょ？
+
+[0x566a7]
+size = 28
+content = 勝手に男子を代表しないでっ。
+
+[0x566c4]
+size = 15
+content = 353001iv0080490
+
+[0x566d4]
+size = 30
+content = ありがとうございますッ！！！！
+
+[0x566f3]
+size = 15
+content = 001001iv0080500
+
+[0x56703]
+size = 8
+content = えっ！？
+
+[0x5670c]
+size = 8
+content = へっ！？
+
+[0x56715]
+size = 15
+content = 353001iv0080510
+
+[0x56725]
+size = 28
+content = その発想はありませんでした。
+
+[0x56742]
+size = 40
+content = 私たち、そういう意見が欲しかったんです！
+
+[0x5676b]
+size = 15
+content = 001001iv0080520
+
+[0x5677b]
+size = 28
+content = でも宮崎さん、学校の図書室に
+
+[0x56798]
+size = 30
+content = グラビア写真集はちょっと……。
+
+[0x567b7]
+size = 15
+content = 353001iv0080530
+
+[0x567c7]
+size = 20
+content = それがいいか悪いかは
+
+[0x567dc]
+size = 42
+content = 最終的には顧問の先生がジャッジする事です。
+
+[0x56807]
+size = 15
+content = 353001iv0080540
+
+[0x56817]
+size = 40
+content = 私たちとしては、図書のラインナップ充実と
+
+[0x56840]
+size = 38
+content = 生徒のみなさんの関心度アップが図れれば
+
+[0x56867]
+size = 18
+content = 一石二鳥なんです。
+
+[0x5687a]
+size = 48
+content = ほんとにグラビア写真集を入れてもらえるんですか？
+
+[0x568ab]
+size = 15
+content = 353001iv0080550
+
+[0x568bb]
+size = 24
+content = 発注書には書いてみます。
+
+[0x568d4]
+size = 34
+content = 他に何か欲しいものはありませんか？
+
+[0x568f7]
+size = 6
+content = マンガ
+
+[0x568fe]
+size = 28
+content = 月並みですけど、マンガとか。
+
+[0x5691b]
+size = 30
+content = コミックスの全巻大人買いとか、
+
+[0x5693a]
+size = 36
+content = 高校生の身分じゃなかなか厳しいですし
+
+[0x5695f]
+size = 32
+content = マンガ喫茶で全巻読破するにしても
+
+[0x56980]
+size = 26
+content = 途中で他の人と競合したりで
+
+[0x5699b]
+size = 44
+content = なかなかスムーズにいかないんですよ、これが。
+
+[0x569c8]
+size = 15
+content = 001001iv0080560
+
+[0x569d8]
+size = 42
+content = あなっち……そんなにマンガ喫茶好きなんだ。
+
+[0x56a03]
+size = 15
+content = 353001iv0080570
+
+[0x56a13]
+size = 36
+content = 確かにマンガという要望は多いですね。
+
+[0x56a38]
+size = 30
+content = でも、マンガもジャンルが多彩で
+
+[0x56a57]
+size = 44
+content = 作品も膨大にあるので、選ぶのが大変なんです。
+
+[0x56a84]
+size = 15
+content = 353001iv0080580
+
+[0x56a94]
+size = 42
+content = ある作家さんの作品をひとつ選んで仕入れると
+
+[0x56abf]
+size = 24
+content = どうしてその作品なんだ、
+
+[0x56ad8]
+size = 38
+content = 全然わかってないってクレームが来るし、
+
+[0x56aff]
+size = 15
+content = 353001iv0080590
+
+[0x56b0f]
+size = 30
+content = 幾つかの作品をそろえてみると、
+
+[0x56b2e]
+size = 40
+content = どうしてあの作家の作品ばかり仕入れるんだ
+
+[0x56b57]
+size = 46
+content = もっと他に入れるべき作家がいるだろう、と……。
+
+[0x56b86]
+size = 15
+content = 001001iv0080600
+
+[0x56b96]
+size = 30
+content = ああ、わかるような気がします。
+
+[0x56bb5]
+size = 15
+content = 353001iv0080610
+
+[0x56bc5]
+size = 46
+content = 結局、図書委員のメンタルが耐えられなくなるので
+
+[0x56bf4]
+size = 48
+content = 最近はなるべくマンガは避けるようにしてるんです。
+
+[0x56c25]
+size = 22
+content = ……なんて不幸なんだ！
+
+[0x56c3c]
+size = 14
+content = ゲームの攻略本
+
+[0x56c4b]
+size = 32
+content = ゲームの攻略本なんてどうですか？
+
+[0x56c6c]
+size = 30
+content = 絶対需要あると思うんですけど。
+
+[0x56c8b]
+size = 15
+content = 353001iv0080620
+
+[0x56c9b]
+size = 14
+content = はっ…………。
+
+[0x56caa]
+size = 15
+content = 353001iv0080630
+
+[0x56cba]
+size = 34
+content = それも私たちにはなかった発想です。
+
+[0x56cdd]
+size = 36
+content = ○○○さん、図書委員になりませんか？
+
+[0x56d02]
+size = 15
+content = 001001iv0080640
+
+[0x56d12]
+size = 38
+content = ちょ、ちょっと待ってください宮崎先輩。
+
+[0x56d39]
+size = 28
+content = 引き抜きはナシって事で……。
+
+[0x56d56]
+size = 15
+content = 353001iv0080650
+
+[0x56d66]
+size = 22
+content = すみません、つい……。
+
+[0x56d7d]
+size = 15
+content = 353001iv0080660
+
+[0x56d8d]
+size = 28
+content = でも、非常勤で構いませんから
+
+[0x56daa]
+size = 26
+content = 一度考えてみてくださいね？
+
+[0x56dc5]
+size = 14
+content = あ、はい……。
+
+[0x56dd4]
+size = 15
+content = 353001iv0080670
+
+[0x56de4]
+size = 32
+content = それで、ゲームの攻略本というのは
+
+[0x56e05]
+size = 38
+content = どれくらい需要があるものなのでしょう？
+
+[0x56e2c]
+size = 38
+content = そうですね、人気のあるゲームのものなら
+
+[0x56e53]
+size = 28
+content = かなりあるんじゃないかなぁ。
+
+[0x56e70]
+size = 32
+content = モン○ンとか、ポケ○ンとか……。
+
+[0x56e91]
+size = 15
+content = 001001iv0080680
+
+[0x56ea1]
+size = 38
+content = でも攻略本って、ある程度時間が経ったら
+
+[0x56ec8]
+size = 32
+content = 誰も見なくなっちゃうんじゃない？
+
+[0x56ee9]
+size = 14
+content = まぁそうだね。
+
+[0x56ef8]
+size = 28
+content = 攻略しちゃったら必要ないし。
+
+[0x56f15]
+size = 15
+content = 001001iv0080690
+
+[0x56f25]
+size = 28
+content = それに、人気のあるゲームなら
+
+[0x56f42]
+size = 34
+content = その攻略本を見たい人も多いだろうし
+
+[0x56f65]
+size = 38
+content = 一冊だけじゃ取り合いになるんじゃない？
+
+[0x56f8c]
+size = 14
+content = たぶんね……。
+
+[0x56f9b]
+size = 42
+content = でも一冊あれば仲間内で情報をシェア出来るし
+
+[0x56fc6]
+size = 34
+content = 攻略本を使えば早くクリアできるから
+
+[0x56fe9]
+size = 42
+content = 回転率もそんなに悪くないんじゃないかなぁ。
+
+[0x57014]
+size = 42
+content = そうだ！　いっそ、攻略本は２～３冊まとめて
+
+[0x5703f]
+size = 26
+content = 仕入れるってのはどうかな？
+
+[0x5705a]
+size = 15
+content = 001001iv0080700
+
+[0x5706a]
+size = 16
+content = それはどうして？
+
+[0x5707b]
+size = 44
+content = 回転率のいい本は複数置いてあった方がいいし、
+
+[0x570a8]
+size = 28
+content = アクティブユーザーが減ったら
+
+[0x570c5]
+size = 38
+content = 一冊残して後は中古に売ればお金になる。
+
+[0x570ec]
+size = 34
+content = あ、中古だと買取価格イマイチだから
+
+[0x5710f]
+size = 44
+content = ネットオークションとかに出した方がいいかな。
+
+[0x5713c]
+size = 15
+content = 001001iv0080710
+
+[0x5714c]
+size = 34
+content = あなっち、なかなか冴えてるかもっ！
+
+[0x5716f]
+size = 15
+content = 353001iv0080720
+
+[0x5717f]
+size = 36
+content = ……なんか、お２人ともすごいですね。
+
+[0x571a4]
+size = 36
+content = いっそ、２人そろって図書委員に……。
+
+[0x571c9]
+size = 15
+content = 001001iv0080730
+
+[0x571d9]
+size = 14
+content = 宮崎先輩っ！？
+
+[0x571e8]
+size = 15
+content = 353001iv0080740
+
+[0x571f8]
+size = 22
+content = ああっ、ごめんなさい。
+
+[0x5720f]
+size = 32
+content = あなたたちのような人が図書委員に
+
+[0x57230]
+size = 38
+content = いてくれたらなぁって思ったらつい……。
+
+[0x57257]
+size = 6
+content = 薄い本
+
+[0x5725e]
+size = 32
+content = ならば敢えて言おう、薄い本と！！
+
+[0x5727f]
+size = 15
+content = 353001iv0080750
+
+[0x5728f]
+size = 18
+content = 薄い本……ですか？
+
+[0x572a2]
+size = 32
+content = 絵本とか、パンフレットのような？
+
+[0x572c3]
+size = 30
+content = いいえ、違いますっ！（キリッ）
+
+[0x572e2]
+size = 16
+content = 薄い本ですっ！！
+
+[0x572f3]
+size = 12
+content = （決まった）
+
+[0x57300]
+size = 15
+content = 001001iv0080760
+
+[0x57310]
+size = 22
+content = あなっち、どういう事？
+
+[0x57327]
+size = 8
+content = むむっ！
+
+[0x57330]
+size = 36
+content = 薄い本も知らずして報道部を語る勿れ！
+
+[0x57355]
+size = 15
+content = 001001iv0080770
+
+[0x57365]
+size = 42
+content = そのキャラ、どうでもいいから早く教えてよ。
+
+[0x57390]
+size = 18
+content = 薄い本って何なの？
+
+[0x573a3]
+size = 15
+content = 353001iv0080780
+
+[0x573b3]
+size = 32
+content = 私も是非教えていただきたいです！
+
+[0x573d4]
+size = 30
+content = ……えっと、それはですね……。
+
+[0x573f3]
+size = 36
+content = （いざ説明するのはまた別の話だっ！）
+
+[0x57418]
+size = 15
+content = 001001iv0080790
+
+[0x57428]
+size = 14
+content = ………………。
+
+[0x57437]
+size = 15
+content = 353001iv0080800
+
+[0x57447]
+size = 38
+content = （ど、どうする、どうするのオレッ！？）
+
+[0x5746e]
+size = 15
+content = 001001iv0080810
+
+[0x5747e]
+size = 18
+content = あなっち、早くっ！
+
+[0x57491]
+size = 15
+content = 353001iv0080820
+
+[0x574a1]
+size = 22
+content = 薄い本……薄い本……。
+
+[0x574b8]
+size = 38
+content = （ダ、ダメだっ！　やっぱり言えないっ）
+
+[0x574df]
+size = 20
+content = な、なーんちゃって。
+
+[0x574f4]
+size = 12
+content = ははは……。
+
+[0x57501]
+size = 15
+content = 353001iv0080830
+
+[0x57511]
+size = 8
+content = ……ん？
+
+[0x5751a]
+size = 15
+content = 001001iv0080840
+
+[0x5752a]
+size = 14
+content = 何よそれっ！？
+
+[0x57539]
+size = 12
+content = あなっち！！
+
+[0x57546]
+size = 42
+content = すみません、聞かなかった事にしてください。
+
+[0x57571]
+size = 36
+content = どうしても知りたければ後でググるなり
+
+[0x57596]
+size = 46
+content = 最新の情報・知識辞典で引くなりご自由にどうぞ。
+
+[0x575c5]
+size = 15
+content = 001001iv0080850
+
+[0x575d5]
+size = 40
+content = 知ってるなら教えてくれてもいいじゃない。
+
+[0x575fe]
+size = 28
+content = どうしてそんな意地悪するの？
+
+[0x5761b]
+size = 15
+content = 353001iv0080860
+
+[0x5762b]
+size = 28
+content = 確かに、自分で調べられるのを
+
+[0x57648]
+size = 42
+content = 横着してお願いしたのは申し訳なかったです。
+
+[0x57673]
+size = 15
+content = 001001iv0080870
+
+[0x57683]
+size = 44
+content = いえ、宮崎さんはちっとも悪くありませんっ！！
+
+[0x576b0]
+size = 15
+content = 001001iv0080880
+
+[0x576c0]
+size = 24
+content = 以後黙秘権を行使します。
+
+[0x576d9]
+size = 18
+content = ……………………。
+
+[0x576ec]
+size = 15
+content = 001001iv0080890
+
+[0x576fc]
+size = 26
+content = ちょっとどういうつもり！？
+
+[0x57717]
+size = 16
+content = あなっちってば！
+
+[0x57728]
+size = 15
+content = 353001iv0080900
+
+[0x57738]
+size = 32
+content = 三日月さん、仕方がありませんから
+
+[0x57759]
+size = 32
+content = 後でいっしょに調べましょう、ね？
+
+[0x5777a]
+size = 15
+content = 001001iv0080910
+
+[0x5778a]
+size = 16
+content = ……そうですね。
+
+[0x5779b]
+size = 22
+content = すみません、宮崎さん。
+
+[0x577b2]
+size = 15
+content = 001001iv0080920
+
+[0x577c2]
+size = 16
+content = あなっちのバカ！
+
+[0x577d3]
+size = 44
+content = （２人が調べる時にはバックレないとやばいぞ）
+
+[0x57800]
+size = 15
+content = 001001iv0080930
+
+[0x57810]
+size = 26
+content = それでは、図書委員としての
+
+[0x5782b]
+size = 40
+content = これからの取組についてお聞かせください。
+
+[0x57854]
+size = 15
+content = 353001iv0080940
+
+[0x57864]
+size = 16
+content = そうですね……。
+
+[0x57875]
+size = 48
+content = やっぱり蔵書を増やしてみんなにアピール、ですね。
+
+[0x578a6]
+size = 15
+content = 001001iv0080950
+
+[0x578b6]
+size = 34
+content = 今までと特に違ったアプローチとかは
+
+[0x578d9]
+size = 14
+content = お考えですか？
+
+[0x578e8]
+size = 15
+content = 353001iv0080960
+
+[0x578f8]
+size = 44
+content = 読書会のようなものをやりたいと考えています。
+
+[0x57925]
+size = 15
+content = 353001iv0080970
+
+[0x57935]
+size = 42
+content = 読書って、基本ひとりでやる行為なんですけど
+
+[0x57960]
+size = 30
+content = 何人かで集まって本を読んだり、
+
+[0x5797f]
+size = 42
+content = お茶をしながらお話したりもいいかなぁって。
+
+[0x579aa]
+size = 34
+content = そのお茶の時って、お菓子も出ます？
+
+[0x579cd]
+size = 15
+content = 353001iv0080980
+
+[0x579dd]
+size = 22
+content = ふふっ、もちろんです。
+
+[0x579f4]
+size = 24
+content = 是非参加したいですっ！！
+
+[0x57a0d]
+size = 15
+content = 353001iv0080990
+
+[0x57a1d]
+size = 12
+content = 大歓迎です。
+
+[0x57a2a]
+size = 34
+content = 実現出来たら必ずお知らせしますね。
+
+[0x57a4d]
+size = 15
+content = 001001iv0080951
+
+[0x57a5d]
+size = 24
+content = 私も参加してみたいです。
+
+[0x57a76]
+size = 24
+content = 是非実現してくださいっ！
+
+[0x57a8f]
+size = 15
+content = 353001iv0080991
+
+[0x57a9f]
+size = 20
+content = はいっ、頑張ります。
+
+[0x57ab4]
+size = 15
+content = 001001iv0080952
+
+[0x57ac4]
+size = 40
+content = なんだか、長居をしてしまってすみません。
+
+[0x57aed]
+size = 30
+content = 取材の方はここまでになります。
+
+[0x57b0c]
+size = 15
+content = 353001iv0080992
+
+[0x57b1c]
+size = 22
+content = とても楽しかったです。
+
+[0x57b33]
+size = 42
+content = またいつでも図書室へ遊びに来てくださいね。
+
+[0x57b5e]
+size = 15
+content = 001001iv0080953
+
+[0x57b6e]
+size = 28
+content = はい、ありがとうございます。
+
+[0x57b8b]
+size = 40
+content = あの、最後に写真を一枚撮らせてください。
+
+[0x57bb4]
+size = 15
+content = 353001iv0080993
+
+[0x57bc4]
+size = 26
+content = 写真ですか、わかりました。
+
+[0x57bdf]
+size = 24
+content = ここでいいのでしょうか？
+
+[0x57bf8]
+size = 20
+content = はい、お願いします。
+
+[0x57c0d]
+size = 16
+content = ではいきま～す。
+
+[0x57c1e]
+size = 16
+content = ライブラリー！！
+
+[0x57c2f]
+size = 14
+content = オッケーです。
+
+[0x57c3e]
+size = 24
+content = ありがとうございました。
+
+[0x57c57]
+size = 15
+content = 353001iv0080994
+
+[0x57c67]
+size = 32
+content = あの、今のライブラリーというのは
+
+[0x57c88]
+size = 28
+content = どういう意味なのでしょうか？
+
+[0x57ca5]
+size = 15
+content = 001001iv0080954
+
+[0x57cb5]
+size = 22
+content = 気にしないでください。
+
+[0x57ccc]
+size = 30
+content = なんか、ヘンなんです。この人。
+
+[0x57ceb]
+size = 15
+content = 353001iv0080995
+
+[0x57cfb]
+size = 20
+content = でも、面白いですよ。
+
+[0x57d10]
+size = 14
+content = 私は好きです。
+
+[0x57d1f]
+size = 12
+content = えっ！！？？
+
+[0x57d2c]
+size = 15
+content = 001001iv0080955
+
+[0x57d3c]
+size = 15
+content = 353001iv0080996
+
+[0x57d4c]
+size = 42
+content = 私、面白いモノや面白い人が大好きなんです。
+
+[0x57d77]
+size = 16
+content = 本と同じくらい。
+
+[0x57d88]
+size = 15
+content = 001001iv0080956
+
+[0x57d98]
+size = 26
+content = ああ、そういう意味ですね。
+
+[0x57db3]
+size = 8
+content = あはは。
+
+[0x57dbc]
+size = 46
+content = （オレも宮崎先輩が大好きですっ……と言いたい）
+
+[0x57deb]
+size = 15
+content = 001001iv0080957
+
+[0x57dfb]
+size = 20
+content = それでは失礼します。
+
+[0x57e10]
+size = 15
+content = 353001iv0080997
+
+[0x57e20]
+size = 16
+content = お疲れ様でした。
+
+[0x57e31]
+size = 25
+content = めぐ同行取材EV008：宮崎円
+

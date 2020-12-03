@@ -1,0 +1,828 @@
+[0x4d094]
+size = 31
+content = 同行取材EV006：生徒会長如月麗華
+
+[0x4d0b4]
+size = 4
+content = めぐ
+
+[0x4d0b9]
+size = 15
+content = 001001iv0060010
+
+[0x4d0c9]
+size = 12
+content = 失礼します。
+
+[0x4d0d6]
+size = 20
+content = 報道部の三日月です。
+
+[0x4d0eb]
+size = 28
+content = 会長の取材の件で伺いました。
+
+[0x4d108]
+size = 6
+content = 天海蛍
+
+[0x4d10f]
+size = 15
+content = 193001iv0060020
+
+[0x4d11f]
+size = 18
+content = ああ、三日月さん。
+
+[0x4d132]
+size = 20
+content = お待ちしていました。
+
+[0x4d147]
+size = 30
+content = 会長は奥です。　さぁ、どうぞ。
+
+[0x4d166]
+size = 12
+content = ○○○○○○
+
+[0x4d173]
+size = 14
+content = 失礼しまーす。
+
+[0x4d183]
+size = 8
+content = 如月麗華
+
+[0x4d18c]
+size = 15
+content = 304001iv0060030
+
+[0x4d19c]
+size = 26
+content = いらっしゃい、三日月さん。
+
+[0x4d1b7]
+size = 22
+content = 取材の方は順調かしら？
+
+[0x4d1ce]
+size = 15
+content = 001001iv0060040
+
+[0x4d1de]
+size = 20
+content = はい、おかげさまで。
+
+[0x4d1f3]
+size = 40
+content = 今日は生徒会の取材をさせていただきます。
+
+[0x4d21c]
+size = 15
+content = 304001iv0060050
+
+[0x4d22c]
+size = 26
+content = どうぞ、ご自由になさって。
+
+[0x4d247]
+size = 15
+content = 304001iv0060060
+
+[0x4d257]
+size = 26
+content = ところで、そちらの男性は？
+
+[0x4d272]
+size = 12
+content = 初めまして。
+
+[0x4d27f]
+size = 24
+content = 報道部２年の○○○です。
+
+[0x4d298]
+size = 28
+content = 今日はよろしくお願いします。
+
+[0x4d2b5]
+size = 15
+content = 304001iv0060070
+
+[0x4d2c5]
+size = 24
+content = 生徒会長の如月麗華です。
+
+[0x4d2de]
+size = 22
+content = よろしくお願いします。
+
+[0x4d2f5]
+size = 15
+content = 001001iv0060080
+
+[0x4d305]
+size = 36
+content = では会長、まずは生徒会の構成について
+
+[0x4d32a]
+size = 32
+content = 人物像など交えて教えてください。
+
+[0x4d34b]
+size = 15
+content = 304001iv0060090
+
+[0x4d35b]
+size = 12
+content = 心得ました。
+
+[0x4d368]
+size = 15
+content = 304001iv0060100
+
+[0x4d378]
+size = 28
+content = 夢高生徒会は、生徒会長の他に
+
+[0x4d395]
+size = 34
+content = 副会長が２名、書記が１名の計４名で
+
+[0x4d3b8]
+size = 20
+content = 構成されていますわ。
+
+[0x4d3cd]
+size = 15
+content = 304001iv0060110
+
+[0x4d3dd]
+size = 34
+content = 副会長は、そこにいる影山孫子さん。
+
+[0x4d400]
+size = 36
+content = 口数は少ないけど仕事は迅速且つ正確。
+
+[0x4d425]
+size = 46
+content = 几帳面で責任感があって、とても頼りにしてるわ。
+
+[0x4d454]
+size = 15
+content = 304001iv0060120
+
+[0x4d464]
+size = 36
+content = もうひとりの副会長は御厨慎之介さん。
+
+[0x4d489]
+size = 42
+content = 今は席を外しているのでご紹介出来ませんけど
+
+[0x4d4b4]
+size = 28
+content = 心の真っ直ぐな、優しい人よ。
+
+[0x4d4d1]
+size = 15
+content = 304001iv0060130
+
+[0x4d4e1]
+size = 26
+content = 最後に書記の天海蛍ちゃん。
+
+[0x4d4fc]
+size = 22
+content = 我が夢高生徒会の天使。
+
+[0x4d513]
+size = 15
+content = 304001iv0060140
+
+[0x4d523]
+size = 10
+content = 蛍ちゃん！
+
+[0x4d52e]
+size = 15
+content = 193001iv0060150
+
+[0x4d53e]
+size = 10
+content = あ、はい。
+
+[0x4d549]
+size = 14
+content = なんでしょう？
+
+[0x4d558]
+size = 15
+content = 304001iv0060160
+
+[0x4d568]
+size = 28
+content = ほら、こんなに可愛らしいの。
+
+[0x4d585]
+size = 26
+content = 素直で真面目で明るくて……
+
+[0x4d5a0]
+size = 40
+content = 蛍ちゃんあっての夢高生徒会なんですのよ。
+
+[0x4d5c9]
+size = 15
+content = 193001iv0060170
+
+[0x4d5d9]
+size = 32
+content = そんな、会長……やめてください。
+
+[0x4d5fa]
+size = 18
+content = もったいないです。
+
+[0x4d60d]
+size = 15
+content = 304001iv0060180
+
+[0x4d61d]
+size = 28
+content = ね、とってもいい子でしょう？
+
+[0x4d63a]
+size = 15
+content = 001001iv0060190
+
+[0x4d64a]
+size = 20
+content = ははは、そうですね。
+
+[0x4d65f]
+size = 15
+content = 304001iv0060200
+
+[0x4d66f]
+size = 24
+content = もういいわよ、蛍ちゃん。
+
+[0x4d688]
+size = 15
+content = 193001iv0060210
+
+[0x4d698]
+size = 18
+content = はい、失礼します。
+
+[0x4d6ab]
+size = 15
+content = 304001iv0060220
+
+[0x4d6bb]
+size = 12
+content = どうかしら？
+
+[0x4d6c8]
+size = 18
+content = 私たちの生徒会は。
+
+[0x4d6db]
+size = 8
+content = 割り込み
+
+[0x4d6e4]
+size = 28
+content = いやぁ、オレなんかから見たら
+
+[0x4d701]
+size = 34
+content = 雲の上の存在の人たちって感じで……
+
+[0x4d724]
+size = 42
+content = みんなそろいもそろって完璧超人かっていう。
+
+[0x4d74f]
+size = 15
+content = 001001iv0060230
+
+[0x4d75f]
+size = 36
+content = あなっち、そんな言い方、失礼でしょ。
+
+[0x4d784]
+size = 15
+content = 304001iv0060240
+
+[0x4d794]
+size = 26
+content = うふっ、別にいいですのよ。
+
+[0x4d7af]
+size = 34
+content = 私から見ても、完璧な人事ですもの。
+
+[0x4d7d2]
+size = 28
+content = （うわぁ、すごい自信だなぁ）
+
+[0x4d7ef]
+size = 12
+content = 割り込みなし
+
+[0x4d7fc]
+size = 15
+content = 001001iv0060250
+
+[0x4d80c]
+size = 22
+content = 豪華な顔ぶれというか、
+
+[0x4d823]
+size = 26
+content = 頼れる生徒会だと思います。
+
+[0x4d83e]
+size = 15
+content = 304001iv0060260
+
+[0x4d84e]
+size = 26
+content = うふっ、どうもありがとう。
+
+[0x4d869]
+size = 15
+content = 304001iv0060270
+
+[0x4d879]
+size = 34
+content = それで、実際にこの１年間の私たちは
+
+[0x4d89c]
+size = 38
+content = 三日月さんから見てどうだったのかしら？
+
+[0x4d8c3]
+size = 15
+content = 001001iv0060280
+
+[0x4d8d3]
+size = 32
+content = そ、そうですね……え～っと……。
+
+[0x4d8f4]
+size = 36
+content = （うわぁ、逆に質問されちゃってるよ）
+
+[0x4d919]
+size = 15
+content = 001001iv0060290
+
+[0x4d929]
+size = 34
+content = 私たちが１年の時の生徒会と比べると
+
+[0x4d94c]
+size = 46
+content = いろんな行事やアナウンスに特徴が出てたというか
+
+[0x4d97b]
+size = 48
+content = 生徒会の個性、みたいなのが感じられた気がします。
+
+[0x4d9ac]
+size = 15
+content = 304001iv0060300
+
+[0x4d9bc]
+size = 44
+content = それは一応褒め言葉と受け取っていいのかしら？
+
+[0x4d9e9]
+size = 15
+content = 001001iv0060310
+
+[0x4d9f9]
+size = 18
+content = あ、もちろんです！
+
+[0x4da0c]
+size = 15
+content = 304001iv0060320
+
+[0x4da1c]
+size = 20
+content = そう、良かった……。
+
+[0x4da31]
+size = 15
+content = 001001iv0060330
+
+[0x4da41]
+size = 38
+content = 夏休み明けには、夢高祭が控えていますが
+
+[0x4da68]
+size = 32
+content = 任期も残り３ヶ月をきったところで
+
+[0x4da89]
+size = 30
+content = 現在の心境をお聞かせください。
+
+[0x4daa8]
+size = 15
+content = 304001iv0060340
+
+[0x4dab8]
+size = 18
+content = わくわくしますわ。
+
+[0x4dacb]
+size = 15
+content = 001001iv0060350
+
+[0x4dadb]
+size = 18
+content = ……と言いますと？
+
+[0x4daee]
+size = 15
+content = 304001iv0060360
+
+[0x4dafe]
+size = 42
+content = やりたい事、やり残した事も沢山ありますし、
+
+[0x4db29]
+size = 30
+content = 時間も足りないという制限の中で
+
+[0x4db48]
+size = 48
+content = 自分たちがどこまで出来るのか、楽しみなんですの。
+
+[0x4db79]
+size = 15
+content = 001001iv0060370
+
+[0x4db89]
+size = 18
+content = な、なるほど……。
+
+[0x4db9c]
+size = 48
+content = チャレンジ精神で燃えている、という事でしょうか。
+
+[0x4dbcd]
+size = 15
+content = 304001iv0060380
+
+[0x4dbdd]
+size = 22
+content = そうね、そういう感じ。
+
+[0x4dbf4]
+size = 26
+content = あ、それともうひとつ……。
+
+[0x4dc0f]
+size = 15
+content = 001001iv0060390
+
+[0x4dc1f]
+size = 16
+content = なんでしょうか？
+
+[0x4dc30]
+size = 15
+content = 304001iv0060400
+
+[0x4dc40]
+size = 36
+content = 三日月さん……いえ、報道部に依頼した
+
+[0x4dc65]
+size = 40
+content = 取材の成果も楽しみにしてますわ、とても。
+
+[0x4dc8e]
+size = 15
+content = 001001iv0060410
+
+[0x4dc9e]
+size = 36
+content = ウッ、それは……精一杯頑張りますっ！
+
+[0x4dcc3]
+size = 15
+content = 304001iv0060420
+
+[0x4dcd3]
+size = 18
+content = うふっ、よろしく。
+
+[0x4dce6]
+size = 15
+content = 001001iv0060430
+
+[0x4dcf6]
+size = 36
+content = それでは最後に、未来の新入生へ向けて
+
+[0x4dd1b]
+size = 30
+content = 何かメッセージをお願いします。
+
+[0x4dd3a]
+size = 15
+content = 304001iv0060440
+
+[0x4dd4a]
+size = 34
+content = 夢高は自主自立を旨とする学校です。
+
+[0x4dd6d]
+size = 38
+content = 私たち生徒会も全力でそれを支援します。
+
+[0x4dd94]
+size = 15
+content = 304001iv0060450
+
+[0x4dda4]
+size = 36
+content = みなさん１人１人の小さな夢を実現し、
+
+[0x4ddc9]
+size = 28
+content = 大きな夢の礎となる高校生活を
+
+[0x4dde6]
+size = 38
+content = 是非この夢高でいっしょに送りましょう。
+
+[0x4de0d]
+size = 15
+content = 001001iv0060460
+
+[0x4de1d]
+size = 14
+content = わぁ～っ……。
+
+[0x4de2c]
+size = 15
+content = 193001iv0060470
+
+[0x4de3c]
+size = 30
+content = 会長っ、素晴らしかったです！！
+
+[0x4de5b]
+size = 15
+content = 304001iv0060480
+
+[0x4de6b]
+size = 22
+content = ありがとう、蛍ちゃん。
+
+[0x4de82]
+size = 15
+content = 001001iv0060490
+
+[0x4de92]
+size = 20
+content = 会長！　今のお言葉、
+
+[0x4dea7]
+size = 46
+content = そのまま記事に使わせていただいてもいいですか？
+
+[0x4ded6]
+size = 15
+content = 304001iv0060500
+
+[0x4dee6]
+size = 28
+content = もちろん、構いませんことよ。
+
+[0x4df03]
+size = 15
+content = 001001iv0060510
+
+[0x4df13]
+size = 22
+content = ありがとうございます。
+
+[0x4df2a]
+size = 20
+content = 取材の方は以上です。
+
+[0x4df3f]
+size = 22
+content = え～っとそれでは最後に
+
+[0x4df56]
+size = 38
+content = みなさんで写真を一枚撮らせてください。
+
+[0x4df7d]
+size = 15
+content = 304001iv0060520
+
+[0x4df8d]
+size = 12
+content = いいですわ。
+
+[0x4df9a]
+size = 15
+content = 304001iv0060530
+
+[0x4dfaa]
+size = 20
+content = 蛍ちゃん、影山さん。
+
+[0x4dfbf]
+size = 15
+content = 193001iv0060540
+
+[0x4dfcf]
+size = 20
+content = わわ、私もですか！？
+
+[0x4dfe4]
+size = 8
+content = はいっ。
+
+[0x4dfed]
+size = 10
+content = 御厨慎之介
+
+[0x4dff8]
+size = 15
+content = 346001iv0060550
+
+[0x4e008]
+size = 20
+content = ただいま戻りました。
+
+[0x4e01d]
+size = 15
+content = 193001iv0060560
+
+[0x4e02d]
+size = 18
+content = あ、御厨副会長っ！
+
+[0x4e040]
+size = 18
+content = ちょうど良かった。
+
+[0x4e053]
+size = 40
+content = 今から生徒会メンバーの写真を撮るんです。
+
+[0x4e07c]
+size = 15
+content = 304001iv0060570
+
+[0x4e08c]
+size = 18
+content = こっちよ、御厨君。
+
+[0x4e09f]
+size = 15
+content = 346001iv0060580
+
+[0x4e0af]
+size = 18
+content = 写真、ですか……？
+
+[0x4e0c2]
+size = 14
+content = わかりました。
+
+[0x4e0d1]
+size = 18
+content = では撮りますね～。
+
+[0x4e0e4]
+size = 10
+content = せーのっ。
+
+[0x4e0ef]
+size = 16
+content = オッケーで～す。
+
+[0x4e100]
+size = 24
+content = ありがとうございました。
+
+[0x4e119]
+size = 15
+content = 001001iv0060590
+
+[0x4e129]
+size = 34
+content = それでは私たちはこれで失礼します。
+
+[0x4e14c]
+size = 22
+content = ご協力に感謝致します。
+
+[0x4e163]
+size = 15
+content = 304001iv0060600
+
+[0x4e173]
+size = 18
+content = どういたしまして。
+
+[0x4e186]
+size = 26
+content = 取材、頑張ってくださいね。
+
+[0x4e1a1]
+size = 15
+content = 001001iv0060610
+
+[0x4e1b1]
+size = 28
+content = あれがうちの生徒会かぁ……。
+
+[0x4e1ce]
+size = 15
+content = 001001iv0060620
+
+[0x4e1de]
+size = 22
+content = どう？　びっくりした？
+
+[0x4e1f5]
+size = 24
+content = うん、なんかすごかった。
+
+[0x4e20e]
+size = 34
+content = でも、三日月が逆に取材されてたのは
+
+[0x4e231]
+size = 16
+content = 面白かったなぁ。
+
+[0x4e242]
+size = 15
+content = 001001iv0060630
+
+[0x4e252]
+size = 30
+content = あぁ、あれは私もびっくりした。
+
+[0x4e271]
+size = 36
+content = やっぱり生徒会長には敵わないなぁ～。
+
+[0x4e296]
+size = 32
+content = へぇ、あっさり負けを認めるなんて
+
+[0x4e2b7]
+size = 28
+content = 三日月らしくないじゃないか。
+
+[0x4e2d4]
+size = 15
+content = 001001iv0060640
+
+[0x4e2e4]
+size = 18
+content = 別に負けてません！
+
+[0x4e2f7]
+size = 34
+content = そもそも勝負してるわけじゃないし。
+
+[0x4e31a]
+size = 15
+content = 001001iv0060650
+
+[0x4e32a]
+size = 30
+content = ……って、あなっちの意地悪っ。
+
+[0x4e349]
+size = 36
+content = ごめん、ちょっとからかっただけだよ。
+
+[0x4e36e]
+size = 28
+content = さ、とっとと部室に戻ろうか。
+
+[0x4e38b]
+size = 25
+content = めぐ同行取材EV006：生徒会
+

@@ -1,0 +1,1372 @@
+[0x5b3f0]
+size = 41
+content = めぐ同行取材EV009：小田切清（放送委員会）
+
+[0x5b41a]
+size = 4
+content = めぐ
+
+[0x5b41f]
+size = 15
+content = 001001iv0090010
+
+[0x5b42f]
+size = 34
+content = すみませーん、報道部の三日月です。
+
+[0x5b452]
+size = 32
+content = 小田切さんはいらっしゃいますか？
+
+[0x5b474]
+size = 8
+content = 小田切清
+
+[0x5b47d]
+size = 15
+content = 362001iv0090020
+
+[0x5b48d]
+size = 12
+content = オゥイェ～！
+
+[0x5b49a]
+size = 28
+content = 開いてるから中に入ってヨゥ。
+
+[0x5b4b7]
+size = 15
+content = 001001iv0090030
+
+[0x5b4c7]
+size = 14
+content = わかりました。
+
+[0x5b4d6]
+size = 12
+content = 失礼します。
+
+[0x5b4e3]
+size = 15
+content = 001001iv0090040
+
+[0x5b4f3]
+size = 24
+content = 今日は取材で伺いました。
+
+[0x5b50c]
+size = 22
+content = よろしくお願いします。
+
+[0x5b523]
+size = 15
+content = 362001iv0090050
+
+[0x5b533]
+size = 12
+content = オーケーイ！
+
+[0x5b540]
+size = 22
+content = こちらこそヨロシクゥ！
+
+[0x5b557]
+size = 12
+content = ○○○○○○
+
+[0x5b564]
+size = 22
+content = （な、なんだこの人？）
+
+[0x5b57b]
+size = 15
+content = 362001iv0090060
+
+[0x5b58b]
+size = 34
+content = お～っと、そっちのシャイなボーイは
+
+[0x5b5ae]
+size = 14
+content = フーアーユー？
+
+[0x5b5bd]
+size = 15
+content = 001001iv0090070
+
+[0x5b5cd]
+size = 26
+content = ああ、こちらは同じ報道部の
+
+[0x5b5e8]
+size = 15
+content = 001001iv0090080
+
+[0x5b5f8]
+size = 12
+content = ○○○です。
+
+[0x5b605]
+size = 15
+content = 362001iv0090090
+
+[0x5b615]
+size = 30
+content = オゥイェ～、オーケイアナッチ！
+
+[0x5b634]
+size = 16
+content = ヒアウィゴー！！
+
+[0x5b645]
+size = 36
+content = （だからあなっちじゃないってば……）
+
+[0x5b66a]
+size = 15
+content = 001001iv0090100
+
+[0x5b67a]
+size = 42
+content = では早速取材の方に移らせていただきますね。
+
+[0x5b6a5]
+size = 15
+content = 362001iv0090110
+
+[0x5b6b5]
+size = 48
+content = オーケイ、レィディース・エン・ジェントォメーン！
+
+[0x5b6e6]
+size = 15
+content = 362001iv0090120
+
+[0x5b6f6]
+size = 40
+content = 今日、この秘密のアジトからお伝えするのは
+
+[0x5b71f]
+size = 36
+content = もちろんこの、ファンキーオダキリー！
+
+[0x5b744]
+size = 26
+content = ヨロシクゥ、オゥイェー！！
+
+[0x5b75f]
+size = 15
+content = 001001iv0090130
+
+[0x5b76f]
+size = 18
+content = あ、あの…………。
+
+[0x5b782]
+size = 15
+content = 362001iv0090140
+
+[0x5b792]
+size = 8
+content = ワッツ？
+
+[0x5b79b]
+size = 16
+content = （日本語でオケ）
+
+[0x5b7ac]
+size = 15
+content = 001001iv0090150
+
+[0x5b7bc]
+size = 42
+content = 突然の事で、驚いてしまって……すみません。
+
+[0x5b7e7]
+size = 15
+content = 362001iv0090160
+
+[0x5b7f7]
+size = 30
+content = ドンウォリー・ビーハッピー！！
+
+[0x5b816]
+size = 46
+content = それでは最初のナンバー、みんな聞いてくれヨゥ！
+
+[0x5b845]
+size = 34
+content = （だめだ……全然会話になってない）
+
+[0x5b868]
+size = 15
+content = 001001iv0090170
+
+[0x5b878]
+size = 22
+content = 小田切さん、あの……。
+
+[0x5b88f]
+size = 15
+content = 362001iv0090180
+
+[0x5b89f]
+size = 10
+content = ノーノー！
+
+[0x5b8aa]
+size = 32
+content = アイ・アム、ファンキーオダキリ。
+
+[0x5b8cb]
+size = 15
+content = 001001iv0090190
+
+[0x5b8db]
+size = 38
+content = じゃ、じゃあ、ファンキーオダギリさん。
+
+[0x5b902]
+size = 34
+content = 今日はそういう感じで行くんですね？
+
+[0x5b925]
+size = 15
+content = 362001iv0090200
+
+[0x5b935]
+size = 12
+content = オフコース！
+
+[0x5b942]
+size = 24
+content = オレのはじけたトークで、
+
+[0x5b95b]
+size = 38
+content = リスナーたちをメロメロにしてやるヨゥ！
+
+[0x5b982]
+size = 15
+content = 001001iv0090210
+
+[0x5b992]
+size = 28
+content = ……（すぅっ）わかりました！
+
+[0x5b9af]
+size = 40
+content = 最高のパフォーマンスを期待してるぜっ！！
+
+[0x5b9d8]
+size = 16
+content = ……ええっ！！！
+
+[0x5b9e9]
+size = 22
+content = （三日月が弾けた！？）
+
+[0x5ba00]
+size = 15
+content = 362001iv0090220
+
+[0x5ba10]
+size = 22
+content = サンキュー、ベイベー！
+
+[0x5ba27]
+size = 15
+content = 362001iv0090230
+
+[0x5ba37]
+size = 18
+content = 早速行ってみよう！
+
+[0x5ba4a]
+size = 40
+content = 最初のナンバーは、今人気絶頂のアイドル。
+
+[0x5ba73]
+size = 46
+content = 双葉理保のニューシングル「カンパイ・ＬＯＶＥ」
+
+[0x5baa2]
+size = 26
+content = （あ、この曲知ってる……）
+
+[0x5babd]
+size = 15
+content = 362001iv0090240
+
+[0x5bacd]
+size = 28
+content = オーケイ、みんなどうだった？
+
+[0x5baea]
+size = 36
+content = と～ってもキュートなナンバーだろォ？
+
+[0x5bb0f]
+size = 15
+content = 362001iv0090250
+
+[0x5bb1f]
+size = 38
+content = ＰＶではイントロや間奏の時の振り付けが
+
+[0x5bb46]
+size = 42
+content = 最っ高にイカしてるんだぜ、エクセレント！！
+
+[0x5bb71]
+size = 26
+content = みんなも是非見てくれよな！
+
+[0x5bb8c]
+size = 15
+content = 362001iv0090260
+
+[0x5bb9c]
+size = 46
+content = さぁ、メロメロになったところで、次のナンバー！
+
+[0x5bbcb]
+size = 15
+content = 362001iv0090270
+
+[0x5bbdb]
+size = 38
+content = もうすぐメジャーデビューが噂されている
+
+[0x5bc02]
+size = 24
+content = インディーズバンドから、
+
+[0x5bc1b]
+size = 40
+content = ブラッディマリリンで「隻眼の魔女」っ！！
+
+[0x5bc44]
+size = 38
+content = （インディーズか……全然知らないなぁ）
+
+[0x5bc6b]
+size = 15
+content = 362001iv0090280
+
+[0x5bc7b]
+size = 42
+content = どうだ～い、ミステリアスなナンバーだろォ？
+
+[0x5bca6]
+size = 40
+content = 一日も早いメジャーデビューを祈ってるぜ。
+
+[0x5bccf]
+size = 15
+content = 362001iv0090290
+
+[0x5bcdf]
+size = 22
+content = ウェル、次のコーナーは
+
+[0x5bcf6]
+size = 40
+content = ファンキーオダギリのアフタヌーントーク。
+
+[0x5bd1f]
+size = 50
+content = 今日はゲストに、クレッセントメグが来てくれてます！
+
+[0x5bd52]
+size = 15
+content = 362001iv0090300
+
+[0x5bd62]
+size = 18
+content = こんにちは、メグ！
+
+[0x5bd75]
+size = 30
+content = 今日は来てくれてありがとーぅ！
+
+[0x5bd94]
+size = 15
+content = 001001iv0090310
+
+[0x5bda4]
+size = 36
+content = ……え、私、しゃべっていいんですか？
+
+[0x5bdc9]
+size = 15
+content = 362001iv0090320
+
+[0x5bdd9]
+size = 12
+content = オフコース。
+
+[0x5bde6]
+size = 38
+content = 自分の家だと思ってリラックスしてくれ。
+
+[0x5be0d]
+size = 15
+content = 362001iv0090330
+
+[0x5be1d]
+size = 30
+content = みんな！　実はメグは報道部で、
+
+[0x5be3c]
+size = 34
+content = 今日はこのファンキーオダギリに何か
+
+[0x5be5f]
+size = 28
+content = 聞きたい事があるらしいんだ。
+
+[0x5be7c]
+size = 15
+content = 362001iv0090340
+
+[0x5be8c]
+size = 28
+content = さぁメグ、何でも聞いてくれ。
+
+[0x5bea9]
+size = 34
+content = とびきりファンキーなヤツを頼むぜ！
+
+[0x5becc]
+size = 15
+content = 001001iv0090350
+
+[0x5bedc]
+size = 28
+content = ファ、ファンキーですか……？
+
+[0x5bef9]
+size = 15
+content = 001001iv0090360
+
+[0x5bf09]
+size = 14
+content = では、えーっと
+
+[0x5bf18]
+size = 32
+content = ファンキーオダギリさんのキャラは
+
+[0x5bf39]
+size = 36
+content = いつ頃どうやって考えられたんですか？
+
+[0x5bf5e]
+size = 15
+content = 362001iv0090370
+
+[0x5bf6e]
+size = 18
+content = …………ウップス。
+
+[0x5bf81]
+size = 42
+content = 初っ端からデンジャラスなクエスチョンだね。
+
+[0x5bfac]
+size = 42
+content = そして、そのクエスチョンへの答えはこうだ！
+
+[0x5bfd7]
+size = 15
+content = 362001iv0090380
+
+[0x5bfe7]
+size = 16
+content = ノーコメント！！
+
+[0x5bff8]
+size = 15
+content = 001001iv0090390
+
+[0x5c008]
+size = 14
+content = ええ～～っ！？
+
+[0x5c017]
+size = 8
+content = 割り込み
+
+[0x5c020]
+size = 26
+content = そろそろ普通にしませんか？
+
+[0x5c03b]
+size = 32
+content = さすがにこっちも疲れてきますし、
+
+[0x5c05c]
+size = 30
+content = 何より取材の方が進みませんよ。
+
+[0x5c07b]
+size = 15
+content = 362001iv0090400
+
+[0x5c08b]
+size = 20
+content = なんだよ、アナッチ。
+
+[0x5c0a0]
+size = 18
+content = ノリが悪いなぁ～。
+
+[0x5c0b3]
+size = 28
+content = いやいや、アナッチって……。
+
+[0x5c0d0]
+size = 18
+content = （お前が言うなよ）
+
+[0x5c0e3]
+size = 15
+content = 001001iv0090410
+
+[0x5c0f3]
+size = 34
+content = あの、私の方もそうしていただけると
+
+[0x5c116]
+size = 28
+content = すごく助かるんですけど……。
+
+[0x5c133]
+size = 15
+content = 362001iv0090420
+
+[0x5c143]
+size = 16
+content = え～、そうなの？
+
+[0x5c154]
+size = 24
+content = アンビリーバボゥ！！！！
+
+[0x5c16d]
+size = 15
+content = 362001iv0090430
+
+[0x5c17d]
+size = 38
+content = しょうがないなぁ、じゃあ放送止めるね。
+
+[0x5c1a4]
+size = 34
+content = （放送なんて最初からしてないだろ）
+
+[0x5c1c7]
+size = 15
+content = 001001iv0090440
+
+[0x5c1d7]
+size = 34
+content = それでは質問させていただきますね。
+
+[0x5c1fa]
+size = 36
+content = 放送委員になったきっかけは何ですか？
+
+[0x5c21f]
+size = 15
+content = 362001iv0090450
+
+[0x5c22f]
+size = 18
+content = なりたかったから。
+
+[0x5c242]
+size = 15
+content = 362001iv0090460
+
+[0x5c252]
+size = 32
+content = オレ、将来はＤＪになりたいんだ。
+
+[0x5c273]
+size = 40
+content = だから放送委員になって、色々勉強しながら
+
+[0x5c29c]
+size = 36
+content = トークのテクニックを磨こうと思って。
+
+[0x5c2c1]
+size = 15
+content = 001001iv0090470
+
+[0x5c2d1]
+size = 10
+content = なるほど。
+
+[0x5c2dc]
+size = 42
+content = その成果はもう充分私たちにも伝わりました。
+
+[0x5c307]
+size = 15
+content = 362001iv0090480
+
+[0x5c317]
+size = 10
+content = そ、そう？
+
+[0x5c322]
+size = 15
+content = 362001iv0090490
+
+[0x5c332]
+size = 14
+content = で、どうかな？
+
+[0x5c341]
+size = 32
+content = 正直なところ、モノになると思う？
+
+[0x5c362]
+size = 15
+content = 001001iv0090500
+
+[0x5c372]
+size = 32
+content = 今すぐかどうかはわかりませんけど
+
+[0x5c393]
+size = 36
+content = 将来的に可能性は充分じゃないですか。
+
+[0x5c3b8]
+size = 32
+content = ねぇ、あなっちもそう思うでしょ？
+
+[0x5c3d9]
+size = 30
+content = あ、ああ……可能性は、あるね。
+
+[0x5c3f8]
+size = 15
+content = 362001iv0090510
+
+[0x5c408]
+size = 20
+content = そっか、良かった～。
+
+[0x5c41d]
+size = 36
+content = なかなか人の感想なんて聞けなくてさ。
+
+[0x5c442]
+size = 15
+content = 362001iv0090520
+
+[0x5c452]
+size = 28
+content = たまに校内放送を任された時も
+
+[0x5c46f]
+size = 44
+content = やっぱりある程度真面目にやらないといけないし
+
+[0x5c49c]
+size = 42
+content = 思いっきりやるチャンスがなかなかないんだ。
+
+[0x5c4c7]
+size = 15
+content = 001001iv0090530
+
+[0x5c4d7]
+size = 12
+content = そうですね。
+
+[0x5c4e4]
+size = 26
+content = 校内放送でアレをやられたら
+
+[0x5c4ff]
+size = 38
+content = さすがに先生が入ってきちゃいますよね。
+
+[0x5c526]
+size = 15
+content = 362001iv0090540
+
+[0x5c536]
+size = 12
+content = そうなんだ。
+
+[0x5c543]
+size = 30
+content = ほんと、こっぴどく怒られたよ。
+
+[0x5c562]
+size = 12
+content = ははは……。
+
+[0x5c56f]
+size = 22
+content = （やった事はあるんだ）
+
+[0x5c586]
+size = 15
+content = 001001iv0090550
+
+[0x5c596]
+size = 26
+content = それじゃ、残りの任期の間に
+
+[0x5c5b1]
+size = 36
+content = 小田切さんがやりたい事って何ですか？
+
+[0x5c5d6]
+size = 15
+content = 362001iv0090560
+
+[0x5c5e6]
+size = 24
+content = 夢高祭でＤＪがやりたい。
+
+[0x5c5ff]
+size = 15
+content = 001001iv0090570
+
+[0x5c60f]
+size = 44
+content = なるほど、それが最後のチャンスって事ですね。
+
+[0x5c63c]
+size = 15
+content = 362001iv0090580
+
+[0x5c64c]
+size = 6
+content = うん。
+
+[0x5c653]
+size = 26
+content = だから今から企画を考えたり
+
+[0x5c66e]
+size = 36
+content = 実行委員のヤツにコネ作ったりしてる。
+
+[0x5c693]
+size = 15
+content = 001001iv0090590
+
+[0x5c6a3]
+size = 34
+content = 実行委員のコネって有効なんですか？
+
+[0x5c6c6]
+size = 15
+content = 362001iv0090600
+
+[0x5c6d6]
+size = 8
+content = たぶん。
+
+[0x5c6df]
+size = 24
+content = 先輩から聞いた事あるし。
+
+[0x5c6f8]
+size = 38
+content = ないよりあった方がいいに決まってるよ。
+
+[0x5c71f]
+size = 15
+content = 001001iv0090610
+
+[0x5c72f]
+size = 32
+content = ふむふむ……それは新しいネタね。
+
+[0x5c750]
+size = 15
+content = 001001iv0090620
+
+[0x5c760]
+size = 32
+content = ちなみに、他の放送委員の人たちは
+
+[0x5c781]
+size = 22
+content = どんな感じなんですか？
+
+[0x5c798]
+size = 15
+content = 362001iv0090630
+
+[0x5c7a8]
+size = 34
+content = ああ、みんな自己チューですごいよ。
+
+[0x5c7cb]
+size = 40
+content = 集まると誰が主導権握るかの凌ぎ合いだし。
+
+[0x5c7f4]
+size = 30
+content = オレなんか全然可愛いもんだよ。
+
+[0x5c813]
+size = 15
+content = 001001iv0090640
+
+[0x5c823]
+size = 16
+content = そんなに……！？
+
+[0x5c834]
+size = 15
+content = 362001iv0090650
+
+[0x5c844]
+size = 38
+content = 今度時間があったら、他の放送委員の事も
+
+[0x5c86b]
+size = 22
+content = 取材してみたらいいよ。
+
+[0x5c882]
+size = 46
+content = オレの言ってる事がウソじゃないってわかるから。
+
+[0x5c8b1]
+size = 15
+content = 001001iv0090660
+
+[0x5c8c1]
+size = 16
+content = 検討してみます。
+
+[0x5c8d2]
+size = 15
+content = 001001iv0090670
+
+[0x5c8e2]
+size = 22
+content = 取材は以上となります。
+
+[0x5c8f9]
+size = 36
+content = 今日はどうもありがとうございました。
+
+[0x5c91e]
+size = 15
+content = 362001iv0090680
+
+[0x5c92e]
+size = 34
+content = 残念ながら今日もお別れの時間だぜ。
+
+[0x5c951]
+size = 32
+content = みんな、また明日！　グッバイ！！
+
+[0x5c972]
+size = 40
+content = （ここまでくると潔い気もしないではない）
+
+[0x5c99b]
+size = 40
+content = 小田切さん、最後に写真を一枚いいですか？
+
+[0x5c9c4]
+size = 15
+content = 362001iv0090690
+
+[0x5c9d4]
+size = 18
+content = カモン、アナッチ！
+
+[0x5c9e7]
+size = 18
+content = じゃ、撮りま～す。
+
+[0x5c9fa]
+size = 16
+content = 双葉理保で～す。
+
+[0x5ca0b]
+size = 14
+content = オッケーです。
+
+[0x5ca1a]
+size = 24
+content = ありがとうございました。
+
+[0x5ca33]
+size = 15
+content = 362001iv0090700
+
+[0x5ca43]
+size = 38
+content = なかなかファンキーだったぜ、アナッチ。
+
+[0x5ca6a]
+size = 26
+content = ははは、そりゃどうもです。
+
+[0x5ca85]
+size = 15
+content = 001001iv0090710
+
+[0x5ca95]
+size = 36
+content = それでは、私たちはこれで失礼します。
+
+[0x5caba]
+size = 16
+content = お疲れ様でした。
+
+[0x5cacb]
+size = 15
+content = 362001iv0090720
+
+[0x5cadb]
+size = 14
+content = アディオ～ス。
+
+[0x5caea]
+size = 12
+content = 割り込みなし
+
+[0x5caf7]
+size = 15
+content = 362001iv0090730
+
+[0x5cb07]
+size = 44
+content = リスナーのみんな、今のがオフレコってヤツだ。
+
+[0x5cb34]
+size = 36
+content = ライブならではのハプニングだろぉ～？
+
+[0x5cb59]
+size = 40
+content = （滅茶苦茶だけど、ある意味才能あるなぁ）
+
+[0x5cb82]
+size = 15
+content = 001001iv0090740
+
+[0x5cb92]
+size = 24
+content = それじゃ、次の質問です。
+
+[0x5cbab]
+size = 34
+content = この番組って誰が聞いてるんですか？
+
+[0x5cbce]
+size = 15
+content = 362001iv0090750
+
+[0x5cbde]
+size = 14
+content = ………………。
+
+[0x5cbed]
+size = 15
+content = 362001iv0090760
+
+[0x5cbfd]
+size = 26
+content = あのさ、申し訳ないんだけど
+
+[0x5cc18]
+size = 30
+content = 少しは空気読んでくれないかな？
+
+[0x5cc37]
+size = 36
+content = こっちにも色々都合があるんだよ……。
+
+[0x5cc5c]
+size = 15
+content = 001001iv0090770
+
+[0x5cc6c]
+size = 10
+content = 良かった。
+
+[0x5cc77]
+size = 28
+content = やっと普通にお話できますね。
+
+[0x5cc94]
+size = 15
+content = 362001iv0090780
+
+[0x5cca4]
+size = 38
+content = いや、だからさ、そうじゃなくって……。
+
+[0x5cccb]
+size = 15
+content = 001001iv0090790
+
+[0x5ccdb]
+size = 38
+content = 放送委員長の小田切さんがそんな感じだと
+
+[0x5cd02]
+size = 24
+content = 他の放送委員のみなさんも
+
+[0x5cd1b]
+size = 38
+content = 何かと苦労が絶えないんじゃないですか？
+
+[0x5cd42]
+size = 32
+content = （おいおい三日月……急に怖いよ）
+
+[0x5cd63]
+size = 15
+content = 362001iv0090800
+
+[0x5cd73]
+size = 24
+content = わかったよ、もういいよ。
+
+[0x5cd8c]
+size = 42
+content = 他の連中は別に苦労なんてしてないと思うよ。
+
+[0x5cdb7]
+size = 48
+content = みんなオレに負けず劣らずの目立ちたがり屋だから。
+
+[0x5cde8]
+size = 15
+content = 001001iv0090810
+
+[0x5cdf8]
+size = 32
+content = 小田切さんと同じくらい、ですか？
+
+[0x5ce19]
+size = 15
+content = 362001iv0090820
+
+[0x5ce29]
+size = 24
+content = なんだよその疑いの目は。
+
+[0x5ce42]
+size = 12
+content = 本当だって。
+
+[0x5ce4f]
+size = 15
+content = 362001iv0090830
+
+[0x5ce5f]
+size = 24
+content = みんな集まった時なんか、
+
+[0x5ce78]
+size = 30
+content = 逆にオレは静かな方なんだから。
+
+[0x5ce97]
+size = 40
+content = その分、ひとりの時は興奮しちゃって……。
+
+[0x5cec0]
+size = 20
+content = そうだったんですか。
+
+[0x5ced5]
+size = 15
+content = 362001iv0090840
+
+[0x5cee5]
+size = 24
+content = ちょっとはオレの気持ち、
+
+[0x5cefe]
+size = 28
+content = わかってくれるか、アナッチ？
+
+[0x5cf1b]
+size = 14
+content = いえ、全然っ！
+
+[0x5cf2a]
+size = 28
+content = （だからアナッチ言うなって）
+
+[0x5cf47]
+size = 15
+content = 001001iv0090850
+
+[0x5cf57]
+size = 24
+content = となると、放送委員全員が
+
+[0x5cf70]
+size = 38
+content = かなり個性的な集団って事になりますね。
+
+[0x5cf97]
+size = 15
+content = 362001iv0090860
+
+[0x5cfa7]
+size = 20
+content = それは否定しないよ。
+
+[0x5cfbc]
+size = 30
+content = あいつら、自分が目立つためなら
+
+[0x5cfdb]
+size = 42
+content = 手段を選ばないから、オレより性質悪いって。
+
+[0x5d006]
+size = 8
+content = 東幸太郎
+
+[0x5d00f]
+size = 15
+content = 268001iv0090870
+
+[0x5d01f]
+size = 30
+content = それは聞き捨てならないな、清。
+
+[0x5d03e]
+size = 15
+content = 362001iv0090880
+
+[0x5d04e]
+size = 12
+content = ゲッ、東！！
+
+[0x5d05b]
+size = 34
+content = なんでここに？　いったいいつから？
+
+[0x5d07e]
+size = 15
+content = 268001iv0090890
+
+[0x5d08e]
+size = 40
+content = まぁ、それほどでもないけど最初からかな。
+
+[0x5d0b7]
+size = 15
+content = 362001iv0090900
+
+[0x5d0c7]
+size = 6
+content = は！？
+
+[0x5d0ce]
+size = 8
+content = 名取橘花
+
+[0x5d0d7]
+size = 15
+content = 123001iv0090910
+
+[0x5d0e7]
+size = 8
+content = なんか～
+
+[0x5d0f0]
+size = 40
+content = 小田切先輩がひとりでコソコソしてるから～
+
+[0x5d119]
+size = 32
+content = きっかが東先輩に教えてあげたの。
+
+[0x5d13a]
+size = 15
+content = 362001iv0090920
+
+[0x5d14a]
+size = 16
+content = 名取、お前か～！
+
+[0x5d15b]
+size = 10
+content = 西園寺留美
+
+[0x5d166]
+size = 15
+content = 239001iv0090930
+
+[0x5d176]
+size = 34
+content = でも、盗聴というのはちょっと……。
+
+[0x5d199]
+size = 24
+content = アタシの趣味じゃないわ。
+
+[0x5d1b2]
+size = 15
+content = 362001iv0090940
+
+[0x5d1c2]
+size = 14
+content = 西園寺まで！！
+
+[0x5d1d1]
+size = 26
+content = お前ら全員グルなのか～！？
+
+[0x5d1ec]
+size = 8
+content = 内海亜矢
+
+[0x5d1f5]
+size = 15
+content = 328001iv0090950
+
+[0x5d205]
+size = 24
+content = 小田切君、ごめんなさい。
+
+[0x5d21e]
+size = 38
+content = 私はやめようって言ったんだけどね……。
+
+[0x5d245]
+size = 15
+content = 362001iv0090960
+
+[0x5d255]
+size = 20
+content = ア……アヤまで……。
+
+[0x5d26a]
+size = 15
+content = 362001iv0090970
+
+[0x5d27a]
+size = 32
+content = ウアアア、もう誰も信じないっ！！
+
+[0x5d29b]
+size = 34
+content = （なんだか可哀相になってきたなぁ）
+
+[0x5d2be]
+size = 15
+content = 001001iv0090980
+
+[0x5d2ce]
+size = 34
+content = あの、みなさん放送委員の方ですか？
+
+[0x5d2f1]
+size = 15
+content = 328001iv0090990
+
+[0x5d301]
+size = 16
+content = はい、そうです。
+
+[0x5d312]
+size = 32
+content = 私は、副委員長の内海と言います。
+
+[0x5d333]
+size = 40
+content = 小田切君が色々とご迷惑をおかけしました。
+
+[0x5d35c]
+size = 15
+content = 268001iv0090900
+
+[0x5d36c]
+size = 40
+content = ほんっとコイツはショボいヤツだからなぁ。
+
+[0x5d395]
+size = 40
+content = 取材するならこの東幸太郎の方が適任だよ。
+
+[0x5d3be]
+size = 15
+content = 001001iv0090981
+
+[0x5d3ce]
+size = 16
+content = そうなんですか。
+
+[0x5d3df]
+size = 28
+content = ははは、じゃあそのうちまた。
+
+[0x5d3fc]
+size = 15
+content = 001001iv0090982
+
+[0x5d40c]
+size = 24
+content = あなっち、あなっち……。
+
+[0x5d425]
+size = 16
+content = そろそろお願い。
+
+[0x5d436]
+size = 26
+content = （写真撮って終了ね、了解）
+
+[0x5d451]
+size = 22
+content = みなさん、すみません。
+
+[0x5d468]
+size = 38
+content = 最後に放送委員の写真を一枚撮りますので
+
+[0x5d48f]
+size = 28
+content = そこに並んでいただけますか？
+
+[0x5d4ac]
+size = 20
+content = はい、行きますよ～。
+
+[0x5d4c1]
+size = 20
+content = ファンキーチュース！
+
+[0x5d4d6]
+size = 15
+content = 001001iv0090983
+
+[0x5d4e6]
+size = 32
+content = では私たちはこれで、失礼します。
+
+[0x5d507]
+size = 25
+content = めぐ同行取材EV009：小田切
+

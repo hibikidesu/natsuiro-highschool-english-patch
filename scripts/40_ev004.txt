@@ -1,0 +1,1288 @@
+[0x45800]
+size = 35
+content = めぐ同行取材EV004：虎島豪（野球部）
+
+[0x45824]
+size = 4
+content = めぐ
+
+[0x45829]
+size = 15
+content = 001001iv0040010
+
+[0x45839]
+size = 12
+content = すみません。
+
+[0x45846]
+size = 38
+content = 野球部の虎島先輩はいらっしゃいますか？
+
+[0x4586e]
+size = 6
+content = 虎島豪
+
+[0x45875]
+size = 15
+content = 321001iv0040020
+
+[0x45885]
+size = 16
+content = ああ、オレだよ。
+
+[0x45896]
+size = 20
+content = どうぞ、入ってくれ。
+
+[0x458ab]
+size = 15
+content = 001001iv0040030
+
+[0x458bb]
+size = 18
+content = はい、失礼します。
+
+[0x458ce]
+size = 15
+content = 001001iv0040040
+
+[0x458de]
+size = 20
+content = 報道部の三日月です。
+
+[0x458f3]
+size = 30
+content = 野球部の取材でお伺いしました。
+
+[0x45912]
+size = 15
+content = 321001iv0040050
+
+[0x45922]
+size = 34
+content = ああ、マネージャーから聞いてるよ。
+
+[0x45945]
+size = 32
+content = うちみたいな弱小野球部の話なんて
+
+[0x45966]
+size = 40
+content = 聞いても面白くないと思うけどな、ハハハ。
+
+[0x4598f]
+size = 15
+content = 001001iv0040060
+
+[0x4599f]
+size = 28
+content = いえ、そんな事はありません。
+
+[0x459bc]
+size = 40
+content = 夢高には運動部が少ないですし、団体競技で
+
+[0x459e5]
+size = 46
+content = チームが成立しているっていうだけでも貴重です。
+
+[0x45a14]
+size = 15
+content = 321001iv0040070
+
+[0x45a24]
+size = 32
+content = ハハハ、そう言われちゃうとなぁ。
+
+[0x45a45]
+size = 30
+content = ま、とりあえず何でも聞いてよ。
+
+[0x45a64]
+size = 15
+content = 001001iv0040080
+
+[0x45a74]
+size = 28
+content = はい、よろしくお願いします。
+
+[0x45a91]
+size = 20
+content = それで、こちらは……
+
+[0x45aa6]
+size = 12
+content = ○○○○○○
+
+[0x45ab3]
+size = 20
+content = 報道部の○○○です。
+
+[0x45ac8]
+size = 22
+content = よろしくお願いします。
+
+[0x45adf]
+size = 15
+content = 321001iv0040090
+
+[0x45aef]
+size = 16
+content = おう、よろしく。
+
+[0x45b00]
+size = 15
+content = 001001iv0040100
+
+[0x45b10]
+size = 38
+content = では、取材をはじめさせていただきます。
+
+[0x45b37]
+size = 34
+content = まず、虎島先輩のポジションなどは？
+
+[0x45b5a]
+size = 15
+content = 321001iv0040110
+
+[0x45b6a]
+size = 24
+content = オレは４番キャッチャー。
+
+[0x45b83]
+size = 42
+content = 本当はピッチャーがやりたかったんだけどね。
+
+[0x45bae]
+size = 15
+content = 001001iv0040120
+
+[0x45bbe]
+size = 24
+content = どうしてキャッチャーに？
+
+[0x45bd7]
+size = 15
+content = 321001iv0040130
+
+[0x45be7]
+size = 16
+content = いなかったから。
+
+[0x45bf8]
+size = 36
+content = １年の秋に、当時の３年が部活卒業して
+
+[0x45c1d]
+size = 40
+content = キャッチャーがいなくなっちまったんだよ。
+
+[0x45c46]
+size = 15
+content = 321001iv0040140
+
+[0x45c56]
+size = 30
+content = それに、うちにはナオキっていう
+
+[0x45c75]
+size = 26
+content = 不動のエースがいるからな。
+
+[0x45c90]
+size = 15
+content = 321001iv0040150
+
+[0x45ca0]
+size = 34
+content = 抑えは今、１年のイノハラが鉄板だし
+
+[0x45cc3]
+size = 32
+content = 中継ぎ兼控え投手のエイジもいる。
+
+[0x45ce4]
+size = 30
+content = ピッチャーは間に合ってんだよ。
+
+[0x45d03]
+size = 15
+content = 001001iv0040160
+
+[0x45d13]
+size = 36
+content = エイジさんというのは、副キャプテンの
+
+[0x45d38]
+size = 20
+content = 坂井英二さんですね。
+
+[0x45d4d]
+size = 15
+content = 321001iv0040170
+
+[0x45d5d]
+size = 44
+content = ああ、あいつのおかげでオレも楽が出来てるよ。
+
+[0x45d8a]
+size = 50
+content = ま、一番世話になってるのはマネージャーなんだけど。
+
+[0x45dbd]
+size = 15
+content = 001001iv0040180
+
+[0x45dcd]
+size = 38
+content = 野球部は今、部員数が１５人だそうですが
+
+[0x45df4]
+size = 40
+content = どんな感じの活動をしているのでしょうか？
+
+[0x45e1d]
+size = 15
+content = 321001iv0040190
+
+[0x45e2d]
+size = 28
+content = どんな感じって言ってもなぁ。
+
+[0x45e4a]
+size = 15
+content = 321001iv0040200
+
+[0x45e5a]
+size = 40
+content = 毎日放課後、本土の貸切グラウンドへ行って
+
+[0x45e83]
+size = 32
+content = 地元のリトルの練習が終わった後に
+
+[0x45ea4]
+size = 38
+content = ナイターで使わせてもらってる感じかな。
+
+[0x45ecb]
+size = 15
+content = 001001iv0040210
+
+[0x45edb]
+size = 30
+content = ナイターで練習してるんですか？
+
+[0x45efa]
+size = 15
+content = 321001iv0040220
+
+[0x45f0a]
+size = 12
+content = そうなんだ。
+
+[0x45f17]
+size = 32
+content = だから使用料が高くついちゃって、
+
+[0x45f38]
+size = 28
+content = 部費がカツカツなんだよなぁ。
+
+[0x45f55]
+size = 15
+content = 321001iv0040230
+
+[0x45f65]
+size = 46
+content = マネージャーはいっつも経費が経費がって言うわ、
+
+[0x45f94]
+size = 50
+content = 部費の補填のためにバイトしてるヤツもいるわで……。
+
+[0x45fc7]
+size = 8
+content = 割り込み
+
+[0x45fd0]
+size = 36
+content = バイトって、本土の方でやるんですか？
+
+[0x45ff5]
+size = 15
+content = 321001iv0040240
+
+[0x46005]
+size = 16
+content = そりゃそうだよ。
+
+[0x46016]
+size = 44
+content = 島にはたいしたバイトの口なんてないからなぁ。
+
+[0x46043]
+size = 20
+content = そうなんですか……。
+
+[0x46058]
+size = 36
+content = じゃあ、バイト探そうと思ったらやっぱ
+
+[0x4607d]
+size = 30
+content = 本土で探した方がいいんですね。
+
+[0x4609c]
+size = 15
+content = 321001iv0040250
+
+[0x460ac]
+size = 28
+content = なに、キミはバイトしたいの？
+
+[0x460c9]
+size = 36
+content = う～ん、まだ決めてはいないんですけど
+
+[0x460ee]
+size = 46
+content = 夏休みとかバイトしようかなぁ、なんて思ってて。
+
+[0x4611d]
+size = 15
+content = 321001iv0040260
+
+[0x4612d]
+size = 24
+content = なら本土だよ、絶対本土。
+
+[0x46146]
+size = 34
+content = カラオケ店とか、宅急便の仕分けとか
+
+[0x46169]
+size = 32
+content = 男だったら結構色々あると思うよ。
+
+[0x4618a]
+size = 16
+content = そうなんですか。
+
+[0x4619b]
+size = 14
+content = わかりました。
+
+[0x461aa]
+size = 32
+content = アドバイスありがとうございます！
+
+[0x461cb]
+size = 15
+content = 001001iv0040270
+
+[0x461db]
+size = 18
+content = ちょっとちょっと！
+
+[0x461ee]
+size = 38
+content = あなっちったら、何人生相談してるのよ。
+
+[0x46215]
+size = 18
+content = 今は取材中でしょ。
+
+[0x46228]
+size = 16
+content = ごめん、三日月。
+
+[0x46239]
+size = 10
+content = つい……。
+
+[0x46244]
+size = 15
+content = 321001iv0040280
+
+[0x46254]
+size = 16
+content = まぁいいじゃん。
+
+[0x46265]
+size = 22
+content = で、質問はなんだっけ？
+
+[0x4627c]
+size = 12
+content = 割り込みなし
+
+[0x46289]
+size = 15
+content = 001001iv0040290
+
+[0x46299]
+size = 38
+content = 虎島先輩もバイトをなさってるんですか？
+
+[0x462c0]
+size = 15
+content = 321001iv0040300
+
+[0x462d0]
+size = 28
+content = うん、まぁ毎日じゃないけど。
+
+[0x462ed]
+size = 50
+content = やっぱキャプテンが働かないっていうのもマズイしね。
+
+[0x46320]
+size = 15
+content = 001001iv0040310
+
+[0x46330]
+size = 34
+content = 野球に集中できない環境っていうのも
+
+[0x46353]
+size = 32
+content = マズイような気がしますけど……。
+
+[0x46374]
+size = 15
+content = 321001iv0040320
+
+[0x46384]
+size = 24
+content = いいんだよ、オレたちは。
+
+[0x4639d]
+size = 42
+content = 高校の部活動として、楽しく野球ができれば。
+
+[0x463c8]
+size = 15
+content = 321001iv0040330
+
+[0x463d8]
+size = 22
+content = 甲子園目指してる堅気の
+
+[0x463ef]
+size = 24
+content = 高校球児とは違うんだよ。
+
+[0x46408]
+size = 15
+content = 001001iv0040340
+
+[0x46418]
+size = 38
+content = でもなんか楽しそうですね、野球部って。
+
+[0x4643f]
+size = 15
+content = 321001iv0040350
+
+[0x4644f]
+size = 26
+content = おっ、お前にはわかるか！？
+
+[0x4646a]
+size = 44
+content = やっぱ同じ男同士、通じるモンがあるんだなぁ。
+
+[0x46497]
+size = 12
+content = ですよね～。
+
+[0x464a4]
+size = 15
+content = 001001iv0040360
+
+[0x464b4]
+size = 16
+content = むぅっ…………。
+
+[0x464c5]
+size = 15
+content = 001001iv0040370
+
+[0x464d5]
+size = 44
+content = それでは、野球部のピーアールをお願いします。
+
+[0x46502]
+size = 42
+content = 来年の新入生に向けたメッセージという形で。
+
+[0x4652d]
+size = 15
+content = 321001iv0040380
+
+[0x4653d]
+size = 20
+content = ピーアールかぁ……。
+
+[0x46552]
+size = 42
+content = 来年の新入生って言っても、その頃オレはもう
+
+[0x4657d]
+size = 26
+content = 卒業しちゃってるからなぁ。
+
+[0x46598]
+size = 20
+content = いいじゃないですか。
+
+[0x465ad]
+size = 44
+content = 卒業生からのメッセージって事でお願いします。
+
+[0x465da]
+size = 15
+content = 321001iv0040390
+
+[0x465ea]
+size = 10
+content = そうかぁ？
+
+[0x465f5]
+size = 16
+content = そんじゃあ……。
+
+[0x46606]
+size = 15
+content = 321001iv0040400
+
+[0x46616]
+size = 18
+content = 目指すな、甲子園！
+
+[0x46629]
+size = 36
+content = ベースボールを楽しもうぜオマエら！！
+
+[0x4664e]
+size = 22
+content = いいっすね、虎島先輩。
+
+[0x46665]
+size = 28
+content = オリジナリティ満載な感じで！
+
+[0x46682]
+size = 15
+content = 321001iv0040410
+
+[0x46692]
+size = 30
+content = バカだな、そんなに褒めるなよ。
+
+[0x466b1]
+size = 18
+content = 照れるじゃないか。
+
+[0x466c4]
+size = 15
+content = 001001iv0040420
+
+[0x466d4]
+size = 14
+content = …………え！？
+
+[0x466e3]
+size = 6
+content = 姫川唯
+
+[0x466ea]
+size = 15
+content = 360001iv0040430
+
+[0x466fa]
+size = 16
+content = ちょっと虎島君！
+
+[0x4670b]
+size = 15
+content = 321001iv0040440
+
+[0x4671b]
+size = 16
+content = ゲッ、姫川……。
+
+[0x4672c]
+size = 15
+content = 001001iv0040450
+
+[0x4673c]
+size = 18
+content = あの、すみません。
+
+[0x4674f]
+size = 28
+content = 今、取材中なんですけど……。
+
+[0x4676c]
+size = 15
+content = 360001iv0040460
+
+[0x4677c]
+size = 30
+content = 野球部マネージャーの姫川です。
+
+[0x4679b]
+size = 46
+content = さっきの虎島君の発言はオフレコでお願いします。
+
+[0x467ca]
+size = 15
+content = 001001iv0040470
+
+[0x467da]
+size = 24
+content = そう言われましても……。
+
+[0x467f3]
+size = 15
+content = 321001iv0040480
+
+[0x46803]
+size = 12
+content = 何だよ姫川！
+
+[0x46810]
+size = 36
+content = オレは何も間違った事言ってねぇぞ！？
+
+[0x46835]
+size = 28
+content = そうだそうだ、言ってないぞ！
+
+[0x46852]
+size = 15
+content = 001001iv0040490
+
+[0x46862]
+size = 18
+content = ダメよ、あなっち！
+
+[0x46875]
+size = 12
+content = 失礼でしょ！
+
+[0x46882]
+size = 15
+content = 321001iv0040500
+
+[0x46892]
+size = 14
+content = 全然いいって。
+
+[0x468a1]
+size = 20
+content = もっと言ってやれ～！
+
+[0x468b6]
+size = 15
+content = 360001iv0040510
+
+[0x468c6]
+size = 26
+content = いい加減にしなよ、虎島君。
+
+[0x468e1]
+size = 15
+content = 321001iv0040520
+
+[0x468f1]
+size = 22
+content = ……あんだよ、ちぇっ。
+
+[0x46908]
+size = 15
+content = 360001iv0040530
+
+[0x46918]
+size = 16
+content = 舌打ちしないッ。
+
+[0x46929]
+size = 15
+content = 321001iv0040540
+
+[0x46939]
+size = 16
+content = ……わかったよ。
+
+[0x4694a]
+size = 15
+content = 360001iv0040550
+
+[0x4695a]
+size = 16
+content = まったくもう～。
+
+[0x4696b]
+size = 34
+content = キャプテンらしく、上級生らしくって
+
+[0x4698e]
+size = 22
+content = いつも言ってるのに～。
+
+[0x469a5]
+size = 15
+content = 321001iv0040560
+
+[0x469b5]
+size = 14
+content = なんだよ姫川。
+
+[0x469c4]
+size = 32
+content = 今ちょっと取り込み中なんだって。
+
+[0x469e5]
+size = 22
+content = 教室の外で待ってろよ。
+
+[0x469fc]
+size = 15
+content = 360001iv0040570
+
+[0x46a0c]
+size = 44
+content = だって虎島君があんまりいい加減な事言うから。
+
+[0x46a39]
+size = 15
+content = 321001iv0040580
+
+[0x46a49]
+size = 36
+content = オレはいい加減じゃなくて、自由なの！
+
+[0x46a6e]
+size = 15
+content = 360001iv0040590
+
+[0x46a7e]
+size = 28
+content = はいはい、自由の履き違え乙。
+
+[0x46a9b]
+size = 15
+content = 360001iv0040600
+
+[0x46aab]
+size = 30
+content = 人として間違ってると思うけど。
+
+[0x46aca]
+size = 15
+content = 321001iv0040610
+
+[0x46ada]
+size = 34
+content = なんだよ、野球を楽しめっていうのが
+
+[0x46afd]
+size = 24
+content = 人として間違ってるのか？
+
+[0x46b16]
+size = 15
+content = 360001iv0040620
+
+[0x46b26]
+size = 26
+content = そっちじゃなくて、その前。
+
+[0x46b41]
+size = 15
+content = 001001iv0040630
+
+[0x46b51]
+size = 10
+content = ああ……。
+
+[0x46b5c]
+size = 15
+content = 360001iv0040640
+
+[0x46b6c]
+size = 36
+content = ほら、こっちの子には話が通じてるよ。
+
+[0x46b91]
+size = 15
+content = 321001iv0040650
+
+[0x46ba1]
+size = 20
+content = なに！？　そうなの？
+
+[0x46bb6]
+size = 15
+content = 001001iv0040660
+
+[0x46bc6]
+size = 44
+content = あ、いえ……そういうわけではないんですけど。
+
+[0x46bf3]
+size = 15
+content = 360001iv0040670
+
+[0x46c03]
+size = 36
+content = 野球部なのに、甲子園目指すな、なんて
+
+[0x46c28]
+size = 46
+content = 学生に勉強するなって言ってるようなものだって。
+
+[0x46c57]
+size = 15
+content = 360001iv0040680
+
+[0x46c67]
+size = 44
+content = 新入生にはもっと夢や希望を与えてあげないと。
+
+[0x46c94]
+size = 15
+content = 321001iv0040690
+
+[0x46ca4]
+size = 14
+content = そ、そうなの？
+
+[0x46cb3]
+size = 48
+content = でも、出来ない目標はモチベーションをダウンさせる
+
+[0x46ce4]
+size = 20
+content = ってよく言うじゃん。
+
+[0x46cf9]
+size = 15
+content = 360001iv0040700
+
+[0x46d09]
+size = 34
+content = そういうのを屁理屈って言うんだよ。
+
+[0x46d2c]
+size = 15
+content = 321001iv0040710
+
+[0x46d3c]
+size = 28
+content = 屁理屈も理屈のうちだっての。
+
+[0x46d59]
+size = 30
+content = （うわぁ、最強の屁理屈出た～）
+
+[0x46d78]
+size = 15
+content = 001001iv0040720
+
+[0x46d88]
+size = 8
+content = コホン！
+
+[0x46d91]
+size = 42
+content = え～っと、それで取材の続きなんですが……。
+
+[0x46dbc]
+size = 15
+content = 360001iv0040730
+
+[0x46dcc]
+size = 20
+content = あっ、ごめんなさい。
+
+[0x46de1]
+size = 24
+content = 私……お邪魔でしたよね。
+
+[0x46dfa]
+size = 15
+content = 321001iv0040740
+
+[0x46e0a]
+size = 14
+content = そうだそうだ！
+
+[0x46e19]
+size = 24
+content = オレの取材の邪魔すんな。
+
+[0x46e32]
+size = 15
+content = 001001iv0040750
+
+[0x46e42]
+size = 34
+content = あの、せっかくですので姫川先輩にも
+
+[0x46e65]
+size = 40
+content = マネージャーとして何か一言お願いします。
+
+[0x46e8e]
+size = 15
+content = 360001iv0040760
+
+[0x46e9e]
+size = 16
+content = えっ、私ですか？
+
+[0x46eaf]
+size = 15
+content = 360001iv0040770
+
+[0x46ebf]
+size = 24
+content = え～っと、その…………。
+
+[0x46ed8]
+size = 15
+content = 360001iv0040780
+
+[0x46ee8]
+size = 28
+content = もっと部費が欲しいですッ！！
+
+[0x46f05]
+size = 15
+content = 321001iv0040790
+
+[0x46f15]
+size = 12
+content = 何だそれっ！
+
+[0x46f22]
+size = 30
+content = お前の方が間違ってるぞ姫川！！
+
+[0x46f41]
+size = 15
+content = 001001iv0040800
+
+[0x46f51]
+size = 12
+content = ははは……。
+
+[0x46f5e]
+size = 40
+content = 本当に部費の件で苦労されているんですね。
+
+[0x46f87]
+size = 15
+content = 360001iv0040810
+
+[0x46f97]
+size = 18
+content = はい、それはもう！
+
+[0x46faa]
+size = 15
+content = 360001iv0040820
+
+[0x46fba]
+size = 32
+content = でも、やっぱり不適切でしたよね。
+
+[0x46fdb]
+size = 34
+content = すみません、これもオフレコで……。
+
+[0x46ffe]
+size = 15
+content = 001001iv0040830
+
+[0x4700e]
+size = 18
+content = ……わかりました。
+
+[0x47021]
+size = 15
+content = 001001iv0040840
+
+[0x47031]
+size = 30
+content = それでは取材は以上となります。
+
+[0x47050]
+size = 30
+content = ご協力ありがとうございました。
+
+[0x4706f]
+size = 15
+content = 321001iv0040850
+
+[0x4707f]
+size = 18
+content = えっ！？　マジで？
+
+[0x47092]
+size = 16
+content = もう終わりなの？
+
+[0x470a3]
+size = 15
+content = 001001iv0040860
+
+[0x470b3]
+size = 6
+content = はい。
+
+[0x470ba]
+size = 36
+content = でも、もし何か話し足りない事があれば
+
+[0x470df]
+size = 28
+content = 最後におっしゃってください。
+
+[0x470fc]
+size = 15
+content = 321001iv0040870
+
+[0x4710c]
+size = 32
+content = あるある。　あるに決まってるよ。
+
+[0x4712d]
+size = 15
+content = 321001iv0040880
+
+[0x4713d]
+size = 26
+content = 紅白試合がやりたいです！！
+
+[0x47158]
+size = 15
+content = 001001iv0040890
+
+[0x47168]
+size = 12
+content = え？？？？？
+
+[0x47175]
+size = 15
+content = 360001iv0040900
+
+[0x47185]
+size = 16
+content = …………はぅ～。
+
+[0x47196]
+size = 16
+content = ……ですよね～。
+
+[0x471a7]
+size = 15
+content = 001001iv0040910
+
+[0x471b7]
+size = 24
+content = ……そ、それでは最後に、
+
+[0x471d0]
+size = 28
+content = 写真を一枚撮らせてください。
+
+[0x471ed]
+size = 15
+content = 321001iv0040920
+
+[0x471fd]
+size = 10
+content = オッケー。
+
+[0x47208]
+size = 26
+content = あ、姫川もいっしょにどう？
+
+[0x47223]
+size = 15
+content = 360001iv0040930
+
+[0x47233]
+size = 26
+content = えっ……私は……別に……。
+
+[0x4724e]
+size = 15
+content = 001001iv0040940
+
+[0x4725e]
+size = 30
+content = いいですよ、せっかくですから。
+
+[0x4727d]
+size = 18
+content = 姫川先輩もどうぞ。
+
+[0x47290]
+size = 15
+content = 360001iv0040950
+
+[0x472a0]
+size = 10
+content = ……はい。
+
+[0x472ab]
+size = 15
+content = 001001iv0040960
+
+[0x472bb]
+size = 24
+content = あなっち、後はよろしく。
+
+[0x472d4]
+size = 10
+content = 了解です。
+
+[0x472df]
+size = 30
+content = それじゃ、虎島先輩、姫川先輩。
+
+[0x472fe]
+size = 20
+content = こっち見てください。
+
+[0x47313]
+size = 14
+content = はい、チーズ。
+
+[0x47322]
+size = 16
+content = オッケーで～す。
+
+[0x47333]
+size = 16
+content = お疲れ様でした。
+
+[0x47344]
+size = 15
+content = 001001iv0040970
+
+[0x47354]
+size = 15
+content = 321001iv0040980
+
+[0x47364]
+size = 18
+content = そっちもお疲れ様。
+
+[0x47377]
+size = 15
+content = 321001iv0040990
+
+[0x47387]
+size = 24
+content = じゃ、部活行くか、姫川。
+
+[0x473a0]
+size = 15
+content = 360001iv0040990
+
+[0x473b0]
+size = 20
+content = では、失礼しますね。
+
+[0x473c5]
+size = 32
+content = なんか仲良かったよね、あの２人。
+
+[0x473e6]
+size = 15
+content = 001001iv0040971
+
+[0x473f6]
+size = 6
+content = うん。
+
+[0x473fd]
+size = 26
+content = 何でも言い合えるって感じ。
+
+[0x47418]
+size = 15
+content = 001001iv0040972
+
+[0x47428]
+size = 36
+content = あなっちも、私には何でも言ってよね。
+
+[0x4744d]
+size = 36
+content = 部活の仲間だし……幼馴染なんだから！
+
+[0x47472]
+size = 36
+content = じゃあ何でも言うけど、怒らないでね。
+
+[0x47497]
+size = 15
+content = 001001iv0040973
+
+[0x474a7]
+size = 40
+content = なによ、怒られるような事言うつもりなの？
+
+[0x474d0]
+size = 26
+content = ほら、もう怒ってるし……。
+
+[0x474eb]
+size = 15
+content = 001001iv0040974
+
+[0x474fb]
+size = 14
+content = 怒ってません。
+
+[0x4750a]
+size = 18
+content = 聞いてるだけです。
+
+[0x4751d]
+size = 22
+content = 女子の怒ってませんは、
+
+[0x47534]
+size = 28
+content = 絶対怒ってる証拠だからなぁ。
+
+[0x47551]
+size = 15
+content = 001001iv0040975
+
+[0x47561]
+size = 20
+content = え！？　何か言った？
+
+[0x47576]
+size = 20
+content = なんでもありません！
+
+[0x4758b]
+size = 34
+content = （やっぱり何でも言うのは無理だな）
+
+[0x475ae]
+size = 25
+content = めぐ同行取材EV004：虎島豪
+

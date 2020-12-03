@@ -1,0 +1,1384 @@
+[0x40340]
+size = 41
+content = めぐ同行取材EV003：岡野ひろみ（テニス部）
+
+[0x4036a]
+size = 4
+content = めぐ
+
+[0x4036f]
+size = 15
+content = 001001iv0030010
+
+[0x4037f]
+size = 20
+content = 報道部の三日月です。
+
+[0x40394]
+size = 32
+content = テニス部部長の岡野先輩ですよね？
+
+[0x403b6]
+size = 10
+content = 岡野ひろみ
+
+[0x403c1]
+size = 15
+content = 352001iv0030020
+
+[0x403d1]
+size = 14
+content = ええ、そうよ。
+
+[0x403e0]
+size = 12
+content = 待ってたわ。
+
+[0x403ed]
+size = 15
+content = 001001iv0030030
+
+[0x403fd]
+size = 40
+content = お待たせしてしまって申し訳ございません。
+
+[0x40426]
+size = 28
+content = あ、こちらは同じ報道部の……
+
+[0x40443]
+size = 12
+content = ○○○○○○
+
+[0x40450]
+size = 18
+content = ○○○○○○です。
+
+[0x40463]
+size = 28
+content = 今日はよろしくお願いします。
+
+[0x40480]
+size = 15
+content = 352001iv0030040
+
+[0x40490]
+size = 10
+content = よろしく。
+
+[0x4049b]
+size = 15
+content = 352001iv0030050
+
+[0x404ab]
+size = 22
+content = ところで、悪いんだけど
+
+[0x404c2]
+size = 32
+content = ちょっと時間がおしちゃってるの。
+
+[0x404e3]
+size = 38
+content = なるべく早く切上げたいんだけど、いい？
+
+[0x4050a]
+size = 15
+content = 001001iv0030060
+
+[0x4051a]
+size = 10
+content = あ、はい。
+
+[0x40525]
+size = 26
+content = 遅れたこちらの責任ですし、
+
+[0x40540]
+size = 36
+content = 手早く進めますので、ご協力願います。
+
+[0x40565]
+size = 15
+content = 352001iv0030070
+
+[0x40575]
+size = 12
+content = ありがとう。
+
+[0x40582]
+size = 46
+content = 大会が近いから、少しでも練習時間に充てたいの。
+
+[0x405b1]
+size = 22
+content = 本当にごめんなさいね。
+
+[0x405c8]
+size = 15
+content = 001001iv0030080
+
+[0x405d8]
+size = 26
+content = いえ、とんでもありません。
+
+[0x405f3]
+size = 38
+content = 大事な時期なのに取材にご協力くださって
+
+[0x4061a]
+size = 22
+content = 本当に感謝しています。
+
+[0x40631]
+size = 8
+content = 割り込み
+
+[0x4063a]
+size = 30
+content = 三日月、挨拶はそれくらいにして
+
+[0x40659]
+size = 36
+content = 早く取材をはじめた方がいいと思うよ。
+
+[0x4067e]
+size = 15
+content = 001001iv0030090
+
+[0x4068e]
+size = 6
+content = えっ？
+
+[0x40695]
+size = 12
+content = あ、そうね。
+
+[0x406a2]
+size = 22
+content = ありがとう、あなっち。
+
+[0x406b9]
+size = 12
+content = 割り込みなし
+
+[0x406c6]
+size = 15
+content = 352001iv0030100
+
+[0x406d6]
+size = 24
+content = いいのよ、気にしないで。
+
+[0x406ef]
+size = 38
+content = ところで、取材の方はまだはじめないの？
+
+[0x40716]
+size = 15
+content = 001001iv0030110
+
+[0x40726]
+size = 22
+content = あっ……すみませんっ！
+
+[0x4073d]
+size = 22
+content = それではまず初めに……
+
+[0x40754]
+size = 8
+content = 相沢麻紀
+
+[0x4075d]
+size = 15
+content = 351001iv0030120
+
+[0x4076d]
+size = 12
+content = ひろみ～っ！
+
+[0x4077a]
+size = 15
+content = 352001iv0030130
+
+[0x4078a]
+size = 34
+content = ごめん、もうちょっとだけ待ってて。
+
+[0x407ad]
+size = 16
+content = すぐ終わるから。
+
+[0x407be]
+size = 32
+content = （本当に時間がないんだなぁ……）
+
+[0x407df]
+size = 15
+content = 001001iv0030140
+
+[0x407ef]
+size = 18
+content = えっと……あの……
+
+[0x40802]
+size = 30
+content = もし今日都合が悪いようでしたら
+
+[0x40821]
+size = 46
+content = また後日改めてでも、こちらは構わないですけど。
+
+[0x40850]
+size = 15
+content = 352001iv0030150
+
+[0x40860]
+size = 8
+content = いいの？
+
+[0x40869]
+size = 50
+content = 実はさっきから、うちの副部長がしびれを切らしてて。
+
+[0x4089c]
+size = 40
+content = もしよければ、そうさせてもらおうかしら。
+
+[0x408c5]
+size = 15
+content = 001001iv0030160
+
+[0x408d5]
+size = 14
+content = わかりました。
+
+[0x408e4]
+size = 30
+content = 今日はどうもすみませんでした。
+
+[0x40903]
+size = 15
+content = 352001iv0030170
+
+[0x40913]
+size = 8
+content = ううん。
+
+[0x4091c]
+size = 24
+content = こちらこそ、悪かったわ。
+
+[0x40935]
+size = 32
+content = それじゃ、また連絡ちょうだいね。
+
+[0x40956]
+size = 15
+content = 001001iv0030180
+
+[0x40966]
+size = 22
+content = どうも、お疲れ様です。
+
+[0x4097d]
+size = 15
+content = 351001iv0030190
+
+[0x4098d]
+size = 16
+content = 遅いよ、ひろみ！
+
+[0x4099e]
+size = 36
+content = 早く行かないとコーチにシゴかれるよ。
+
+[0x409c3]
+size = 15
+content = 352001iv0030200
+
+[0x409d3]
+size = 16
+content = マキ、大丈夫よ。
+
+[0x409e4]
+size = 42
+content = 遅くても早くても、コーチはシゴくんだから。
+
+[0x40a0f]
+size = 15
+content = 351001iv0030210
+
+[0x40a1f]
+size = 15
+content = 352001iv0030220
+
+[0x40a2f]
+size = 14
+content = それもそっか。
+
+[0x40a3e]
+size = 10
+content = アハハハ。
+
+[0x40a49]
+size = 16
+content = 三日月、いいの？
+
+[0x40a5a]
+size = 15
+content = 001001iv0030230
+
+[0x40a6a]
+size = 16
+content = しょうがないよ。
+
+[0x40a7b]
+size = 46
+content = 大事な大会前だし、うちの学校の超有名人だもん。
+
+[0x40aaa]
+size = 36
+content = こんな時に取材をお願いした私のミス。
+
+[0x40acf]
+size = 8
+content = そっか。
+
+[0x40ad8]
+size = 44
+content = じゃあ、岡野さんの取材はまた後でって事かな。
+
+[0x40b05]
+size = 15
+content = 001001iv0030240
+
+[0x40b15]
+size = 6
+content = うん。
+
+[0x40b1c]
+size = 46
+content = ごめんね、あなっちにも無駄足を踏ませちゃって。
+
+[0x40b4b]
+size = 22
+content = オレは別にいいけどさ。
+
+[0x40b62]
+size = 28
+content = 取材もいろいろ大変なんだな。
+
+[0x40b7f]
+size = 15
+content = 001001iv0030250
+
+[0x40b8f]
+size = 40
+content = あなっちにそれをわかってもらえただけでも
+
+[0x40bb8]
+size = 34
+content = 今日の成果はあったかな。　エヘヘ。
+
+[0x40bdb]
+size = 36
+content = もしかしてオレ、軽くバカにされてる？
+
+[0x40c00]
+size = 15
+content = 001001iv0030260
+
+[0x40c10]
+size = 16
+content = そんな事ないよ！
+
+[0x40c21]
+size = 46
+content = あなっちが報道部員として日々成長してくれるのが
+
+[0x40c50]
+size = 38
+content = 私の望みでもあり、喜びでもあるのです。
+
+[0x40c77]
+size = 22
+content = ……精一杯努力します。
+
+[0x40c8e]
+size = 40
+content = （そんな正直に言われると恥ずかしいって）
+
+[0x40cb7]
+size = 15
+content = 001001iv0030270
+
+[0x40cc7]
+size = 28
+content = 楽しみにしてるよ、あなっち。
+
+[0x40ce4]
+size = 15
+content = 001001iv0030280
+
+[0x40cf4]
+size = 26
+content = じゃ、一旦部室に戻ろっか。
+
+[0x40d0f]
+size = 15
+content = 001001iv0030290
+
+[0x40d1f]
+size = 36
+content = では取材をはじめさせていただきます。
+
+[0x40d44]
+size = 15
+content = 001001iv0030300
+
+[0x40d54]
+size = 40
+content = まずは、岡野先輩個人のお話になりますが、
+
+[0x40d7d]
+size = 36
+content = 去年の成績を振り返っていかがですか？
+
+[0x40da2]
+size = 15
+content = 352001iv0030310
+
+[0x40db2]
+size = 12
+content = ああ、それ？
+
+[0x40dbf]
+size = 20
+content = やっぱり聞くわよね。
+
+[0x40dd4]
+size = 15
+content = 001001iv0030320
+
+[0x40de4]
+size = 16
+content = す、すみません。
+
+[0x40df5]
+size = 40
+content = 最初に聞いてしまった方がいいかと思って。
+
+[0x40e1e]
+size = 15
+content = 352001iv0030330
+
+[0x40e2e]
+size = 14
+content = それもそうね。
+
+[0x40e3d]
+size = 30
+content = 気を使ってくれて、ありがとう。
+
+[0x40e5c]
+size = 15
+content = 001001iv0030340
+
+[0x40e6c]
+size = 22
+content = い、いえ、そんな……。
+
+[0x40e83]
+size = 15
+content = 352001iv0030350
+
+[0x40e93]
+size = 46
+content = 私ね、去年は正直県大会なんて眼中になかったの。
+
+[0x40ec2]
+size = 50
+content = その後のインハイの方に合わせて調整してたから……。
+
+[0x40ef5]
+size = 15
+content = 352001iv0030360
+
+[0x40f05]
+size = 42
+content = そしたらご存じの通り、県大の準決勝で敗退。
+
+[0x40f30]
+size = 28
+content = ……とんだ恥さらしだったわ。
+
+[0x40f4d]
+size = 15
+content = 001001iv0030370
+
+[0x40f5d]
+size = 18
+content = そんなことは……。
+
+[0x40f70]
+size = 30
+content = どうして負けちゃったんですか？
+
+[0x40f8f]
+size = 15
+content = 001001iv0030380
+
+[0x40f9f]
+size = 18
+content = ちょ……あなっち！
+
+[0x40fb2]
+size = 15
+content = 352001iv0030390
+
+[0x40fc2]
+size = 28
+content = あなた、ずいぶん単刀直入ね。
+
+[0x40fdf]
+size = 18
+content = いい根性してるわ。
+
+[0x40ff2]
+size = 20
+content = ははは、そうですか？
+
+[0x41007]
+size = 32
+content = 自分ではよくわからないですけど。
+
+[0x41028]
+size = 15
+content = 352001iv0030400
+
+[0x41038]
+size = 28
+content = 負けた理由はね、たぶん慢心。
+
+[0x41055]
+size = 42
+content = さっきも言ったように、県大会を舐めてたの。
+
+[0x41080]
+size = 15
+content = 352001iv0030410
+
+[0x41090]
+size = 48
+content = １年の時、全国選抜で負けた相手が優勝した子でね。
+
+[0x410c1]
+size = 28
+content = 龍王院弘美っていうんだけど、
+
+[0x410de]
+size = 22
+content = その子と約束したのよ。
+
+[0x410f5]
+size = 15
+content = 001001iv0030420
+
+[0x41105]
+size = 30
+content = 選抜優勝者との約束……ですか？
+
+[0x41124]
+size = 15
+content = 352001iv0030430
+
+[0x41134]
+size = 42
+content = ええ、次は夏のインハイで会いましょうって。
+
+[0x4115f]
+size = 30
+content = それって、その龍王院って人に、
+
+[0x4117e]
+size = 40
+content = ライバルとして認められたってことですか？
+
+[0x411a7]
+size = 15
+content = 352001iv0030440
+
+[0x411b7]
+size = 34
+content = まぁ、そう思っちゃったのよ、私も。
+
+[0x411da]
+size = 12
+content = バカよねぇ。
+
+[0x411e7]
+size = 15
+content = 352001iv0030450
+
+[0x411f7]
+size = 44
+content = 今にして思えば、初戦敗退になった私を憐れんで
+
+[0x41224]
+size = 42
+content = 励ますつもりで声をかけてくれたんだと思う。
+
+[0x4124f]
+size = 15
+content = 001001iv0030460
+
+[0x4125f]
+size = 10
+content = 先輩……。
+
+[0x4126a]
+size = 15
+content = 352001iv0030470
+
+[0x4127a]
+size = 36
+content = 県大会で負けるまでそのことに気付かず
+
+[0x4129f]
+size = 48
+content = 自分で勝手にインハイレベルだと勘違いしてたのよ。
+
+[0x412d0]
+size = 38
+content = そりゃ、慢心してテニスも雑になるって。
+
+[0x412f7]
+size = 12
+content = テニスが雑？
+
+[0x41304]
+size = 15
+content = 352001iv0030480
+
+[0x41314]
+size = 24
+content = 追えるところを追わない。
+
+[0x4132d]
+size = 42
+content = ギリギリ狙うべき時に、楽なコースに逃げる。
+
+[0x41358]
+size = 15
+content = 352001iv0030490
+
+[0x41368]
+size = 44
+content = 前に出てプレッシャーをかけなきゃいけないのに
+
+[0x41395]
+size = 38
+content = ベースラインでのんびり待つ……とかね。
+
+[0x413bc]
+size = 15
+content = 352001iv0030500
+
+[0x413cc]
+size = 36
+content = 我ながら情けないテニスをしたものよ。
+
+[0x413f1]
+size = 46
+content = 試合のあとで、コーチにもさんざん怒鳴られたわ。
+
+[0x41420]
+size = 32
+content = それは……悔しかったでしょうね。
+
+[0x41441]
+size = 15
+content = 001001iv0030510
+
+[0x41451]
+size = 24
+content = あなっち！　それは……。
+
+[0x4146a]
+size = 15
+content = 352001iv0030520
+
+[0x4147a]
+size = 22
+content = いいのよ、三日月さん。
+
+[0x41491]
+size = 36
+content = 本当のことだし、何か言われたからって
+
+[0x414b6]
+size = 34
+content = 事実が変わるわけじゃないんだから。
+
+[0x414d9]
+size = 15
+content = 352001iv0030530
+
+[0x414e9]
+size = 28
+content = それに確かに悔しかったけど、
+
+[0x41506]
+size = 34
+content = ある意味すっきりした気分だったの。
+
+[0x41529]
+size = 15
+content = 352001iv0030540
+
+[0x41539]
+size = 34
+content = 自分の未熟な部分がはっきりわかって
+
+[0x4155c]
+size = 42
+content = これからやるべき事も明確になったわけだし。
+
+[0x41587]
+size = 36
+content = だからその後はもう必死で練習一筋よ。
+
+[0x415ac]
+size = 15
+content = 352001iv0030550
+
+[0x415bc]
+size = 16
+content = 気を使わないで。
+
+[0x415cd]
+size = 14
+content = 事実は事実よ。
+
+[0x415dc]
+size = 15
+content = 352001iv0030560
+
+[0x415ec]
+size = 48
+content = それに、いつまでも引きずっててもしょうがないし。
+
+[0x4161d]
+size = 42
+content = 気持ちを切り替えて最後の夏に挑戦するだけ。
+
+[0x41648]
+size = 15
+content = 001001iv0030570
+
+[0x41658]
+size = 42
+content = それで、もうすぐ県大会を迎えるんですよね。
+
+[0x41683]
+size = 20
+content = どうですか、調子は？
+
+[0x41698]
+size = 15
+content = 352001iv0030580
+
+[0x416a8]
+size = 30
+content = 調子ねぇ……まぁ絶好調、かな。
+
+[0x416c7]
+size = 10
+content = おおっ！！
+
+[0x416d2]
+size = 15
+content = 001001iv0030590
+
+[0x416e2]
+size = 40
+content = それじゃ、今年は期待してもいいんですね？
+
+[0x4170b]
+size = 15
+content = 352001iv0030600
+
+[0x4171b]
+size = 36
+content = 去年みたいに慢心がなければ、だけど。
+
+[0x41740]
+size = 15
+content = 001001iv0030610
+
+[0x41750]
+size = 42
+content = 今の岡野先輩ならきっと大丈夫だと思います！
+
+[0x4177b]
+size = 14
+content = ね、あなっち。
+
+[0x4178a]
+size = 12
+content = どうだろう？
+
+[0x41797]
+size = 30
+content = 他人のオレにはわからないなぁ。
+
+[0x417b6]
+size = 15
+content = 352001iv0030620
+
+[0x417c6]
+size = 34
+content = 冷静なコメント、どうもありがとう。
+
+[0x417e9]
+size = 15
+content = 001001iv0030630
+
+[0x417f9]
+size = 44
+content = あなっちったら、もうちょっと空気読んでよっ！
+
+[0x41826]
+size = 12
+content = 勝負は時の運
+
+[0x41833]
+size = 24
+content = 勝負は時の運だからなぁ。
+
+[0x4184c]
+size = 40
+content = 勝利の女神が微笑んでくれればいいですね。
+
+[0x41875]
+size = 15
+content = 352001iv0030640
+
+[0x41885]
+size = 14
+content = ふふ、そうね。
+
+[0x41894]
+size = 38
+content = 実力が近いほど、そういう要素はあるわ。
+
+[0x418bb]
+size = 40
+content = でも私は、その運すらも手に入れてみせる。
+
+[0x418e4]
+size = 15
+content = 001001iv0030650
+
+[0x418f4]
+size = 20
+content = その意気です、先輩！
+
+[0x41909]
+size = 8
+content = そうだね
+
+[0x41912]
+size = 12
+content = そうですね。
+
+[0x4191f]
+size = 36
+content = オレは岡野先輩の事、良く知らないけど
+
+[0x41944]
+size = 42
+content = 今年こそ実力を発揮できるよう、祈ってます。
+
+[0x4196f]
+size = 15
+content = 352001iv0030660
+
+[0x4197f]
+size = 18
+content = どうもありがとう。
+
+[0x41992]
+size = 44
+content = それじゃ、是非期待に応えないといけないわね。
+
+[0x419bf]
+size = 15
+content = 352001iv0030670
+
+[0x419cf]
+size = 34
+content = 報道部も応援してくれると嬉しいわ。
+
+[0x419f2]
+size = 12
+content = それはもう！
+
+[0x419ff]
+size = 32
+content = メチャクチャ応援しますともっ！！
+
+[0x41a20]
+size = 15
+content = 352001iv0030680
+
+[0x41a30]
+size = 20
+content = うふっ、心強いわね。
+
+[0x41a45]
+size = 15
+content = 001001iv0030690
+
+[0x41a55]
+size = 42
+content = あなっちったら、急に張り切っちゃって……。
+
+[0x41a80]
+size = 15
+content = 001001iv0030700
+
+[0x41a90]
+size = 16
+content = それでは最後に、
+
+[0x41aa1]
+size = 44
+content = テニス部の現状と展望について教えてください。
+
+[0x41ace]
+size = 15
+content = 352001iv0030710
+
+[0x41ade]
+size = 32
+content = そうね、うちの部は本土部活だから
+
+[0x41aff]
+size = 44
+content = 学校内ではあまり目立ってないかもしれないけど
+
+[0x41b2c]
+size = 32
+content = 今年は結構粒ぞろいで面白いわよ。
+
+[0x41b4d]
+size = 18
+content = あの、すみません。
+
+[0x41b60]
+size = 22
+content = 本土部活って何ですか？
+
+[0x41b77]
+size = 15
+content = 001001iv0030720
+
+[0x41b87]
+size = 16
+content = あ、すみません。
+
+[0x41b98]
+size = 34
+content = あなっちは転校してきたばかりだから
+
+[0x41bbb]
+size = 42
+content = まだうちの学校の事情とかよく知らなくって。
+
+[0x41be6]
+size = 15
+content = 352001iv0030730
+
+[0x41bf6]
+size = 26
+content = ふ～ん、あなた転校生なの？
+
+[0x41c11]
+size = 38
+content = うちの学校に２年から編入してくるなんて
+
+[0x41c38]
+size = 34
+content = 見かけによらずなかなか優秀なのね。
+
+[0x41c5b]
+size = 6
+content = え！？
+
+[0x41c62]
+size = 36
+content = いや、全然優秀なんかじゃないですよ。
+
+[0x41c87]
+size = 36
+content = （今、見かけによらずって言われた？）
+
+[0x41cac]
+size = 15
+content = 001001iv0030740
+
+[0x41cbc]
+size = 34
+content = あなっち、本土部活っていうのはね、
+
+[0x41cdf]
+size = 26
+content = 本土で部活してる部の事よ。
+
+[0x41cfa]
+size = 38
+content = なるほど、読んだそのままだったんだね。
+
+[0x41d21]
+size = 15
+content = 001001iv0030750
+
+[0x41d31]
+size = 42
+content = なによ、人が折角親切に教えてあげたのに～。
+
+[0x41d5c]
+size = 15
+content = 352001iv0030760
+
+[0x41d6c]
+size = 32
+content = プッ……あなたたち、面白いわね。
+
+[0x41d8d]
+size = 15
+content = 001001iv0030770
+
+[0x41d9d]
+size = 22
+content = すみません、岡野先輩。
+
+[0x41db4]
+size = 18
+content = 取材中なのに……。
+
+[0x41dc7]
+size = 15
+content = 001001iv0030780
+
+[0x41dd7]
+size = 16
+content = そうなんですか？
+
+[0x41de8]
+size = 15
+content = 352001iv0030790
+
+[0x41df8]
+size = 36
+content = だから今年は団体戦も期待出来るかも。
+
+[0x41e1d]
+size = 15
+content = 001001iv0030800
+
+[0x41e2d]
+size = 34
+content = 期待と言うと、具体的にはどの程度？
+
+[0x41e50]
+size = 15
+content = 352001iv0030810
+
+[0x41e60]
+size = 26
+content = 県大会優勝も狙えるかもね。
+
+[0x41e7b]
+size = 15
+content = 001001iv0030820
+
+[0x41e8b]
+size = 16
+content = ええ～～～っ！！
+
+[0x41e9c]
+size = 32
+content = そんなに急に強くなったんですか？
+
+[0x41ebd]
+size = 34
+content = 去年までは全然……あ、すみません。
+
+[0x41ee0]
+size = 15
+content = 352001iv0030830
+
+[0x41ef0]
+size = 22
+content = そう、去年までのうちは
+
+[0x41f07]
+size = 34
+content = 団体戦はパッとしない成績だったわ。
+
+[0x41f2a]
+size = 15
+content = 352001iv0030840
+
+[0x41f3a]
+size = 18
+content = でも今年は違うの。
+
+[0x41f4d]
+size = 32
+content = すごい１年が２人も入ってきてね。
+
+[0x41f6e]
+size = 28
+content = どっちも即レギュラーの器よ。
+
+[0x41f8b]
+size = 15
+content = 001001iv0030850
+
+[0x41f9b]
+size = 20
+content = その２人というのは？
+
+[0x41fb0]
+size = 15
+content = 352001iv0030860
+
+[0x41fc0]
+size = 18
+content = 高本愛と松本広夢。
+
+[0x41fd3]
+size = 22
+content = ……三日月、知ってる？
+
+[0x41fea]
+size = 15
+content = 001001iv0030870
+
+[0x41ffa]
+size = 18
+content = ううん、知らない。
+
+[0x4200d]
+size = 36
+content = 後で知ってる後輩から情報聞かなきゃ。
+
+[0x42032]
+size = 15
+content = 352001iv0030880
+
+[0x42042]
+size = 42
+content = とにかく、あの２人が入部してくれたおかげで
+
+[0x4206d]
+size = 40
+content = 私たちが卒業した後も、テニス部は安泰よ。
+
+[0x42096]
+size = 15
+content = 001001iv0030890
+
+[0x420a6]
+size = 38
+content = それほどの実力があるって事なんですね。
+
+[0x420cd]
+size = 14
+content = なるほど……。
+
+[0x420dc]
+size = 15
+content = 352001iv0030900
+
+[0x420ec]
+size = 36
+content = だから今年、是非あの２人をインハイに
+
+[0x42111]
+size = 24
+content = 連れていってあげたいの。
+
+[0x4212a]
+size = 42
+content = １年の時に経験しておく事は絶対有益だから。
+
+[0x42155]
+size = 15
+content = 001001iv0030910
+
+[0x42165]
+size = 22
+content = 岡野先輩自身のためと、
+
+[0x4217c]
+size = 30
+content = 部活の後輩たちのため、ですね。
+
+[0x4219b]
+size = 15
+content = 352001iv0030920
+
+[0x421ab]
+size = 22
+content = うふっ、欲張りかしら。
+
+[0x421c2]
+size = 15
+content = 001001iv0030930
+
+[0x421d2]
+size = 24
+content = そんな事ないと思います。
+
+[0x421eb]
+size = 28
+content = 是非、全部手にしてください。
+
+[0x42208]
+size = 36
+content = 私たちも微力ながら、応援しています。
+
+[0x4222d]
+size = 15
+content = 352001iv0030940
+
+[0x4223d]
+size = 36
+content = 応援って思った以上に力があるのよね。
+
+[0x42262]
+size = 34
+content = 気持ちを強くしてくれるっていうか。
+
+[0x42285]
+size = 15
+content = 352001iv0030950
+
+[0x42295]
+size = 30
+content = だから、よろしくお願いします。
+
+[0x422b4]
+size = 15
+content = 001001iv0030960
+
+[0x422c4]
+size = 8
+content = はいっ！
+
+[0x422cd]
+size = 20
+content = 全力で応援します！！
+
+[0x422e2]
+size = 15
+content = 001001iv0030970
+
+[0x422f2]
+size = 26
+content = あなっち、力入り過ぎ……。
+
+[0x4230d]
+size = 15
+content = 001001iv0030980
+
+[0x4231d]
+size = 24
+content = 取材は以上になりますが、
+
+[0x42336]
+size = 34
+content = 最後に写真を一枚撮らせてください。
+
+[0x42359]
+size = 15
+content = 352001iv0030990
+
+[0x42369]
+size = 10
+content = いいわよ。
+
+[0x42374]
+size = 15
+content = 001001iv0030981
+
+[0x42384]
+size = 22
+content = ありがとうございます。
+
+[0x4239b]
+size = 28
+content = じゃ、あなっち、よろしくね。
+
+[0x423b8]
+size = 10
+content = オッケー。
+
+[0x423c3]
+size = 22
+content = それじゃ、撮りますね。
+
+[0x423da]
+size = 15
+content = 001001iv0030982
+
+[0x423ea]
+size = 30
+content = はい、ありがとうございました。
+
+[0x42409]
+size = 32
+content = 岡野先輩、大会頑張ってください。
+
+[0x4242a]
+size = 15
+content = 352001iv0030991
+
+[0x4243a]
+size = 24
+content = それじゃ、失礼するわね。
+
+[0x42453]
+size = 15
+content = 001001iv0030983
+
+[0x42463]
+size = 20
+content = お疲れ様、あなっち。
+
+[0x42478]
+size = 28
+content = オレ、少しは役に立ったかな？
+
+[0x42495]
+size = 15
+content = 001001iv0030984
+
+[0x424a5]
+size = 22
+content = うん、バッチグーだよ！
+
+[0x424bc]
+size = 14
+content = よかった……。
+
+[0x424cb]
+size = 25
+content = めぐ同行取材EV003：岡野ひ
+

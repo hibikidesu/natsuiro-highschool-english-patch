@@ -1,0 +1,1932 @@
+[0x39f44]
+size = 19
+content = 同行取材EV002ナオミ
+
+[0x39f58]
+size = 4
+content = めぐ
+
+[0x39f5d]
+size = 15
+content = 001001iv0020010
+
+[0x39f6d]
+size = 26
+content = こんにちは～、失礼します。
+
+[0x39f88]
+size = 24
+content = 報道部の三日月めぐです。
+
+[0x39fa1]
+size = 44
+content = ナオミ・サンダースさん、いらっしゃいますか？
+
+[0x39fce]
+size = 6
+content = ナオミ
+
+[0x39fd5]
+size = 15
+content = 005001iv0010020
+
+[0x39fe5]
+size = 34
+content = Ｏｈメグ！　ユーが来るの待ってた！
+
+[0x3a009]
+size = 15
+content = 001001iv0020030
+
+[0x3a019]
+size = 28
+content = 取材へのご協力、感謝します。
+
+[0x3a036]
+size = 28
+content = 今日はよろしくお願いします。
+
+[0x3a053]
+size = 15
+content = 005001iv0010040
+
+[0x3a063]
+size = 18
+content = どうイタシマシテ。
+
+[0x3a076]
+size = 22
+content = サンダースへようこそ。
+
+[0x3a08d]
+size = 15
+content = 001001iv0020050
+
+[0x3a09d]
+size = 4
+content = え？
+
+[0x3a0a2]
+size = 36
+content = ……サンダースってナオミさんの名前？
+
+[0x3a0c7]
+size = 32
+content = すみません、どういう意味ですか。
+
+[0x3a0e8]
+size = 15
+content = 005001iv0010060
+
+[0x3a0f8]
+size = 46
+content = ソーリー。　ミーの日本語ちょとおかしかったか？
+
+[0x3a127]
+size = 30
+content = サンダースはミーの名前だけど、
+
+[0x3a146]
+size = 22
+content = チームの名前でもある。
+
+[0x3a15d]
+size = 15
+content = 005001iv0010070
+
+[0x3a16d]
+size = 22
+content = 『ＴＨＵＮＤＥＲＳ』は
+
+[0x3a184]
+size = 32
+content = チアリーディング部のチーム名ネ。
+
+[0x3a1a5]
+size = 38
+content = メグはこのチーム名のこと、どう思うか？
+
+[0x3a1cc]
+size = 15
+content = 001001iv0020080
+
+[0x3a1dc]
+size = 28
+content = とってもステキな名前ですね。
+
+[0x3a1f9]
+size = 42
+content = ナオミさんのチームでもある、って感じがして
+
+[0x3a224]
+size = 30
+content = ひとつのファミリーみたいです。
+
+[0x3a243]
+size = 15
+content = 005001iv0010090
+
+[0x3a253]
+size = 22
+content = ファミリー、その通り！
+
+[0x3a26a]
+size = 38
+content = メグ、ユーは今とてもいいことを言った。
+
+[0x3a291]
+size = 30
+content = サンダースはミーのファミリー。
+
+[0x3a2b0]
+size = 15
+content = 005001iv0010100
+
+[0x3a2c0]
+size = 26
+content = アメリカにいるファミリーと
+
+[0x3a2db]
+size = 30
+content = 日本のここ、夢高のファミリー。
+
+[0x3a2fa]
+size = 34
+content = ミーには２つのファミリーがあるネ。
+
+[0x3a31d]
+size = 15
+content = 005001iv0010110
+
+[0x3a32d]
+size = 26
+content = このサンダースファミリーは
+
+[0x3a348]
+size = 38
+content = チアリーディングで日本を元気にするよ！
+
+[0x3a36f]
+size = 8
+content = 割り込み
+
+[0x3a378]
+size = 12
+content = ○○○○○○
+
+[0x3a385]
+size = 22
+content = あのぉ～、すみません。
+
+[0x3a39c]
+size = 38
+content = テンションＭＡＸのところ恐縮なのですが
+
+[0x3a3c3]
+size = 42
+content = ここにもうひとりいることもお忘れなく……。
+
+[0x3a3ee]
+size = 15
+content = 005001iv0010120
+
+[0x3a3fe]
+size = 26
+content = ウップス！　ユーはダレか？
+
+[0x3a419]
+size = 15
+content = 001001iv0020130
+
+[0x3a429]
+size = 24
+content = すみません、ナオミさん。
+
+[0x3a442]
+size = 42
+content = こちらは私と同じ報道部員で、あなっちです。
+
+[0x3a46d]
+size = 26
+content = おいおい、どういう紹介だ。
+
+[0x3a488]
+size = 24
+content = ちゃんと名前を言おうよ。
+
+[0x3a4a1]
+size = 15
+content = 005001iv0010140
+
+[0x3a4b1]
+size = 34
+content = アナチ……アナッツ……アナーキー？
+
+[0x3a4d4]
+size = 40
+content = よく聞こえなかった。　もう一度プリーズ。
+
+[0x3a4fd]
+size = 15
+content = 001001iv0020150
+
+[0x3a50d]
+size = 14
+content = あなっちです。
+
+[0x3a51c]
+size = 18
+content = ちょっと待てーい！
+
+[0x3a52f]
+size = 26
+content = 報道部の○○○○○○です。
+
+[0x3a54a]
+size = 28
+content = どうかよろしくお願いします。
+
+[0x3a567]
+size = 15
+content = 001001iv0020160
+
+[0x3a577]
+size = 30
+content = ぷっ、あなっち……選挙みたい。
+
+[0x3a596]
+size = 15
+content = 005001iv0010170
+
+[0x3a5a6]
+size = 30
+content = アナチ、ユーはアナチでいいか？
+
+[0x3a5c5]
+size = 32
+content = アナチではなく○○○○○○です。
+
+[0x3a5e6]
+size = 15
+content = 001001iv0020180
+
+[0x3a5f6]
+size = 26
+content = あなっち、もういいでしょ。
+
+[0x3a611]
+size = 24
+content = 取材が進まないじゃない。
+
+[0x3a62a]
+size = 30
+content = 取材よりも名前まちがってる方が
+
+[0x3a649]
+size = 24
+content = オレにとっては大問題だ。
+
+[0x3a662]
+size = 24
+content = これだけは妥協しないぞ。
+
+[0x3a67b]
+size = 15
+content = 005001iv0010190
+
+[0x3a68b]
+size = 22
+content = アナチはメグの恋人か？
+
+[0x3a6a2]
+size = 15
+content = 001001iv0020200
+
+[0x3a6b2]
+size = 44
+content = なっ、なななにを言ってるんですかナオミさん！
+
+[0x3a6df]
+size = 28
+content = あなっちは幼馴染なだけで……
+
+[0x3a6fc]
+size = 20
+content = ただの……その……。
+
+[0x3a711]
+size = 15
+content = 005001iv0010210
+
+[0x3a721]
+size = 12
+content = オサナジミ？
+
+[0x3a72e]
+size = 26
+content = またミーの知らない日本語。
+
+[0x3a749]
+size = 22
+content = オサナジミとはなにか？
+
+[0x3a760]
+size = 14
+content = おさななじみ。
+
+[0x3a76f]
+size = 15
+content = 005001iv0010220
+
+[0x3a77f]
+size = 12
+content = オサナジミ。
+
+[0x3a78c]
+size = 20
+content = そうじゃなくて、お！
+
+[0x3a7a1]
+size = 15
+content = 005001iv0010230
+
+[0x3a7b1]
+size = 4
+content = オ？
+
+[0x3a7b6]
+size = 4
+content = さ。
+
+[0x3a7bb]
+size = 15
+content = 005001iv0010240
+
+[0x3a7cb]
+size = 4
+content = サ！
+
+[0x3a7d0]
+size = 4
+content = な。
+
+[0x3a7d5]
+size = 15
+content = 005001iv0010250
+
+[0x3a7e5]
+size = 4
+content = ナ！
+
+[0x3a7ea]
+size = 15
+content = 005001iv0010260
+
+[0x3a7fa]
+size = 4
+content = ナ？
+
+[0x3a7ff]
+size = 4
+content = じ。
+
+[0x3a804]
+size = 15
+content = 005001iv0010270
+
+[0x3a814]
+size = 4
+content = ジ！
+
+[0x3a819]
+size = 4
+content = み。
+
+[0x3a81e]
+size = 15
+content = 005001iv0010280
+
+[0x3a82e]
+size = 6
+content = ミー！
+
+[0x3a835]
+size = 14
+content = おさななじみ！
+
+[0x3a844]
+size = 15
+content = 005001iv0010290
+
+[0x3a854]
+size = 14
+content = オサナナジミ！
+
+[0x3a863]
+size = 26
+content = それだよ！　パーフェクト！
+
+[0x3a87e]
+size = 28
+content = やっと言えたね、おめでとう。
+
+[0x3a89b]
+size = 15
+content = 005001iv0010300
+
+[0x3a8ab]
+size = 22
+content = アナチ、オサナナジミ。
+
+[0x3a8c2]
+size = 12
+content = メグの恋人。
+
+[0x3a8cf]
+size = 12
+content = 問題ないか？
+
+[0x3a8dc]
+size = 15
+content = 001001iv0020310
+
+[0x3a8ec]
+size = 24
+content = 問題ありに決まってます！
+
+[0x3a905]
+size = 40
+content = ナオミさん、もうあなっちのことはいいので
+
+[0x3a92e]
+size = 26
+content = 取材の続きをお願いします。
+
+[0x3a949]
+size = 15
+content = 005001iv0010320
+
+[0x3a959]
+size = 10
+content = オーケイ。
+
+[0x3a964]
+size = 12
+content = 割り込みなし
+
+[0x3a971]
+size = 15
+content = 001001iv0020330
+
+[0x3a981]
+size = 28
+content = スケールの大きな目標ですね。
+
+[0x3a99e]
+size = 24
+content = あ、ところでナオミさん。
+
+[0x3a9b7]
+size = 42
+content = もうひとり同行している部員をご紹介します。
+
+[0x3a9e2]
+size = 32
+content = （忘れられてるのかと思った……）
+
+[0x3aa03]
+size = 22
+content = よろしくお願いします。
+
+[0x3aa1a]
+size = 15
+content = 005001iv0010340
+
+[0x3aa2a]
+size = 24
+content = よろしく、○○○○○○。
+
+[0x3aa43]
+size = 15
+content = 001001iv0020350
+
+[0x3aa53]
+size = 40
+content = 彼はカメラマンとして同行していますので、
+
+[0x3aa7c]
+size = 46
+content = 写真とか撮らせていただきますがよろしいですか？
+
+[0x3aaab]
+size = 15
+content = 005001iv0010360
+
+[0x3aabb]
+size = 16
+content = ノープロブレム！
+
+[0x3aacc]
+size = 15
+content = 001001iv0020370
+
+[0x3aadc]
+size = 22
+content = ありがとうございます。
+
+[0x3aaf3]
+size = 34
+content = では取材を続けさせていただきます。
+
+[0x3ab16]
+size = 15
+content = 001001iv0020380
+
+[0x3ab26]
+size = 38
+content = 昨年、同好会として発足し、今年になって
+
+[0x3ab4d]
+size = 42
+content = 部として認可されたチアリーディング部ですが
+
+[0x3ab78]
+size = 38
+content = 率直に今のお気持ちを聞かせてください。
+
+[0x3ab9f]
+size = 15
+content = 005001iv0010390
+
+[0x3abaf]
+size = 38
+content = 去年はミーとミサの２人しかいなかった。
+
+[0x3abd6]
+size = 42
+content = でも今年は１年生が３人も入部してくれたネ。
+
+[0x3ac01]
+size = 32
+content = 超ハッピー！　エキサイティング！
+
+[0x3ac22]
+size = 15
+content = 005001iv0010400
+
+[0x3ac32]
+size = 18
+content = ３人には感謝する。
+
+[0x3ac45]
+size = 28
+content = だけど、ここからがスタート。
+
+[0x3ac62]
+size = 36
+content = バリバリ練習してブイブイ言わせるネ。
+
+[0x3ac87]
+size = 15
+content = 005001iv0010410
+
+[0x3ac97]
+size = 20
+content = Ｇｏ！　サンダース！
+
+[0x3acac]
+size = 15
+content = 001001iv0020420
+
+[0x3acbc]
+size = 26
+content = そ、それは頼もしいですね。
+
+[0x3acd7]
+size = 44
+content = すみません、今のポーズもう一度お願いします。
+
+[0x3ad04]
+size = 15
+content = 005001iv0010430
+
+[0x3ad14]
+size = 20
+content = 写真か？　オーケイ。
+
+[0x3ad29]
+size = 15
+content = 005001iv0010440
+
+[0x3ad39]
+size = 30
+content = （決まってるなぁ、カッコイイ）
+
+[0x3ad58]
+size = 22
+content = 三日月ごめん、続けて。
+
+[0x3ad6f]
+size = 15
+content = 001001iv0020450
+
+[0x3ad7f]
+size = 50
+content = さきほど、日本を元気にするとおっしゃっていましたが
+
+[0x3adb2]
+size = 50
+content = チアリーディング部の当面の目標をお聞かせください。
+
+[0x3ade5]
+size = 15
+content = 005001iv0010460
+
+[0x3adf5]
+size = 32
+content = サンダースはまだ部員が５人だけ。
+
+[0x3ae16]
+size = 44
+content = ビギナーも多いから、大会に出るのはまだムリ。
+
+[0x3ae43]
+size = 15
+content = 005001iv0010470
+
+[0x3ae53]
+size = 50
+content = 来年の大会まで、たくさん練習してスキルアップする。
+
+[0x3ae86]
+size = 32
+content = 部員も、もっとたくさんに増やす。
+
+[0x3aea7]
+size = 32
+content = そして大会に出場して優勝するネ！
+
+[0x3aec8]
+size = 15
+content = 001001iv0020480
+
+[0x3aed8]
+size = 32
+content = 目標はあくまでも来年の大会出場と
+
+[0x3aef9]
+size = 30
+content = そこでの優勝ということですね。
+
+[0x3af18]
+size = 15
+content = 005001iv0010490
+
+[0x3af28]
+size = 12
+content = そうデース！
+
+[0x3af35]
+size = 15
+content = 001001iv0020500
+
+[0x3af45]
+size = 24
+content = その目標が達成されるよう
+
+[0x3af5e]
+size = 30
+content = 私たち報道部も応援しています。
+
+[0x3af7d]
+size = 15
+content = 005001iv0010510
+
+[0x3af8d]
+size = 22
+content = ありがとございマース！
+
+[0x3afa4]
+size = 18
+content = メグはとても親切。
+
+[0x3afb7]
+size = 15
+content = 001001iv0020520
+
+[0x3afc7]
+size = 34
+content = こちらこそ、ありがとうございます。
+
+[0x3afea]
+size = 15
+content = 001001iv0020530
+
+[0x3affa]
+size = 44
+content = では、次の質問はナオミさん自身のことについて
+
+[0x3b027]
+size = 18
+content = お聞かせください。
+
+[0x3b03a]
+size = 15
+content = 001001iv0020540
+
+[0x3b04a]
+size = 26
+content = ナオミさんはいつぐらいから
+
+[0x3b065]
+size = 38
+content = チアリーディングを始められたんですか？
+
+[0x3b08c]
+size = 34
+content = そのきっかけなども教えてください。
+
+[0x3b0af]
+size = 15
+content = 005001iv0010550
+
+[0x3b0bf]
+size = 32
+content = ミーは子供のころ、体が弱かった。
+
+[0x3b0e0]
+size = 36
+content = だから友だちと外で遊べなかった……。
+
+[0x3b105]
+size = 20
+content = ほとんど毎日家の中。
+
+[0x3b11a]
+size = 15
+content = 005001iv0010560
+
+[0x3b12a]
+size = 34
+content = ダディやマミーに一生懸命お願いして
+
+[0x3b14d]
+size = 36
+content = 時々は外で遊ぶ、でも夜に熱を出した。
+
+[0x3b172]
+size = 15
+content = 005001iv0010570
+
+[0x3b182]
+size = 30
+content = ミーの家族、たくさん心配する。
+
+[0x3b1a1]
+size = 12
+content = ミーも辛い。
+
+[0x3b1ae]
+size = 24
+content = だから、ミーは我慢した。
+
+[0x3b1c7]
+size = 15
+content = 001001iv0020580
+
+[0x3b1d7]
+size = 26
+content = そんなに体が弱かったなんて
+
+[0x3b1f2]
+size = 30
+content = 今からは全然想像できないです。
+
+[0x3b211]
+size = 20
+content = 大変だったんですね。
+
+[0x3b226]
+size = 15
+content = 005001iv0010590
+
+[0x3b236]
+size = 36
+content = おかげさまで今のミーがあるのデース。
+
+[0x3b25b]
+size = 16
+content = ノープロブレム。
+
+[0x3b26c]
+size = 15
+content = 001001iv0020600
+
+[0x3b27c]
+size = 18
+content = はい、すみません。
+
+[0x3b28f]
+size = 24
+content = 続きを聞かせてください。
+
+[0x3b2a8]
+size = 15
+content = 005001iv0010610
+
+[0x3b2b8]
+size = 38
+content = ミーの家の近くにハイスクールがあった。
+
+[0x3b2df]
+size = 40
+content = そこにチアリーダーがやってきたのデース。
+
+[0x3b308]
+size = 15
+content = 005001iv0010620
+
+[0x3b318]
+size = 42
+content = いつもみんなＴＶのフットボールを見ていた。
+
+[0x3b343]
+size = 40
+content = フロリダにはＮＦＬのチームもありマース。
+
+[0x3b36c]
+size = 40
+content = ミーのファミリーも熱狂的なファンデース。
+
+[0x3b395]
+size = 15
+content = 005001iv0010630
+
+[0x3b3a5]
+size = 34
+content = そのＴＶでいつも見るチアリーダーを
+
+[0x3b3c8]
+size = 32
+content = ライブで見るラッキーなチャンス！
+
+[0x3b3e9]
+size = 36
+content = ミーはダディとマミーにお願いしたネ。
+
+[0x3b40e]
+size = 15
+content = 005001iv0010640
+
+[0x3b41e]
+size = 42
+content = そこで見たパフォーマンスは……本当に最高！
+
+[0x3b449]
+size = 36
+content = ベリーハッピー！　アンビリーバブル！
+
+[0x3b46e]
+size = 38
+content = ミーはあの時のこと、一生忘れマセーン。
+
+[0x3b495]
+size = 15
+content = 005001iv0010650
+
+[0x3b4a5]
+size = 30
+content = ミーはたくさん元気をもらった。
+
+[0x3b4c4]
+size = 36
+content = チアリーディングのパワーに感激した。
+
+[0x3b4e9]
+size = 15
+content = 001001iv0020660
+
+[0x3b4f9]
+size = 10
+content = なるほど。
+
+[0x3b504]
+size = 26
+content = その体験がきっかけになって
+
+[0x3b51f]
+size = 48
+content = ナオミさんもチアリーディングをはじめたんですね。
+
+[0x3b550]
+size = 15
+content = 005001iv0010670
+
+[0x3b560]
+size = 8
+content = イエス！
+
+[0x3b569]
+size = 34
+content = 最初はＴＶの前でいっしょに踊った。
+
+[0x3b58c]
+size = 22
+content = みんな、ほめてくれた。
+
+[0x3b5a3]
+size = 15
+content = 005001iv0010680
+
+[0x3b5b3]
+size = 26
+content = それから家の外でも踊った。
+
+[0x3b5ce]
+size = 34
+content = 少しすると、全然熱が出なくなった。
+
+[0x3b5f1]
+size = 18
+content = 体も丈夫になった。
+
+[0x3b604]
+size = 15
+content = 005001iv0010690
+
+[0x3b614]
+size = 20
+content = ダディにお願いして、
+
+[0x3b629]
+size = 36
+content = チアリーディングのスクールに通った。
+
+[0x3b64e]
+size = 46
+content = 初めてチアのフレンドができた。　みんな仲良し！
+
+[0x3b67d]
+size = 15
+content = 001001iv0020700
+
+[0x3b68d]
+size = 18
+content = チアリーディングに
+
+[0x3b6a0]
+size = 34
+content = どんどん魅了されていったんですね。
+
+[0x3b6c3]
+size = 15
+content = 005001iv0010710
+
+[0x3b6d3]
+size = 10
+content = ミリョー？
+
+[0x3b6de]
+size = 15
+content = 001001iv0020720
+
+[0x3b6ee]
+size = 36
+content = 大好きになっていったという意味です。
+
+[0x3b713]
+size = 15
+content = 005001iv0010730
+
+[0x3b723]
+size = 24
+content = アイシー。　そうデース。
+
+[0x3b73c]
+size = 36
+content = チアリーディング、大好きになったネ。
+
+[0x3b761]
+size = 18
+content = フレンドも大好き。
+
+[0x3b774]
+size = 15
+content = 005001iv0010740
+
+[0x3b784]
+size = 24
+content = ミーはそのままフロリダで
+
+[0x3b79d]
+size = 38
+content = チアリーディング続けるつもりだったネ。
+
+[0x3b7c4]
+size = 44
+content = でも、日本にホームステイして考えが変わった。
+
+[0x3b7f1]
+size = 15
+content = 005001iv0010750
+
+[0x3b801]
+size = 34
+content = チアリーディングはどこでもできる！
+
+[0x3b824]
+size = 20
+content = ミーは日本が大好き。
+
+[0x3b839]
+size = 36
+content = それなら日本でチアリーディングやる！
+
+[0x3b85e]
+size = 15
+content = 001001iv0020760
+
+[0x3b86e]
+size = 22
+content = 見事な三段論法ですね。
+
+[0x3b885]
+size = 15
+content = 005001iv0010770
+
+[0x3b895]
+size = 18
+content = サンダンロンポー？
+
+[0x3b8a8]
+size = 20
+content = それはなにかの技か？
+
+[0x3b8bd]
+size = 42
+content = そうだよ、ディスカッションの必殺技なんだ。
+
+[0x3b8e8]
+size = 15
+content = 005001iv0010780
+
+[0x3b8f8]
+size = 26
+content = Ｏｈ！　それはどんな技か？
+
+[0x3b913]
+size = 26
+content = 泣く子も黙る超必殺技だよ。
+
+[0x3b92e]
+size = 34
+content = 無条件で相手を黙らせる伝家の宝刀。
+
+[0x3b951]
+size = 48
+content = あるいは問答無用で解釈を飛躍させる屁理屈製造機。
+
+[0x3b982]
+size = 15
+content = 005001iv0010790
+
+[0x3b992]
+size = 38
+content = ノー！　ユーの話は難しい言葉多すぎる。
+
+[0x3b9b9]
+size = 18
+content = メグ、ヘルプミー！
+
+[0x3b9cc]
+size = 15
+content = 001001iv0020800
+
+[0x3b9dc]
+size = 32
+content = 三段論法は必殺技じゃありません。
+
+[0x3b9fd]
+size = 28
+content = え～っと、話すと長くなるので
+
+[0x3ba1a]
+size = 38
+content = これについてはまた今度でもいいですか？
+
+[0x3ba41]
+size = 15
+content = 005001iv0010810
+
+[0x3ba51]
+size = 34
+content = メグがそう言うならミーはオーケイ。
+
+[0x3ba74]
+size = 28
+content = でもあとで必ず教えて欲しい。
+
+[0x3ba91]
+size = 15
+content = 001001iv0020820
+
+[0x3baa1]
+size = 14
+content = わかりました。
+
+[0x3bab0]
+size = 15
+content = 001001iv0020830
+
+[0x3bac0]
+size = 38
+content = あなっち、余計なちょっかい出さないで！
+
+[0x3bae7]
+size = 30
+content = 取材の邪魔したら許さないわよ。
+
+[0x3bb06]
+size = 16
+content = どうもサーセン。
+
+[0x3bb17]
+size = 15
+content = 001001iv0020840
+
+[0x3bb27]
+size = 18
+content = 技ではありません。
+
+[0x3bb3a]
+size = 40
+content = すみません。　ヘンな例えをしてしまって。
+
+[0x3bb63]
+size = 26
+content = 今の発言は忘れてください。
+
+[0x3bb7e]
+size = 15
+content = 005001iv0010840
+
+[0x3bb8e]
+size = 30
+content = せっかく知らない言葉、聞いた。
+
+[0x3bbad]
+size = 22
+content = 覚えられなくて残念ネ。
+
+[0x3bbc4]
+size = 15
+content = 001001iv0020860
+
+[0x3bbd4]
+size = 42
+content = ナオミさんのチアリーディングに対する思いが
+
+[0x3bbff]
+size = 40
+content = 今のお話で少しわかったような気がします。
+
+[0x3bc28]
+size = 15
+content = 005001iv0010850
+
+[0x3bc38]
+size = 24
+content = メグ、わかってくれたか？
+
+[0x3bc51]
+size = 10
+content = ありがと！
+
+[0x3bc5c]
+size = 15
+content = 001001iv0020880
+
+[0x3bc6c]
+size = 30
+content = さきほどの話にもありましたが、
+
+[0x3bc8b]
+size = 50
+content = ナオミさんはどうしてそんなに日本が好きなんですか？
+
+[0x3bcbe]
+size = 15
+content = 005001iv0010860
+
+[0x3bcce]
+size = 30
+content = Ｏｈ！　よくぞ聞いてくれたネ！
+
+[0x3bced]
+size = 32
+content = 日本、とても素晴らしい国デース。
+
+[0x3bd0e]
+size = 36
+content = アメイジング！　ファンタスティック！
+
+[0x3bd33]
+size = 15
+content = 005001iv0010870
+
+[0x3bd43]
+size = 44
+content = ミーの叔父さんが日本に何度も行く事があった。
+
+[0x3bd70]
+size = 38
+content = 日本のお土産、いつも買ってきてくれた。
+
+[0x3bd97]
+size = 30
+content = 日本の話、たくさんしてくれた。
+
+[0x3bdb6]
+size = 15
+content = 005001iv0010880
+
+[0x3bdc6]
+size = 30
+content = フジヤマ、サクラ、スカイツリー
+
+[0x3bde5]
+size = 38
+content = お寺、大仏、鎌倉、ドリクラ、芸者、忍者
+
+[0x3be0c]
+size = 34
+content = スシ、ラーメン、アニメ、アキハバラ
+
+[0x3be2f]
+size = 42
+content = （ん？　なんかヘンなのが混じってないか？）
+
+[0x3be5a]
+size = 15
+content = 005001iv0010890
+
+[0x3be6a]
+size = 26
+content = どれも全部夢のようだった。
+
+[0x3be85]
+size = 28
+content = 写真もたくさん見せてくれた。
+
+[0x3bea2]
+size = 32
+content = ミーも自分の目で見たいと思った。
+
+[0x3bec3]
+size = 15
+content = 005001iv0010900
+
+[0x3bed3]
+size = 42
+content = そして叔父さんがいつも一番最後に言うこと。
+
+[0x3befe]
+size = 34
+content = 日本で一番素晴らしいのは、日本人。
+
+[0x3bf21]
+size = 48
+content = 礼儀正しい、親切、よく働く、我慢する、時間守る。
+
+[0x3bf52]
+size = 15
+content = 005001iv0010905
+
+[0x3bf62]
+size = 34
+content = 世界のどこにもこんな民族はいない、
+
+[0x3bf85]
+size = 22
+content = と叔父さんは言ったネ。
+
+[0x3bf9c]
+size = 38
+content = だからミーは日本にホームステイ決めた。
+
+[0x3bfc3]
+size = 15
+content = 005001iv0010910
+
+[0x3bfd3]
+size = 40
+content = 叔父さんの言ったこと、ウソじゃなかった。
+
+[0x3bffc]
+size = 18
+content = 全部、本当だった。
+
+[0x3c00f]
+size = 40
+content = だからミーは日本の高校に通うこと決めた。
+
+[0x3c038]
+size = 15
+content = 001001iv0020960
+
+[0x3c048]
+size = 24
+content = そして今があるんですね。
+
+[0x3c061]
+size = 15
+content = 005001iv0010915
+
+[0x3c071]
+size = 16
+content = その通りデース！
+
+[0x3c082]
+size = 15
+content = 001001iv0020980
+
+[0x3c092]
+size = 24
+content = とてもよくわかりました。
+
+[0x3c0ab]
+size = 34
+content = でも、日本に来て残念に思ったことも
+
+[0x3c0ce]
+size = 22
+content = あるのではないですか？
+
+[0x3c0e5]
+size = 15
+content = 005001iv0010920
+
+[0x3c0f5]
+size = 12
+content = ありマース！
+
+[0x3c102]
+size = 26
+content = 日本人はどうしてシャイか。
+
+[0x3c11d]
+size = 32
+content = 日本人はみんないっしょがいいか。
+
+[0x3c13e]
+size = 15
+content = 005001iv0010925
+
+[0x3c14e]
+size = 30
+content = ミーにはちょとわかりマセーン。
+
+[0x3c16d]
+size = 28
+content = もっと自分をアピールするネ。
+
+[0x3c18a]
+size = 42
+content = いやいや。　なんでもかんでも自己主張すれば
+
+[0x3c1b5]
+size = 28
+content = いいってものじゃないんだよ。
+
+[0x3c1d2]
+size = 44
+content = 日本人のそういう奥ゆかしさこそ宝なんだって。
+
+[0x3c1ff]
+size = 15
+content = 001001iv0020981
+
+[0x3c20f]
+size = 18
+content = ちょっとあなっち！
+
+[0x3c222]
+size = 14
+content = やめなさいよ。
+
+[0x3c231]
+size = 15
+content = 005001iv0010930
+
+[0x3c241]
+size = 26
+content = ユーの言うことも一理ある。
+
+[0x3c25c]
+size = 38
+content = お、一理あるとか難しい言葉知ってるね。
+
+[0x3c283]
+size = 26
+content = でも日本人を理解したいなら
+
+[0x3c29e]
+size = 32
+content = 日本人の良い所もそうじゃない所も
+
+[0x3c2bf]
+size = 30
+content = 全部合わせて理解してほしいね。
+
+[0x3c2de]
+size = 46
+content = 自分の気に入ったところだけつまみ食いするように
+
+[0x3c30d]
+size = 50
+content = あれは好き、これは嫌いとかやられちゃたまらないよ。
+
+[0x3c340]
+size = 20
+content = 全部合わせて日本人、
+
+[0x3c355]
+size = 38
+content = どれが欠けても成立しないんだよきっと。
+
+[0x3c37c]
+size = 28
+content = それだけはわかってほしいな。
+
+[0x3c399]
+size = 15
+content = 001001iv0020982
+
+[0x3c3a9]
+size = 26
+content = あなっち、突然どうしたの？
+
+[0x3c3c4]
+size = 26
+content = そんなにムキになるなんて。
+
+[0x3c3df]
+size = 15
+content = 005001iv0010935
+
+[0x3c3ef]
+size = 32
+content = ユーはシャイな日本人じゃないネ。
+
+[0x3c410]
+size = 36
+content = でもユーの言うこと、よく考えてみる。
+
+[0x3c435]
+size = 22
+content = アドバイス、ありがと。
+
+[0x3c44c]
+size = 15
+content = 001001iv0020983
+
+[0x3c45c]
+size = 32
+content = すみません、脱線しちゃいましたが
+
+[0x3c47d]
+size = 26
+content = 話を元に戻させてください。
+
+[0x3c498]
+size = 15
+content = 001001iv0020984
+
+[0x3c4a8]
+size = 38
+content = 確かに日本人はそういう所がありますが、
+
+[0x3c4cf]
+size = 40
+content = では外国にはそういう人はいないんですか？
+
+[0x3c4f8]
+size = 15
+content = 005001iv0010940
+
+[0x3c508]
+size = 30
+content = アメリカにもシャイな人はいる。
+
+[0x3c527]
+size = 24
+content = いっしょがいい人もいる。
+
+[0x3c540]
+size = 46
+content = でもそういう人はとても少ない。　マイノリティ。
+
+[0x3c56f]
+size = 15
+content = 001001iv0020985
+
+[0x3c57f]
+size = 16
+content = そうなんですね。
+
+[0x3c590]
+size = 36
+content = でも外国にもそういう人がいると聞いて
+
+[0x3c5b5]
+size = 24
+content = なんだかほっとしました。
+
+[0x3c5ce]
+size = 15
+content = 001001iv0020986
+
+[0x3c5de]
+size = 40
+content = あ、これもみんないっしょ、になりますね。
+
+[0x3c607]
+size = 32
+content = すみません、私も日本人なんです。
+
+[0x3c628]
+size = 15
+content = 005001iv0010945
+
+[0x3c638]
+size = 38
+content = 大丈夫。　メグはみんないっしょと違う。
+
+[0x3c65f]
+size = 15
+content = 001001iv0020987
+
+[0x3c66f]
+size = 40
+content = それでは次の質問に移らせていただきます。
+
+[0x3c698]
+size = 15
+content = 001001iv0020988
+
+[0x3c6a8]
+size = 40
+content = ナオミさんはずいぶん日本語がお上手ですが
+
+[0x3c6d1]
+size = 46
+content = 言葉やコミュニケーションの問題で困ったことなど
+
+[0x3c700]
+size = 20
+content = ありませんでしたか？
+
+[0x3c715]
+size = 15
+content = 005001iv0010950
+
+[0x3c725]
+size = 46
+content = ミーはフロリダにいた頃から日本語の勉強してた。
+
+[0x3c754]
+size = 48
+content = だから日本に来た時、ほとんど日本語問題なかった。
+
+[0x3c785]
+size = 15
+content = 005001iv0010955
+
+[0x3c795]
+size = 16
+content = でも、字は苦手。
+
+[0x3c7a6]
+size = 26
+content = 漢字、ひらがな、カタカナ。
+
+[0x3c7c1]
+size = 22
+content = 覚えるもの、多すぎる！
+
+[0x3c7d8]
+size = 15
+content = 005001iv0010960
+
+[0x3c7e8]
+size = 38
+content = 日本人はどうやって３つを使い分けるか？
+
+[0x3c80f]
+size = 26
+content = ミーにはそれがわからない。
+
+[0x3c82a]
+size = 40
+content = 早く字もちゃんと使えるようになりたいネ。
+
+[0x3c853]
+size = 30
+content = マンガとか、絵と文字があるから
+
+[0x3c872]
+size = 36
+content = 意味がわかりやすいんじゃないかなぁ。
+
+[0x3c897]
+size = 15
+content = 005001iv0010965
+
+[0x3c8a7]
+size = 40
+content = Ｏｈ！　ジャパニーズコミック！　マンガ！
+
+[0x3c8d0]
+size = 20
+content = ミーはマンガ大好き。
+
+[0x3c8e5]
+size = 30
+content = ミサから借りてたくさん読んだ。
+
+[0x3c904]
+size = 15
+content = 005001iv0010970
+
+[0x3c914]
+size = 20
+content = マンガ喫茶もいった。
+
+[0x3c929]
+size = 40
+content = どうしてアメリカにはマンガ喫茶がないか！
+
+[0x3c952]
+size = 38
+content = あんなハッピーな場所にミーは住みたい。
+
+[0x3c979]
+size = 15
+content = 005001iv0010975
+
+[0x3c989]
+size = 18
+content = メグもそう思うか？
+
+[0x3c99c]
+size = 15
+content = 001001iv0020989
+
+[0x3c9ac]
+size = 34
+content = わ、私はあんまりそういう所は……。
+
+[0x3c9cf]
+size = 14
+content = ごめんなさい。
+
+[0x3c9de]
+size = 14
+content = オレは住める。
+
+[0x3c9ed]
+size = 20
+content = というか、住みたい。
+
+[0x3ca02]
+size = 48
+content = むしろ休みの日とか住んでいる時もあると言えよう。
+
+[0x3ca33]
+size = 15
+content = 005001iv0010980
+
+[0x3ca43]
+size = 12
+content = ほんとうか？
+
+[0x3ca50]
+size = 26
+content = ユーもマンガ喫茶フレンド？
+
+[0x3ca6b]
+size = 20
+content = フレンド、フレンド。
+
+[0x3ca80]
+size = 15
+content = 005001iv0010985
+
+[0x3ca90]
+size = 36
+content = 今度おすすめのマンガあったら教える。
+
+[0x3cab5]
+size = 36
+content = ユーもおすすめ、ミーに教えてほしい。
+
+[0x3cada]
+size = 10
+content = プリーズ！
+
+[0x3cae5]
+size = 20
+content = オーケイ、もちろん。
+
+[0x3cafa]
+size = 38
+content = （なんか急にフレンドリーになったなぁ）
+
+[0x3cb21]
+size = 15
+content = 001001iv0020990
+
+[0x3cb31]
+size = 22
+content = 質問は以上となります。
+
+[0x3cb48]
+size = 36
+content = ナオミさん、ありがとうございました。
+
+[0x3cb6d]
+size = 44
+content = 最後にスナップを撮らせてもらっていいですか？
+
+[0x3cb9a]
+size = 15
+content = 005001iv0010990
+
+[0x3cbaa]
+size = 10
+content = オーケイ！
+
+[0x3cbb5]
+size = 18
+content = １枚５ドルデース。
+
+[0x3cbc8]
+size = 15
+content = 001001iv0020991
+
+[0x3cbd8]
+size = 24
+content = え！？　ドルですか……。
+
+[0x3cbf1]
+size = 24
+content = あなっち、ドル持ってる？
+
+[0x3cc0a]
+size = 24
+content = ……もってるわけないよ。
+
+[0x3cc23]
+size = 15
+content = 005001iv0010991
+
+[0x3cc33]
+size = 30
+content = アハハハ！　イッツアジョーク。
+
+[0x3cc52]
+size = 32
+content = ダイジョブ、タダでとらせマース。
+
+[0x3cc73]
+size = 36
+content = （アメリカンジョークつまんねぇ……）
+
+[0x3cc98]
+size = 15
+content = 001001iv0020992
+
+[0x3cca8]
+size = 32
+content = はははははは……、そうですよね。
+
+[0x3ccc9]
+size = 12
+content = 助かります。
+
+[0x3ccd6]
+size = 42
+content = それじゃナオミさん、こっちに目線ください。
+
+[0x3cd01]
+size = 15
+content = 005001iv0010992
+
+[0x3cd11]
+size = 16
+content = 目線、あげるネ。
+
+[0x3cd22]
+size = 36
+content = それから、ミーのことはナオミでいい。
+
+[0x3cd47]
+size = 22
+content = そ、そう？　じゃあ……
+
+[0x3cd5e]
+size = 22
+content = ナオミ、目線プリーズ。
+
+[0x3cd75]
+size = 10
+content = オッケー。
+
+[0x3cd80]
+size = 26
+content = いい写真が撮れたと思うよ。
+
+[0x3cd9b]
+size = 15
+content = 005001iv0010993
+
+[0x3cdab]
+size = 20
+content = 写真、ミーもほしい。
+
+[0x3cdc0]
+size = 28
+content = アドレス教える、ユーが送る。
+
+[0x3cddd]
+size = 8
+content = いいか？
+
+[0x3cde6]
+size = 28
+content = わかったよ。　じゃ、後でね。
+
+[0x3ce03]
+size = 15
+content = 005001iv0010994
+
+[0x3ce13]
+size = 30
+content = 最後にミーからひとことあるネ！
+
+[0x3ce32]
+size = 15
+content = 001001iv0020993
+
+[0x3ce42]
+size = 20
+content = いいですよ、どうぞ。
+
+[0x3ce57]
+size = 15
+content = 005001iv0010995
+
+[0x3ce67]
+size = 24
+content = ハイ！　夢高のみなさん！
+
+[0x3ce80]
+size = 34
+content = みんなチアリーディング部へカモン！
+
+[0x3cea3]
+size = 34
+content = サンダースはみんなを待ってマース！
+
+[0x3cec6]
+size = 15
+content = 005001iv0010996
+
+[0x3ced6]
+size = 15
+content = 001001iv0020994
+
+[0x3cee6]
+size = 28
+content = （２人ともノリノリだな……）
+
+[0x3cf03]
+size = 28
+content = それじゃ、お疲れ様でした～。
+
+[0x3cf20]
+size = 15
+content = 001001iv0020995
+
+[0x3cf30]
+size = 24
+content = ありがとうございました。
+
+[0x3cf49]
+size = 15
+content = 005001iv0010997
+
+[0x3cf59]
+size = 8
+content = バ～イ！
+

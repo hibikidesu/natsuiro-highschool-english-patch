@@ -1,0 +1,1340 @@
+[0x34100]
+size = 27
+content = めぐ同行取材EV001雪村ヒカル
+
+[0x3411c]
+size = 4
+content = めぐ
+
+[0x34121]
+size = 15
+content = 001001iv0010010
+
+[0x34131]
+size = 46
+content = 練習中失礼します。　雪村ヒカルさん、ですよね。
+
+[0x34161]
+size = 6
+content = ヒカル
+
+[0x34168]
+size = 15
+content = 006001iv0010020
+
+[0x34178]
+size = 20
+content = あ、うん。ボクだよ。
+
+[0x3418d]
+size = 15
+content = 001001iv0010030
+
+[0x3419d]
+size = 32
+content = 昨日連絡した報道部の三日月です。
+
+[0x341be]
+size = 18
+content = 今、大丈夫ですか？
+
+[0x341d1]
+size = 15
+content = 006001iv0010040
+
+[0x341e1]
+size = 28
+content = ああ三日月さん、こんにちは。
+
+[0x341fe]
+size = 42
+content = 大丈夫、ちょうどキリのいいところだったし。
+
+[0x34229]
+size = 30
+content = 確か、取材ってことだったよね。
+
+[0x34248]
+size = 15
+content = 001001iv0010050
+
+[0x34258]
+size = 24
+content = はい。　生徒会の依頼で、
+
+[0x34271]
+size = 50
+content = 今年の活躍が期待されている生徒を取材してるんです。
+
+[0x342a4]
+size = 34
+content = 今日はご協力よろしくお願いします。
+
+[0x342c7]
+size = 15
+content = 006001iv0010060
+
+[0x342d7]
+size = 40
+content = うん、ボクの方こそよろしくお願いします。
+
+[0x34300]
+size = 42
+content = でも、まだ高校での実績がゼロのボクなんかが
+
+[0x3432b]
+size = 24
+content = 取材なんて、いいのかな？
+
+[0x34344]
+size = 15
+content = 001001iv0010070
+
+[0x34354]
+size = 8
+content = そんな！
+
+[0x3435d]
+size = 42
+content = 雪村さんは中学時代は全国区の選手だったし、
+
+[0x34388]
+size = 48
+content = この島の人たちにとっては期待の星じゃないですか。
+
+[0x343b9]
+size = 15
+content = 006001iv0010080
+
+[0x343c9]
+size = 28
+content = 期待の星って言われてもなぁ。
+
+[0x343e6]
+size = 28
+content = 中学のことは中学のことだし、
+
+[0x34403]
+size = 44
+content = 高校でも通用するかどうかなんてわかんないよ。
+
+[0x34430]
+size = 8
+content = 割り込み
+
+[0x34439]
+size = 12
+content = ○○○○○○
+
+[0x34446]
+size = 22
+content = あのぉ～、すみません。
+
+[0x3445d]
+size = 36
+content = 盛り上がってるところ恐縮なのですが、
+
+[0x34482]
+size = 28
+content = オレも一応いるんですけど……
+
+[0x3449f]
+size = 15
+content = 001001iv0010090
+
+[0x344af]
+size = 16
+content = あ、そうだった。
+
+[0x344c0]
+size = 18
+content = ごめん、あなっち。
+
+[0x344d3]
+size = 15
+content = 006001iv0010100
+
+[0x344e3]
+size = 12
+content = あなっち？？
+
+[0x344f0]
+size = 20
+content = 確か同じクラスの……
+
+[0x34505]
+size = 34
+content = ○○○です。　報道部に入りました。
+
+[0x34528]
+size = 46
+content = 今日は三日月の付き添いです。　どうぞよろしく。
+
+[0x34557]
+size = 15
+content = 006001iv0010110
+
+[0x34567]
+size = 10
+content = よろしく。
+
+[0x34572]
+size = 48
+content = まだ話したことなかったから、ちょうどよかったね。
+
+[0x345a3]
+size = 28
+content = もううちの学校に慣れたかな？
+
+[0x345c0]
+size = 28
+content = まぁぼちぼちってところかな。
+
+[0x345dd]
+size = 15
+content = 006001iv0010120
+
+[0x345ed]
+size = 8
+content = そっか。
+
+[0x345f6]
+size = 48
+content = いつか陸上部に誘ってみようって思ってたんだけど、
+
+[0x34627]
+size = 34
+content = 報道部に入ったんだ。　残念だなぁ。
+
+[0x3464a]
+size = 20
+content = え、そうだったんだ？
+
+[0x3465f]
+size = 32
+content = それは残念なことをしたなあ……。
+
+[0x34680]
+size = 15
+content = 001001iv0010130
+
+[0x34690]
+size = 10
+content = …………。
+
+[0x3469b]
+size = 16
+content = （こ、怖い……）
+
+[0x346ac]
+size = 12
+content = 割り込みなし
+
+[0x346b9]
+size = 15
+content = 006001iv0010130
+
+[0x346c9]
+size = 34
+content = あれ？　キミは確か同じクラスの……
+
+[0x346ec]
+size = 42
+content = 今日は三日月の付添です。　どうぞよろしく。
+
+[0x34717]
+size = 15
+content = 006001iv0010150
+
+[0x34727]
+size = 12
+content = そうなんだ。
+
+[0x34734]
+size = 20
+content = こちらこそよろしく。
+
+[0x34749]
+size = 15
+content = 001001iv0010160
+
+[0x34759]
+size = 20
+content = それでは、改めまして
+
+[0x3476e]
+size = 36
+content = 取材の方をはじめさせてもらいますね。
+
+[0x34793]
+size = 15
+content = 006001iv0010170
+
+[0x347a3]
+size = 38
+content = その前に三日月さん、同じ２年なんだから
+
+[0x347ca]
+size = 28
+content = 敬語はやめて普通に話そうよ。
+
+[0x347e7]
+size = 15
+content = 001001iv0010180
+
+[0x347f7]
+size = 12
+content = 報道部心得！
+
+[0x34804]
+size = 38
+content = ひとつ、取材対象には常に敬意を払うべし
+
+[0x3482b]
+size = 15
+content = 001001iv0010190
+
+[0x3483b]
+size = 30
+content = っていうのが私のモットーなので
+
+[0x3485a]
+size = 30
+content = どうかこのままでお願いします。
+
+[0x34879]
+size = 15
+content = 006001iv0010200
+
+[0x34889]
+size = 40
+content = あははは、三日月さんって面白い人だなぁ。
+
+[0x348b2]
+size = 50
+content = それじゃあその報道部心得に免じて、敬語でもいいよ。
+
+[0x348e5]
+size = 15
+content = 001001iv0010210
+
+[0x348f5]
+size = 22
+content = ありがとうございます。
+
+[0x3490c]
+size = 34
+content = では早速はじめさせていただきます。
+
+[0x3492f]
+size = 15
+content = 001001iv0010220
+
+[0x3493f]
+size = 28
+content = 雪村さんは昨年の怪我のために
+
+[0x3495c]
+size = 42
+content = この一年間をリハビリに費やされたそうですが
+
+[0x34987]
+size = 40
+content = その間のお気持ちなどを聞かせてください。
+
+[0x349b0]
+size = 15
+content = 006001iv0010230
+
+[0x349c0]
+size = 20
+content = う～ん、そうだなあ。
+
+[0x349d5]
+size = 46
+content = ボク、本格的な怪我をしたのって初めてだったから
+
+[0x34a04]
+size = 48
+content = まず怪我したことそのものにビックリしたっていうか
+
+[0x34a35]
+size = 38
+content = 怪我って具体的にどういう怪我だったの？
+
+[0x34a5c]
+size = 15
+content = 001001iv0010240
+
+[0x34a6c]
+size = 46
+content = ちょっとあなっち、インタビュワーは私なんだから
+
+[0x34a9b]
+size = 24
+content = 勝手に割り込まないでよ。
+
+[0x34ab4]
+size = 42
+content = ごめん、でもオレ転校してきたばっかりだから
+
+[0x34adf]
+size = 38
+content = 雪村の怪我のこととか全然知らなくって。
+
+[0x34b06]
+size = 15
+content = 006001iv0010250
+
+[0x34b16]
+size = 22
+content = あははは、そうだよね。
+
+[0x34b2d]
+size = 46
+content = 怪我は左足首のアキレス腱の部分断裂だったんだ。
+
+[0x34b5c]
+size = 46
+content = 幸いそんなに重傷じゃなかったみたいなんだけど。
+
+[0x34b8b]
+size = 28
+content = でも痛そう……大変だったね。
+
+[0x34ba8]
+size = 15
+content = 006001iv0010260
+
+[0x34bb8]
+size = 14
+content = まぁまぁかな。
+
+[0x34bc7]
+size = 40
+content = 不自由な生活もそれはそれで新鮮だったよ。
+
+[0x34bf0]
+size = 34
+content = 二度と走れなくなるわけでもないし。
+
+[0x34c13]
+size = 15
+content = 006001iv0010270
+
+[0x34c23]
+size = 14
+content = ああ、ごめん。
+
+[0x34c32]
+size = 32
+content = リハビリ中の気持ち、だったよね。
+
+[0x34c53]
+size = 15
+content = 006001iv0010280
+
+[0x34c63]
+size = 38
+content = １か月半くらいは普通に歩けなかったから
+
+[0x34c8a]
+size = 42
+content = とにかく我慢我慢我慢……って感じの毎日で。
+
+[0x34cb5]
+size = 15
+content = 001001iv0010290
+
+[0x34cc5]
+size = 30
+content = 松葉杖で学校に来てましたよね。
+
+[0x34ce4]
+size = 15
+content = 006001iv0010300
+
+[0x34cf4]
+size = 30
+content = 慣れるまで結構大変だったんだ。
+
+[0x34d13]
+size = 42
+content = おかげで自分の足で歩けるようになった時には
+
+[0x34d3e]
+size = 34
+content = すごく嬉しくて、感動しちゃったよ。
+
+[0x34d61]
+size = 15
+content = 001001iv0010310
+
+[0x34d71]
+size = 36
+content = 雪村さんはポジティブ思考なんですね。
+
+[0x34d96]
+size = 48
+content = 逆境でもマイナスに考えないで、前向きっていうか。
+
+[0x34dc7]
+size = 15
+content = 006001iv0010320
+
+[0x34dd7]
+size = 10
+content = そうかな？
+
+[0x34de2]
+size = 28
+content = 自分ではよくわからないけど。
+
+[0x34dff]
+size = 44
+content = でもあんまり落ち込んだりした経験はないかも。
+
+[0x34e2c]
+size = 28
+content = それって悩みがないってこと？
+
+[0x34e49]
+size = 15
+content = 001001iv0010330
+
+[0x34e59]
+size = 32
+content = あなっち、失礼なこと言わないの！
+
+[0x34e7a]
+size = 15
+content = 006001iv0010340
+
+[0x34e8a]
+size = 24
+content = 悩みかぁ、なくはないけど
+
+[0x34ea3]
+size = 40
+content = 悩んでいるヒマがあったら走りたいからね。
+
+[0x34ecc]
+size = 22
+content = 走るって気持ちいいよ。
+
+[0x34ee3]
+size = 15
+content = 001001iv0010350
+
+[0x34ef3]
+size = 32
+content = 雪村さんが陸上を始めたきっかけは
+
+[0x34f14]
+size = 20
+content = なんだったんですか？
+
+[0x34f29]
+size = 15
+content = 006001iv0010360
+
+[0x34f39]
+size = 18
+content = それはね、中１の時
+
+[0x34f4c]
+size = 40
+content = 当時の陸上部の顧問の先生に誘われたんだ。
+
+[0x34f75]
+size = 15
+content = 006001iv0010370
+
+[0x34f85]
+size = 34
+content = 体育の体力測定で１００Ｍ走った時、
+
+[0x34fa8]
+size = 32
+content = なんだかすごい記録だったとかで。
+
+[0x34fc9]
+size = 15
+content = 006001iv0010380
+
+[0x34fd9]
+size = 28
+content = タイムがどれくらいだったか、
+
+[0x34ff6]
+size = 34
+content = ボクはもう覚えてないんだけど……。
+
+[0x35019]
+size = 15
+content = 001001iv0010390
+
+[0x35029]
+size = 40
+content = その後、全中で活躍されたくらいですから、
+
+[0x35052]
+size = 38
+content = きっとすごいタイムだったんでしょうね。
+
+[0x35079]
+size = 15
+content = 006001iv0010400
+
+[0x35089]
+size = 38
+content = こんなこと言っていいのかわかんないけど
+
+[0x350b0]
+size = 16
+content = ボク、正直いうと
+
+[0x350c1]
+size = 36
+content = タイムとかあんまり興味ないんだよね。
+
+[0x350e6]
+size = 15
+content = 001001iv0010410
+
+[0x350f6]
+size = 10
+content = ええっ！？
+
+[0x35101]
+size = 44
+content = 陸上やってるのにタイムに興味がないんですか？
+
+[0x3512e]
+size = 15
+content = 006001iv0010420
+
+[0x3513e]
+size = 6
+content = うん。
+
+[0x35145]
+size = 32
+content = レースでみんなでいっしょに走って
+
+[0x35166]
+size = 36
+content = それで競い合うのが楽しいっていうか。
+
+[0x3518b]
+size = 15
+content = 006001iv0010430
+
+[0x3519b]
+size = 40
+content = それで一番になれればそれも嬉しいんだけど
+
+[0x351c4]
+size = 48
+content = 走った後にみんなで健闘を称え合うっていうのかな。
+
+[0x351f5]
+size = 30
+content = そういう雰囲気が大好きなんだ。
+
+[0x35214]
+size = 15
+content = 006001iv0010440
+
+[0x35224]
+size = 14
+content = その時その時で
+
+[0x35233]
+size = 26
+content = 自分の力を出し切った人や、
+
+[0x3524e]
+size = 36
+content = なにかの理由で不完全燃焼だった人とか
+
+[0x35273]
+size = 15
+content = 006001iv0010450
+
+[0x35283]
+size = 18
+content = みんな事情が違うし
+
+[0x35296]
+size = 32
+content = 結果に対する満足度も違うんだけど
+
+[0x352b7]
+size = 46
+content = それでも心のどこかに同じものがある、みたいな。
+
+[0x352e6]
+size = 15
+content = 001001iv0010460
+
+[0x352f6]
+size = 30
+content = 同じ競技をやっている仲間意識、
+
+[0x35315]
+size = 20
+content = みたいなものですか？
+
+[0x3532a]
+size = 15
+content = 006001iv0010470
+
+[0x3533a]
+size = 22
+content = ちょっと違う……かな。
+
+[0x35351]
+size = 40
+content = なんだろう、うまく言葉で説明できないや。
+
+[0x3537a]
+size = 10
+content = ごめんね。
+
+[0x35385]
+size = 15
+content = 001001iv0010480
+
+[0x35395]
+size = 36
+content = それでは次に、中学時代の成績について
+
+[0x353ba]
+size = 18
+content = お聞かせください。
+
+[0x353cd]
+size = 42
+content = 具体的に各大会の結果はどうだったんですか？
+
+[0x353f8]
+size = 15
+content = 006001iv0010490
+
+[0x35408]
+size = 38
+content = 中１で始めたばかりの年は練習ばっかりで
+
+[0x3542f]
+size = 28
+content = 大会には出場しなかったかな。
+
+[0x3544c]
+size = 15
+content = 006001iv0010500
+
+[0x3545c]
+size = 48
+content = 先生の方針で、１年の間はこれから戦っていくための
+
+[0x3548d]
+size = 40
+content = 基礎体力と体作りに専念しろって言われて。
+
+[0x354b6]
+size = 15
+content = 001001iv0010510
+
+[0x354c6]
+size = 50
+content = 選手たちの将来を見据えた長期的指導だったんですね。
+
+[0x354f9]
+size = 15
+content = 006001iv0010520
+
+[0x35509]
+size = 30
+content = うん。　そのおかげで中学の時は
+
+[0x35528]
+size = 32
+content = 怪我ひとつしなかったんだと思う。
+
+[0x35549]
+size = 15
+content = 006001iv0010530
+
+[0x35559]
+size = 42
+content = それが高校に入った途端大きな怪我しちゃって
+
+[0x35584]
+size = 42
+content = 中学の時の先生に申し訳ないって気持ちだよ。
+
+[0x355af]
+size = 15
+content = 001001iv0010540
+
+[0x355bf]
+size = 24
+content = 雪村さんの恩師、ですね。
+
+[0x355d8]
+size = 15
+content = 006001iv0010550
+
+[0x355e8]
+size = 16
+content = うん、そうだね。
+
+[0x355f9]
+size = 40
+content = それで２年の時初めて大会に出してもらって
+
+[0x35622]
+size = 44
+content = 県大会で優勝して、全国大会で２位だったかな。
+
+[0x3564f]
+size = 15
+content = 001001iv0010560
+
+[0x3565f]
+size = 38
+content = デビューしていきなり全国２位ですか！？
+
+[0x35686]
+size = 8
+content = すごい！
+
+[0x3568f]
+size = 15
+content = 006001iv0010570
+
+[0x3569f]
+size = 38
+content = たまたま調子が良かったんじゃないかな。
+
+[0x356c6]
+size = 34
+content = ３年の時は全国の決勝には残れたけど
+
+[0x356e9]
+size = 42
+content = 直前の準決勝の疲れが残ってて４位だったし。
+
+[0x35714]
+size = 15
+content = 001001iv0010580
+
+[0x35724]
+size = 34
+content = 全国４位でもすごいじゃないですか。
+
+[0x35747]
+size = 46
+content = 高校でも期待されている理由がよくわかりました。
+
+[0x35776]
+size = 15
+content = 001001iv0010590
+
+[0x35786]
+size = 44
+content = 雪村さんが中学時代にそんなすごい成績を残せた
+
+[0x357b3]
+size = 36
+content = 最大の理由はなんだったと思いますか？
+
+[0x357d8]
+size = 15
+content = 006001iv0010600
+
+[0x357e8]
+size = 36
+content = う～ん、真面目に練習したから、とか？
+
+[0x3580d]
+size = 15
+content = 001001iv0010610
+
+[0x3581d]
+size = 16
+content = 他の選手もみんな
+
+[0x3582e]
+size = 34
+content = 真面目に練習してると思いますけど。
+
+[0x35851]
+size = 15
+content = 006001iv0010620
+
+[0x35861]
+size = 18
+content = だよね、あははは。
+
+[0x35874]
+size = 42
+content = 自分ではすごく努力してるって感じじゃなくて
+
+[0x3589f]
+size = 44
+content = 普通に楽しんでるだけだったから実感なくって。
+
+[0x358cc]
+size = 15
+content = 001001iv0010630
+
+[0x358dc]
+size = 10
+content = なるほど！
+
+[0x358e7]
+size = 34
+content = 楽しむことが強さの秘訣なんですね！
+
+[0x3590a]
+size = 15
+content = 006001iv0010640
+
+[0x3591a]
+size = 10
+content = え～と……
+
+[0x35925]
+size = 38
+content = それじゃあ、そういうことにしておくよ。
+
+[0x3594c]
+size = 15
+content = 001001iv0010650
+
+[0x3595c]
+size = 40
+content = 最後に、次の大会が復帰初戦ということで、
+
+[0x35985]
+size = 26
+content = 意気込みはどうでしょうか？
+
+[0x359a0]
+size = 15
+content = 006001iv0010660
+
+[0x359b0]
+size = 30
+content = そうだなぁ……意気込みかぁ……
+
+[0x359cf]
+size = 20
+content = 出たとこ勝負、かな。
+
+[0x359e4]
+size = 15
+content = 006001iv0010670
+
+[0x359f4]
+size = 20
+content = 今度の土曜の記録会で
+
+[0x35a09]
+size = 38
+content = 怪我してから初めてのタイムを計るんだ。
+
+[0x35a30]
+size = 32
+content = その結果が出てからまた考えるよ。
+
+[0x35a51]
+size = 15
+content = 001001iv0010680
+
+[0x35a61]
+size = 26
+content = 焦りや不安はないんですか？
+
+[0x35a7c]
+size = 15
+content = 006001iv0010690
+
+[0x35a8c]
+size = 8
+content = ごめん。
+
+[0x35a95]
+size = 15
+content = 001001iv0010700
+
+[0x35aa5]
+size = 38
+content = 別にいいんです。　謝らないでください。
+
+[0x35acc]
+size = 42
+content = 雪村さんって普段からそんな感じなんですか？
+
+[0x35af7]
+size = 15
+content = 006001iv0010710
+
+[0x35b07]
+size = 32
+content = ああ、うん。　どうなんだろ……。
+
+[0x35b28]
+size = 28
+content = 自分じゃよくわからないけど、
+
+[0x35b45]
+size = 34
+content = 周りからはよく能天気って言われる。
+
+[0x35b68]
+size = 15
+content = 006001iv0010720
+
+[0x35b78]
+size = 46
+content = やっぱり普通はもっと焦ったりするものなのかな？
+
+[0x35ba7]
+size = 44
+content = 焦っても結果には何も関係ないと思うんだけど。
+
+[0x35bd4]
+size = 42
+content = っていうかむしろよくないんじゃないかなあ。
+
+[0x35bff]
+size = 18
+content = オレもそう思うよ。
+
+[0x35c12]
+size = 38
+content = やっぱり精神的な影響ってあると思うし。
+
+[0x35c39]
+size = 15
+content = 001001iv0010730
+
+[0x35c49]
+size = 38
+content = またぁ～。　あなっち、いい加減にして。
+
+[0x35c70]
+size = 42
+content = あなっちの感想なんてどうでもいいんだから！
+
+[0x35c9b]
+size = 15
+content = 006001iv0010740
+
+[0x35cab]
+size = 40
+content = あははは、なんか２人っていいコンビだね。
+
+[0x35cd4]
+size = 22
+content = 漫才みたいで面白いよ。
+
+[0x35ceb]
+size = 24
+content = 喜んでもらえて光栄です。
+
+[0x35d04]
+size = 15
+content = 001001iv0010750
+
+[0x35d14]
+size = 28
+content = あなっち！　調子にのらない！
+
+[0x35d31]
+size = 15
+content = 006001iv0010760
+
+[0x35d41]
+size = 16
+content = そう、その感じ。
+
+[0x35d52]
+size = 24
+content = 息がピッタリ合ってるよ。
+
+[0x35d6b]
+size = 15
+content = 001001iv0010770
+
+[0x35d7b]
+size = 42
+content = もう……雪村さんもからかわないでください。
+
+[0x35da6]
+size = 32
+content = これは報道部の活動なんですから。
+
+[0x35dc7]
+size = 15
+content = 006001iv0010780
+
+[0x35dd7]
+size = 14
+content = ごめんごめん。
+
+[0x35de6]
+size = 15
+content = 001001iv0010790
+
+[0x35df6]
+size = 46
+content = それでは今年の雪村さんの活躍を期待しています。
+
+[0x35e25]
+size = 46
+content = 今日はご協力いただき、ありがとうございました。
+
+[0x35e54]
+size = 15
+content = 006001iv0010800
+
+[0x35e64]
+size = 22
+content = えっ、もう終わりなの？
+
+[0x35e7b]
+size = 8
+content = ハイッ！
+
+[0x35e84]
+size = 36
+content = その、日焼けの跡を見せてくださいッ！
+
+[0x35ea9]
+size = 15
+content = 006001iv0010810
+
+[0x35eb9]
+size = 16
+content = え？　日焼け跡？
+
+[0x35eca]
+size = 36
+content = いいけど、そんなもの見てどうするの？
+
+[0x35eef]
+size = 15
+content = 001001iv0010820
+
+[0x35eff]
+size = 24
+content = ちょっと待って雪村さん！
+
+[0x35f18]
+size = 28
+content = あなっち、なんてこと言うの！
+
+[0x35f35]
+size = 15
+content = 006001iv0010830
+
+[0x35f45]
+size = 30
+content = まだ７月に入ったばかりだけど、
+
+[0x35f64]
+size = 24
+content = もう結構焼けてるんだよ。
+
+[0x35f7d]
+size = 26
+content = 特に太もものところとか……
+
+[0x35f98]
+size = 15
+content = 001001iv0010840
+
+[0x35fa8]
+size = 36
+content = うわぁ～っ！！　だから待ってってば！
+
+[0x35fcd]
+size = 12
+content = ストップ！！
+
+[0x35fda]
+size = 40
+content = そんなとこ見せたらダメです！　絶対ダメ！
+
+[0x36003]
+size = 15
+content = 006001iv0010850
+
+[0x36013]
+size = 8
+content = ？？？？
+
+[0x3601c]
+size = 15
+content = 006001iv0010860
+
+[0x3602c]
+size = 16
+content = ああっ、そっか！
+
+[0x3603d]
+size = 14
+content = あっぶなーい。
+
+[0x3604c]
+size = 28
+content = うっかりしてたよ、あははは。
+
+[0x36069]
+size = 14
+content = いや、あの……
+
+[0x36078]
+size = 44
+content = こっちは軽い冗談のつもりだったんだけど……。
+
+[0x360a5]
+size = 15
+content = 006001iv0010870
+
+[0x360b5]
+size = 10
+content = だよね～。
+
+[0x360c0]
+size = 15
+content = 001001iv0010880
+
+[0x360d0]
+size = 30
+content = 冗談でもダメなものはダメです！
+
+[0x360ef]
+size = 38
+content = 雪村さんももっと怒ってくれないと……。
+
+[0x36116]
+size = 15
+content = 006001iv0010890
+
+[0x36126]
+size = 38
+content = 別に怒るほどのことじゃないと思うけど。
+
+[0x3614d]
+size = 20
+content = そうなの？　マジで？
+
+[0x36162]
+size = 15
+content = 001001iv0010900
+
+[0x36172]
+size = 14
+content = あなっち！！！
+
+[0x36181]
+size = 24
+content = ごごご、ごめんなさーい。
+
+[0x3619a]
+size = 16
+content = もうしませーん。
+
+[0x361ab]
+size = 15
+content = 006001iv0010910
+
+[0x361bb]
+size = 36
+content = あははは、本当に面白いなぁ２人とも。
+
+[0x361e0]
+size = 15
+content = 001001iv0010920
+
+[0x361f0]
+size = 38
+content = 最後にスナップを一枚撮らせてください。
+
+[0x36217]
+size = 10
+content = あなっち！
+
+[0x36222]
+size = 30
+content = はいはい。　やっと出番ですね。
+
+[0x36241]
+size = 38
+content = それじゃ雪村、こっち目線お願いします。
+
+[0x36268]
+size = 10
+content = オッケー。
+
+[0x36273]
+size = 26
+content = いい写真が撮れたと思うよ。
+
+[0x3628e]
+size = 15
+content = 006001iv0010930
+
+[0x3629e]
+size = 34
+content = その写真、後でボクももらえるかな？
+
+[0x362c1]
+size = 38
+content = もちろん、メアド教えてくれたら送るよ。
+
+[0x362e8]
+size = 15
+content = 006001iv0010940
+
+[0x362f8]
+size = 26
+content = うん、それじゃあよろしく。
+
+[0x36313]
+size = 12
+content = 楽しみだな。
+
+[0x36320]
+size = 15
+content = 001001iv0010950
+
+[0x36330]
+size = 36
+content = 雪村さん、土曜日頑張ってくださいね！
+
+[0x36355]
+size = 22
+content = 私たちも応援してます！
+
+[0x3636c]
+size = 15
+content = 006001iv0010960
+
+[0x3637c]
+size = 18
+content = うん、ありがとう。
+
+[0x3638f]
+size = 24
+content = 君たちも部活頑張ってね。
+
+[0x363a8]
+size = 25
+content = めぐ同行取材EV001雪村ヒカ
+
