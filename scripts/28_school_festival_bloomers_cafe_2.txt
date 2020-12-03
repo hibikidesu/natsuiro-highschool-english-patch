@@ -1,0 +1,860 @@
+[0x24a22]
+size = 24
+content = ぐ学園祭ペア２ブルマ喫茶
+
+[0x24a3b]
+size = 12
+content = ○○○○○○
+
+[0x24a48]
+size = 16
+content = お、おい、めぐ！
+
+[0x24a59]
+size = 20
+content = ブルマ喫茶があるよ！
+
+[0x24a6e]
+size = 28
+content = これはぜひ取材しなくちゃ！！
+
+[0x24a8b]
+size = 4
+content = めぐ
+
+[0x24a90]
+size = 15
+content = 001001fp0020010
+
+[0x24aa0]
+size = 18
+content = えっ……う、うん。
+
+[0x24ab3]
+size = 28
+content = 取材するのは別にいいけど……
+
+[0x24ad0]
+size = 46
+content = あなっち、どうしてそんなに気合いが入ってるの？
+
+[0x24aff]
+size = 32
+content = なにを言ってるんだ、三日月さん！
+
+[0x24b20]
+size = 38
+content = いつだってボクはやる気満々じゃないか！
+
+[0x24b48]
+size = 30
+content = 夢高祭のありとあらゆるシーンを
+
+[0x24b67]
+size = 32
+content = カメラに収めるのがボクの使命だ！
+
+[0x24b88]
+size = 14
+content = さあ、行こう！
+
+[0x24b97]
+size = 15
+content = 001001fp0020020
+
+[0x24ba7]
+size = 32
+content = なんだか口調まで変わってるし……
+
+[0x24bc8]
+size = 34
+content = まあ、あなっちの考えてることなんて
+
+[0x24beb]
+size = 32
+content = お見通しですけどね。　ふ～んだ！
+
+[0x24c0c]
+size = 4
+content = 店員
+
+[0x24c11]
+size = 15
+content = 351001fp0020030
+
+[0x24c21]
+size = 20
+content = いらっしゃいませ～。
+
+[0x24c36]
+size = 24
+content = おふたりさまですかぁ～？
+
+[0x24c4f]
+size = 28
+content = は、はいっ！　おふたりです！
+
+[0x24c6c]
+size = 40
+content = はじめてですが、よろしくお願いしますっ！
+
+[0x24c95]
+size = 15
+content = 001001fp0020040
+
+[0x24ca5]
+size = 42
+content = あなっち、ちょっとカタくなりすぎじゃない？
+
+[0x24cd0]
+size = 34
+content = せっかくお茶を飲みに来たんだから、
+
+[0x24cf3]
+size = 24
+content = もっとリラックスしたら？
+
+[0x24d0c]
+size = 20
+content = あ、ああ。　ごめん。
+
+[0x24d21]
+size = 24
+content = わかってはいるんだけど、
+
+[0x24d3a]
+size = 30
+content = どうしても緊張しちゃって……。
+
+[0x24d59]
+size = 30
+content = そういえば、ここって大神先輩の
+
+[0x24d78]
+size = 18
+content = クラスなんだよね？
+
+[0x24d8b]
+size = 32
+content = 今、大神先輩はいないのかな……？
+
+[0x24dac]
+size = 15
+content = 351001fp0020050
+
+[0x24dbc]
+size = 48
+content = ごめんなさい。　いま、大神さんは当番じゃないの。
+
+[0x24ded]
+size = 24
+content = 私じゃ不満だったかしら？
+
+[0x24e06]
+size = 34
+content = い、いえっ！　そんなことないです！
+
+[0x24e29]
+size = 28
+content = ボク、最高に満足してますっ！
+
+[0x24e46]
+size = 15
+content = 001001fp0020060
+
+[0x24e56]
+size = 46
+content = あなっち……その話し方、いいかげんにやめたら？
+
+[0x24e85]
+size = 22
+content = ちょっと気持ち悪いよ？
+
+[0x24e9c]
+size = 34
+content = そ、そうかな？　……それにしても、
+
+[0x24ebf]
+size = 40
+content = どっちを向いてもブルマのお姉さんばかりだ
+
+[0x24ee8]
+size = 40
+content = ……天国というのは本当にあったんだなあ。
+
+[0x24f11]
+size = 15
+content = 001001fp0020070
+
+[0x24f21]
+size = 42
+content = なにをわけのわからないことを言ってるのよ！
+
+[0x24f4c]
+size = 38
+content = 別にブルマなんて、ただの体操着でしょ？
+
+[0x24f73]
+size = 44
+content = それはそうなんだけど……こうして生で見ると、
+
+[0x24fa0]
+size = 34
+content = 言葉にはできない感動があるんだよ。
+
+[0x24fc3]
+size = 42
+content = ……そう。　いわば、男のロマンってやつさ。
+
+[0x24fee]
+size = 15
+content = 001001fp0020080
+
+[0x24ffe]
+size = 42
+content = かっこつけて言うようなことじゃないでしょ！
+
+[0x25029]
+size = 28
+content = ふん！　……あなっちのバカ。
+
+[0x25046]
+size = 38
+content = あっちのお姉さん、すごく大人っぽいなあ
+
+[0x2506d]
+size = 26
+content = ……何歳くらいなんだろう？
+
+[0x25088]
+size = 15
+content = 001001fp0020090
+
+[0x25098]
+size = 20
+content = なにを言ってるのよ。
+
+[0x250ad]
+size = 18
+content = ３年生なんだから、
+
+[0x250c0]
+size = 36
+content = 私たちのひとつ上に決まってるでしょ？
+
+[0x250e5]
+size = 30
+content = あ、そうだね……いかんいかん。
+
+[0x25104]
+size = 42
+content = 興奮しすぎて、まともに思考が働いてないや。
+
+[0x2512f]
+size = 15
+content = 351001fp0020100
+
+[0x2513f]
+size = 50
+content = ねえ、そこのキミ。　私たちの方ばかり見てていいの？
+
+[0x25172]
+size = 26
+content = さっきから、あなたの彼女が
+
+[0x2518d]
+size = 28
+content = 不機嫌そうな顔をしてるわよ？
+
+[0x251aa]
+size = 15
+content = 001001fp0020110
+
+[0x251ba]
+size = 34
+content = えっ？　……わ、私、別にそんな……
+
+[0x251dd]
+size = 26
+content = っていうか、か、彼女ぉ！？
+
+[0x251f8]
+size = 15
+content = 351001fp0020120
+
+[0x25208]
+size = 22
+content = あら、彼女じゃないの？
+
+[0x2521f]
+size = 34
+content = さっきからあなたたちを見てたけど、
+
+[0x25242]
+size = 20
+content = とってもお似合いよ？
+
+[0x25257]
+size = 14
+content = い、いやいや！
+
+[0x25266]
+size = 44
+content = オレとめぐは、ただの報道部の仲間ですってば！
+
+[0x25293]
+size = 15
+content = 001001fp0020130
+
+[0x252a3]
+size = 16
+content = そ、そうですよ！
+
+[0x252b4]
+size = 32
+content = 私たち、まだそんな関係では……！
+
+[0x252d5]
+size = 15
+content = 351001fp0020140
+
+[0x252e5]
+size = 20
+content = ふふ……まあいいわ。
+
+[0x252fa]
+size = 15
+content = 351001fp0020150
+
+[0x2530a]
+size = 30
+content = ところで、女性同伴のお客様には
+
+[0x25329]
+size = 32
+content = 特別なサービスがあるんだけど……
+
+[0x2534a]
+size = 20
+content = どう？　興味はある？
+
+[0x2535f]
+size = 32
+content = 特別サービス？　……あ、本当だ。
+
+[0x25380]
+size = 44
+content = メニューになにか書いてある。　どれどれ……。
+
+[0x253ad]
+size = 48
+content = 「女性のお客様には、無料でブルマを貸し出します！
+
+[0x253de]
+size = 38
+content = 　あなたもブルマを履いてみませんか？」
+
+[0x25405]
+size = 22
+content = ……な、なんだって！？
+
+[0x2541c]
+size = 15
+content = 001001fp0020160
+
+[0x2542c]
+size = 18
+content = な、なによそれ！？
+
+[0x2543f]
+size = 48
+content = そんなサービス、いったい誰が喜ぶっていうのよ～？
+
+[0x25470]
+size = 34
+content = いやいや。　これはあなどれないぞ。
+
+[0x25493]
+size = 48
+content = 自分の友だちや恋人がブルマを着用してくれるなんて
+
+[0x254c4]
+size = 32
+content = ……これは大ヒットの予感がする！
+
+[0x254e5]
+size = 15
+content = 001001fp0020170
+
+[0x254f5]
+size = 24
+content = えっ、そういうものなの？
+
+[0x2550e]
+size = 10
+content = …………。
+
+[0x25519]
+size = 15
+content = 001001fp0020180
+
+[0x25529]
+size = 26
+content = ってことは……あなっちは、
+
+[0x25544]
+size = 32
+content = わ、私のブルマ姿も……見たいの？
+
+[0x25565]
+size = 6
+content = えっ？
+
+[0x2556c]
+size = 24
+content = そうだな……オレは……。
+
+[0x25585]
+size = 6
+content = 見たい
+
+[0x2558c]
+size = 14
+content = そ、そうだな。
+
+[0x2559b]
+size = 30
+content = ブルマ姿のめぐも見てみたいな。
+
+[0x255ba]
+size = 15
+content = 001001fp0020190
+
+[0x255ca]
+size = 38
+content = えっ！？　……う、うん。　わかったよ。
+
+[0x255f1]
+size = 28
+content = あなっちがそう言うなら……。
+
+[0x2560e]
+size = 24
+content = ……めぐのやつ、遅いな。
+
+[0x25627]
+size = 50
+content = まさか、恥ずかしくて逃げちゃったなんてことは……？
+
+[0x2565a]
+size = 15
+content = 001001fp0020200
+
+[0x2566a]
+size = 24
+content = ……お待たせ、あなっち。
+
+[0x25683]
+size = 42
+content = ごめんね。　着替えに手間取っちゃって……。
+
+[0x256ae]
+size = 12
+content = ……おおっ！
+
+[0x256bb]
+size = 15
+content = 001001fp0020210
+
+[0x256cb]
+size = 20
+content = ど、どう、かな……？
+
+[0x256e0]
+size = 40
+content = め、めぐ……それは……ブルマじゃないか！
+
+[0x25709]
+size = 15
+content = 001001fp0020220
+
+[0x25719]
+size = 38
+content = な、なにを当たり前のこと言ってるのよ！
+
+[0x25740]
+size = 40
+content = あなっちが履いてみろって言ったんでしょ！
+
+[0x25769]
+size = 26
+content = ああ。　そうなんだけど……
+
+[0x25784]
+size = 36
+content = あらためて確認しておきたかったんだ。
+
+[0x257a9]
+size = 15
+content = 001001fp0020230
+
+[0x257b9]
+size = 16
+content = ちょ、ちょっと！
+
+[0x257ca]
+size = 30
+content = あんまりジロジロ見ないでよ～！
+
+[0x257e9]
+size = 40
+content = なんだかスースーして恥ずかしいんだから！
+
+[0x25812]
+size = 18
+content = そうか、涼しいか。
+
+[0x25825]
+size = 38
+content = ええと……ブルマは夏場の体操着として、
+
+[0x2584c]
+size = 28
+content = 機能的にも優れている……と。
+
+[0x25869]
+size = 15
+content = 001001fp0020240
+
+[0x25879]
+size = 26
+content = なにをメモしてるのよっ！？
+
+[0x25894]
+size = 38
+content = もう～。　あなっち、このお店に来てから
+
+[0x258bb]
+size = 20
+content = ちょっとヘンだよ！？
+
+[0x258d0]
+size = 30
+content = つまり、ブルマには男を狂わせる
+
+[0x258ef]
+size = 26
+content = 魔力があるということだな。
+
+[0x2590a]
+size = 34
+content = ふむ、もっとサンプルが必要だ……。
+
+[0x2592d]
+size = 15
+content = 001001fp0020250
+
+[0x2593d]
+size = 22
+content = なによ、サンプルって！
+
+[0x25954]
+size = 36
+content = あなっち、将来はブルマの専門家にでも
+
+[0x25979]
+size = 14
+content = なるつもり！？
+
+[0x25988]
+size = 38
+content = うむ。　本当にそんな職業があるんなら、
+
+[0x259af]
+size = 26
+content = ぜひ就職してみたいな……。
+
+[0x259ca]
+size = 36
+content = それに、そんなに嫌がることないだろ？
+
+[0x259ef]
+size = 32
+content = めぐ、ブルマがよく似合ってるよ？
+
+[0x25a10]
+size = 18
+content = このお店の中でも、
+
+[0x25a23]
+size = 38
+content = いちばんのブルマ美人なんじゃないかな。
+
+[0x25a4a]
+size = 15
+content = 001001fp0020260
+
+[0x25a5a]
+size = 30
+content = えっ……美人？　ほ、本当……？
+
+[0x25a79]
+size = 42
+content = ああ、オレが認めるから自信を持っていいよ。
+
+[0x25aa4]
+size = 26
+content = めぐは本物のブルマ美人だ！
+
+[0x25abf]
+size = 15
+content = 001001fp0020270
+
+[0x25acf]
+size = 50
+content = 「ブルマ美人」っていう称号はあんまり嬉しくないけど
+
+[0x25b02]
+size = 36
+content = ……いちおう褒めてくれてるんだよね？
+
+[0x25b27]
+size = 20
+content = ありがと、あなっち。
+
+[0x25b3c]
+size = 15
+content = 001001fp0020280
+
+[0x25b4c]
+size = 38
+content = ……じゃ、私、そろそろ着替えてくるね。
+
+[0x25b73]
+size = 28
+content = えぇっ！？　着替えちゃうの？
+
+[0x25b90]
+size = 44
+content = どうせなら、その格好のまま過ごせばいいのに！
+
+[0x25bbd]
+size = 15
+content = 001001fp0020290
+
+[0x25bcd]
+size = 10
+content = 嫌ですっ！
+
+[0x25bd8]
+size = 44
+content = こんな格好のまま外を出歩けるわけないでしょ！
+
+[0x25c05]
+size = 26
+content = ああ、オレのブルマが……。
+
+[0x25c20]
+size = 15
+content = 001001fp0020300
+
+[0x25c30]
+size = 20
+content = お待たせ、あなっち。
+
+[0x25c45]
+size = 26
+content = さて、次はどこに行こっか？
+
+[0x25c60]
+size = 10
+content = 見たくない
+
+[0x25c6b]
+size = 24
+content = いや、オレは別にいいよ。
+
+[0x25c84]
+size = 42
+content = めぐはブルマを履くのに抵抗があるんだろう？
+
+[0x25caf]
+size = 24
+content = だったら無理をしないで。
+
+[0x25cc8]
+size = 15
+content = 001001fp0020310
+
+[0x25cd8]
+size = 34
+content = う、うん……ありがとう、あなっち。
+
+[0x25cfb]
+size = 24
+content = でも、本当にいいの……？
+
+[0x25d14]
+size = 42
+content = 正直に言えば、ちょっと興味はあったけど……
+
+[0x25d3f]
+size = 32
+content = でも、めぐに嫌な思いをさせてまで
+
+[0x25d60]
+size = 32
+content = ブルマ姿を見ようとは思わないよ。
+
+[0x25d81]
+size = 15
+content = 001001fp0020320
+
+[0x25d91]
+size = 26
+content = ありがとう、あなっち……。
+
+[0x25dac]
+size = 40
+content = えへへ。　やっぱり、あなっちは優しいね。
+
+[0x25dd5]
+size = 15
+content = 351001fp0020330
+
+[0x25de5]
+size = 24
+content = あらあら……お熱いわね。
+
+[0x25dfe]
+size = 42
+content = どうやら、私が余計なことを言うまでもなく、
+
+[0x25e29]
+size = 30
+content = とっくにラブラブだったみたい。
+
+[0x25e48]
+size = 40
+content = えっ……？　そ、そんなんじゃないですよ！
+
+[0x25e71]
+size = 32
+content = もう、からかわないでくださいよ！
+
+[0x25e92]
+size = 40
+content = やれやれ……さて、もうブルマも十分に見た
+
+[0x25ebb]
+size = 48
+content = ……じゃなく、お茶も飲んでゆっくりしたことだし、
+
+[0x25eec]
+size = 18
+content = そろそろ行こうか？
+
+[0x25eff]
+size = 15
+content = 001001fp0020340
+
+[0x25f0f]
+size = 34
+content = うん！　じゃ、次はどこへ行こうか？
+
+[0x25f32]
+size = 28
+content = 見たいような見たくないような
+
+[0x25f4f]
+size = 46
+content = う～ん。　見たいような、見たくないような……？
+
+[0x25f7e]
+size = 15
+content = 001001fp0020350
+
+[0x25f8e]
+size = 32
+content = なによそれ、はっきりしないなぁ。
+
+[0x25faf]
+size = 20
+content = いったいどっちなの？
+
+[0x25fc4]
+size = 34
+content = いや……ブルマの女子は見たいけど、
+
+[0x25fe7]
+size = 32
+content = めぐのは見たくないというか……。
+
+[0x26008]
+size = 15
+content = 001001fp0020360
+
+[0x26018]
+size = 46
+content = わ、私のは見たくないって、どういう意味よっ！？
+
+[0x26047]
+size = 40
+content = あなっち、それはさすがに失礼じゃない！？
+
+[0x26070]
+size = 36
+content = あ、いや、そういう意味じゃなくて……
+
+[0x26095]
+size = 26
+content = ごめん、今の言葉は忘れて！
+
+[0x260b0]
+size = 15
+content = 001001fp0020370
+
+[0x260c0]
+size = 28
+content = ……もう、あなっちのバカっ！
+
+[0x260dd]
+size = 18
+content = ご、ごめん、めぐ！
+
+[0x260f0]
+size = 16
+content = ……さ、さ～て。
+
+[0x26101]
+size = 36
+content = そろそろ他のところに行こうか。　ね？
+
+[0x26126]
+size = 15
+content = 001001fp0020380
+
+[0x26136]
+size = 6
+content = ふん！
+
+[0x2613d]
+size = 46
+content = （しまった。　ちょっとめぐを怒らせちゃったな。
+
+[0x2616c]
+size = 34
+content = 　もう少し言葉を選ぶべきだったか。
+
+[0x2618f]
+size = 16
+content = 　……でも……）
+
+[0x261a0]
+size = 46
+content = （「めぐのブルマ姿は見たいけど、他の男たちには
+
+[0x261cf]
+size = 48
+content = 　見せたくない」だなんて……言えないよなあ……）
+

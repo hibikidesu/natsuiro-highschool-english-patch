@@ -1,0 +1,636 @@
+[0x2be70]
+size = 33
+content = 報道部EV007合宿オリエンテーション
+
+[0x2be92]
+size = 20
+content = めぐストーリー４情熱
+
+[0x2bea7]
+size = 26
+content = めぐ合宿ペア２前半振り返り
+
+[0x2bec2]
+size = 4
+content = めぐ
+
+[0x2bec7]
+size = 15
+content = 001001gp0020010
+
+[0x2bed7]
+size = 20
+content = あなっち、お疲れ様。
+
+[0x2beec]
+size = 28
+content = どう、合宿は順調に進んでる？
+
+[0x2bf0a]
+size = 12
+content = ○○○○○○
+
+[0x2bf17]
+size = 50
+content = なかなか順調だよ。　オレの記事は写真がメインだから
+
+[0x2bf4a]
+size = 44
+content = みんなと比べれば文章も短めでオッケーだしね。
+
+[0x2bf77]
+size = 42
+content = これなら、締め切りには十分間に合いそうだ。
+
+[0x2bfa2]
+size = 15
+content = 001001gp0020020
+
+[0x2bfb2]
+size = 30
+content = おっ、なかなかの自信じゃない。
+
+[0x2bfd1]
+size = 48
+content = さすが、私が見込んだ大型新人だけのことはあるね！
+
+[0x2c002]
+size = 34
+content = 大型新人かどうかはわからないけど、
+
+[0x2c025]
+size = 38
+content = オレも入部してからしばらく経つからね。
+
+[0x2c04c]
+size = 32
+content = 少しくらいは成長したつもりだよ。
+
+[0x2c06d]
+size = 15
+content = 001001gp0020030
+
+[0x2c07d]
+size = 26
+content = そっか……言われてみれば、
+
+[0x2c098]
+size = 26
+content = あなっちが転校してきてから
+
+[0x2c0b3]
+size = 32
+content = もう１ヶ月以上になるんだもんね。
+
+[0x2c0d4]
+size = 36
+content = そうだね……たった１ヶ月の間だけど、
+
+[0x2c0f9]
+size = 44
+content = ずいぶんいろいろなことが起こった気がするよ。
+
+[0x2c126]
+size = 15
+content = 001001gp0020040
+
+[0x2c136]
+size = 30
+content = うん……こうして目を閉じると、
+
+[0x2c155]
+size = 44
+content = あなっちが入部してきた日のことを思い出すよ。
+
+[0x2c182]
+size = 15
+content = 001001gp0020050
+
+[0x2c192]
+size = 38
+content = あの日、あなっちはこう言ったんだよね。
+
+[0x2c1b9]
+size = 24
+content = 「みなさん、お願いです！
+
+[0x2c1d2]
+size = 32
+content = 　僕を報道部に入れてください！」
+
+[0x2c1f3]
+size = 10
+content = 異議あり！
+
+[0x2c1fe]
+size = 34
+content = 事実と異なるので訂正を要求します。
+
+[0x2c221]
+size = 15
+content = 001001gp0020060
+
+[0x2c231]
+size = 26
+content = えへへ、まあいいじゃない。
+
+[0x2c24c]
+size = 38
+content = ……今は「報道部に入ってよかった」って
+
+[0x2c273]
+size = 16
+content = 思ってるでしょ？
+
+[0x2c284]
+size = 14
+content = ん……まあね。
+
+[0x2c293]
+size = 38
+content = おかげで毎日、退屈しないで済んでるよ。
+
+[0x2c2ba]
+size = 15
+content = 001001gp0020070
+
+[0x2c2ca]
+size = 22
+content = うん、素直でよろしい！
+
+[0x2c2e1]
+size = 34
+content = あなっちもだんだんと報道部の魅力に
+
+[0x2c304]
+size = 24
+content = ハマってきたみたいだね。
+
+[0x2c31d]
+size = 42
+content = まあね。　三日月の頑張りを見ているうちに、
+
+[0x2c348]
+size = 46
+content = オレもだんだん影響されてきたのかもしれないな。
+
+[0x2c377]
+size = 15
+content = 001001gp0020080
+
+[0x2c387]
+size = 18
+content = えっ、私の影響！？
+
+[0x2c39a]
+size = 30
+content = べ、別に、そんなことないよ～。
+
+[0x2c3b9]
+size = 48
+content = なんだか、褒められてるみたいで恥ずかしいな……。
+
+[0x2c3ea]
+size = 36
+content = みたい、じゃなくて、褒めてるんだよ。
+
+[0x2c40f]
+size = 32
+content = オレたちいつも、三日月のやる気に
+
+[0x2c430]
+size = 28
+content = 引っ張ってもらってるからさ。
+
+[0x2c44d]
+size = 15
+content = 001001gp0020090
+
+[0x2c45d]
+size = 14
+content = ……そ、そう？
+
+[0x2c46c]
+size = 40
+content = じゃ、素直に喜んじゃおうかな……えへへ。
+
+[0x2c495]
+size = 15
+content = 001001gp0020100
+
+[0x2c4a5]
+size = 30
+content = でも、それを言ったら私だって、
+
+[0x2c4c4]
+size = 34
+content = あなっちにはすごく助けられてるよ？
+
+[0x2c4e7]
+size = 15
+content = 001001gp0020110
+
+[0x2c4f7]
+size = 22
+content = 特に、ほら、覚えてる？
+
+[0x2c50e]
+size = 44
+content = 報道部ＮＥＷＳがハッキングされてた時のこと。
+
+[0x2c53b]
+size = 24
+content = ああ……あれは驚いたな。
+
+[0x2c554]
+size = 36
+content = オレたちみたいなパソコンの素人じゃ、
+
+[0x2c579]
+size = 26
+content = 手も足も出なかったもんね。
+
+[0x2c594]
+size = 15
+content = 001001gp0020120
+
+[0x2c5a4]
+size = 32
+content = うん……でも、あの時はあなっちが
+
+[0x2c5c5]
+size = 28
+content = いてくれて本当に助かったよ。
+
+[0x2c5e2]
+size = 15
+content = 001001gp0020130
+
+[0x2c5f2]
+size = 44
+content = あの時、あなっちが元気づけてくれなかったら、
+
+[0x2c61f]
+size = 38
+content = 私は慌てるばっかりで、１人じゃなんにも
+
+[0x2c646]
+size = 20
+content = できなかったと思う。
+
+[0x2c65b]
+size = 20
+content = そんなの大げさだよ。
+
+[0x2c670]
+size = 28
+content = オレなんて、別になにも……。
+
+[0x2c68d]
+size = 15
+content = 001001gp0020140
+
+[0x2c69d]
+size = 22
+content = 照れることないでしょ？
+
+[0x2c6b4]
+size = 30
+content = ぜんぶ本当のことなんだからさ。
+
+[0x2c6d3]
+size = 40
+content = そう言われると、ますます照れちゃうな……
+
+[0x2c6fc]
+size = 32
+content = まあ、報道部員同士、助け合うのは
+
+[0x2c71d]
+size = 30
+content = 当然ってことでいいじゃないか。
+
+[0x2c73c]
+size = 15
+content = 001001gp0020150
+
+[0x2c74c]
+size = 16
+content = うん、そうだね！
+
+[0x2c75d]
+size = 15
+content = 001001gp0020160
+
+[0x2c76d]
+size = 26
+content = ……ところでさ、あなっち。
+
+[0x2c788]
+size = 34
+content = ひとつ、お願いがあるんだけど……・
+
+[0x2c7ab]
+size = 32
+content = ？　なんだい？　急にあらたまって
+
+[0x2c7cc]
+size = 30
+content = 遠慮しないで言ってよ、三日月。
+
+[0x2c7eb]
+size = 15
+content = 001001gp0020170
+
+[0x2c7fb]
+size = 32
+content = うん……その「三日月」って呼び方
+
+[0x2c81c]
+size = 38
+content = なんだけどさ……そろそろ変えてみない？
+
+[0x2c843]
+size = 15
+content = 001001gp0020180
+
+[0x2c853]
+size = 28
+content = 私、やっぱり、あなっちからは
+
+[0x2c870]
+size = 42
+content = 昔みたいに「めぐちゃん」って呼ばれたいな、
+
+[0x2c89b]
+size = 16
+content = なんて……ダメ？
+
+[0x2c8ac]
+size = 50
+content = えっ！？　そ、それはちょっと……不自然じゃないか？
+
+[0x2c8df]
+size = 48
+content = 女の子同士なら「めぐちゃん」って呼ぶ子もいるかも
+
+[0x2c910]
+size = 18
+content = しれないけど……。
+
+[0x2c923]
+size = 15
+content = 001001gp0020190
+
+[0x2c933]
+size = 32
+content = だったら「めぐ」でいいじゃない。
+
+[0x2c954]
+size = 26
+content = はい、めぐって言ってみて！
+
+[0x2c96f]
+size = 24
+content = え……い、いきなりかい？
+
+[0x2c988]
+size = 26
+content = それはまだ心の準備が……。
+
+[0x2c9a3]
+size = 15
+content = 001001gp0020200
+
+[0x2c9b3]
+size = 18
+content = なにを言ってるの！
+
+[0x2c9c6]
+size = 36
+content = 別に恥ずかしがることじゃないでしょ？
+
+[0x2c9eb]
+size = 15
+content = 001001gp0020210
+
+[0x2c9fb]
+size = 28
+content = はい、リピートアフターミー！
+
+[0x2ca18]
+size = 10
+content = 「めぐ」！
+
+[0x2ca23]
+size = 22
+content = め……ぐ……さん……。
+
+[0x2ca3a]
+size = 15
+content = 001001gp0020220
+
+[0x2ca4a]
+size = 46
+content = なんだか、前よりよそよそしくなっちゃったよ！？
+
+[0x2ca79]
+size = 36
+content = 「さん」はいらないってば、あなっち。
+
+[0x2ca9e]
+size = 30
+content = そうは言っても、いきなりすぎて
+
+[0x2cabd]
+size = 18
+content = 難しいよ、三日月。
+
+[0x2cad0]
+size = 15
+content = 001001gp0020230
+
+[0x2cae0]
+size = 38
+content = あら……また「三日月」に戻っちゃった。
+
+[0x2cb07]
+size = 40
+content = 私の名前って、そんなに呼びづらいかなあ？
+
+[0x2cb30]
+size = 50
+content = 呼びづらいとかじゃなく、なんだか恥ずかしいんだよ。
+
+[0x2cb63]
+size = 40
+content = （高校生にもなって異性を名前で呼ぶって、
+
+[0x2cb8c]
+size = 32
+content = 　なんだか恋人みたいじゃないか？
+
+[0x2cbad]
+size = 44
+content = 　……っていうのは、オレの考えすぎかなあ？）
+
+[0x2cbda]
+size = 15
+content = 001001gp0020240
+
+[0x2cbea]
+size = 44
+content = でもさ。　ナオミさんとかは、初対面でもすぐに
+
+[0x2cc17]
+size = 28
+content = 「メグ」って呼んでくれたよ？
+
+[0x2cc34]
+size = 38
+content = ナオミか……彼女はアメリカ出身だから、
+
+[0x2cc5b]
+size = 34
+content = またノリが違うんじゃないかな……。
+
+[0x2cc7e]
+size = 15
+content = 001001gp0020250
+
+[0x2cc8e]
+size = 28
+content = むむっ……ナオミさんのことは
+
+[0x2ccab]
+size = 28
+content = 「ナオミ」って言ってる……。
+
+[0x2ccc8]
+size = 46
+content = 私の方が、あなっちとの付き合いは古いのに……。
+
+[0x2ccf7]
+size = 30
+content = いやいや、そこで張り合うなよ。
+
+[0x2cd16]
+size = 44
+content = さっきも言っただろ。　彼女は海外出身だから、
+
+[0x2cd43]
+size = 30
+content = 独特のノリで接し合えるんだよ。
+
+[0x2cd62]
+size = 15
+content = 001001gp0020260
+
+[0x2cd72]
+size = 46
+content = だったら、私たちもアメリカンに呼び合ってみる？
+
+[0x2cda1]
+size = 22
+content = ……ヘ～イ、アナッチ！
+
+[0x2cdb8]
+size = 20
+content = へ、ヘ～イ、メグ……
+
+[0x2cdcd]
+size = 34
+content = こ、これはこれで恥ずかしいな……。
+
+[0x2cdf0]
+size = 15
+content = 001001gp0020270
+
+[0x2ce00]
+size = 24
+content = もう。　あなっちったら、
+
+[0x2ce19]
+size = 30
+content = 意外に照れ屋さんなんだから～。
+
+[0x2ce38]
+size = 15
+content = 001001gp0020280
+
+[0x2ce48]
+size = 30
+content = でも、そろそろ覚悟を決めたら？
+
+[0x2ce67]
+size = 36
+content = そうしないと、今日はいつまでたっても
+
+[0x2ce8c]
+size = 18
+content = 帰れないかもよ～？
+
+[0x2ce9f]
+size = 34
+content = はぁ……わかった、わかりましたよ。
+
+[0x2cec2]
+size = 30
+content = ちゃんと名前で呼ぶよ……めぐ。
+
+[0x2cee1]
+size = 24
+content = ほら、これでいいだろう？
+
+[0x2cefa]
+size = 15
+content = 001001gp0020290
+
+[0x2cf0a]
+size = 42
+content = ……えへへ。　やっと名前で呼んでくれたね。
+
+[0x2cf35]
+size = 22
+content = ありがとう、あなっち。
+
+[0x2cf4c]
+size = 40
+content = じゃ、今後はずっとその呼び方で通してね？
+
+[0x2cf75]
+size = 30
+content = いや。　まだ呼び慣れないから、
+
+[0x2cf94]
+size = 30
+content = 少しずつで勘弁してよ、三日月。
+
+[0x2cfb3]
+size = 15
+content = 001001gp0020300
+
+[0x2cfc3]
+size = 36
+content = もう……まあ、とりあえず一回だけでも
+
+[0x2cfe8]
+size = 40
+content = 名前で呼んでくれたから許してあげますか。
+
+[0x2d011]
+size = 15
+content = 001001gp0020310
+
+[0x2d021]
+size = 40
+content = でも、近いうちに必ず「めぐ」って呼び方で
+
+[0x2d04a]
+size = 26
+content = 統一してもらいますからね。
+
+[0x2d065]
+size = 30
+content = 覚悟しておいてね、あなっち！？
+

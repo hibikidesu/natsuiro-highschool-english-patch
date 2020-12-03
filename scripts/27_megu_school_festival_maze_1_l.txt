@@ -1,0 +1,108 @@
+[0x22e70]
+size = 27
+content = めぐ学園祭ペア1迷路リタイア
+
+[0x22e8c]
+size = 33
+content = めぐ学園祭ペア1迷路逆追従スタート
+
+[0x22eae]
+size = 25
+content = めぐ学園祭ペア1迷路ゴール
+
+[0x22ec8]
+size = 4
+content = めぐ
+
+[0x22ecd]
+size = 15
+content = 001001fp0010210
+
+[0x22edd]
+size = 40
+content = す、すみませんでしたっ！　あなっち隊長！
+
+[0x22f07]
+size = 12
+content = ○○○○○○
+
+[0x22f14]
+size = 22
+content = まぁ、しようがないね。
+
+[0x22f2b]
+size = 18
+content = こんな時もあるよ。
+
+[0x22f3e]
+size = 44
+content = ……ところでいつまでそのごっこ遊びは続くの？
+
+[0x22f6b]
+size = 15
+content = 001001fp0010220
+
+[0x22f7b]
+size = 18
+content = えへへ、やっぱり？
+
+[0x22f8e]
+size = 20
+content = じゃ、もうや～めた。
+
+[0x22fa3]
+size = 36
+content = ゴールできなくて残念だったね、めぐ。
+
+[0x22fc8]
+size = 15
+content = 001001fp0010230
+
+[0x22fd8]
+size = 26
+content = うん、それはそうなんだけど
+
+[0x22ff3]
+size = 46
+content = あなっちと一緒に迷路に挑戦できて楽しかったな。
+
+[0x23022]
+size = 15
+content = 001001fp0010240
+
+[0x23032]
+size = 40
+content = だから、私はこれでも結構満足してるんだ。
+
+[0x2305b]
+size = 26
+content = あなっちは楽しくなかった？
+
+[0x23076]
+size = 22
+content = ま、まぁ楽しかったよ。
+
+[0x2308d]
+size = 44
+content = ところで、潜入取材っていう設定はどうなった？
+
+[0x230ba]
+size = 15
+content = 001001fp0010250
+
+[0x230ca]
+size = 12
+content = あ…………！
+
+[0x230d7]
+size = 15
+content = 001001fp0010260
+
+[0x230e7]
+size = 40
+content = さ！　ぼやぼやしてないで次の取材に行こ！
+
+[0x23110]
+size = 32
+content = （めぐのヤツ、ごまかしたな……）
+

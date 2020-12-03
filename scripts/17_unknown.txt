@@ -1,0 +1,208 @@
+[0x1bf40]
+size = 12
+content = ○○○○○○
+
+[0x1bf4d]
+size = 34
+content = ふう～、今日はたっぷり遊んだなあ。
+
+[0x1bf70]
+size = 34
+content = ……って、あれ？　三日月はどこだ？
+
+[0x1bf94]
+size = 4
+content = めぐ
+
+[0x1bf99]
+size = 15
+content = 001001dt0023010
+
+[0x1bfa9]
+size = 30
+content = あっ、あなっち、こっちだよ～。
+
+[0x1bfc8]
+size = 50
+content = ごめんね。　さっき、男の人に道を聞かれちゃってさ。
+
+[0x1bffb]
+size = 28
+content = 道？　迷ってる人でもいたの？
+
+[0x1c018]
+size = 15
+content = 001001dt0023020
+
+[0x1c028]
+size = 50
+content = ううん。　レストランへの行き方を教えてあげただけ。
+
+[0x1c05b]
+size = 50
+content = そしたら「お礼がしたいから、一緒に食事でもどう？」
+
+[0x1c08e]
+size = 26
+content = って誘われちゃってさ……。
+
+[0x1c0a9]
+size = 46
+content = （それって、はじめからナンパ目的なんじゃ……）
+
+[0x1c0d8]
+size = 32
+content = ……で、三日月はなんて答えたの？
+
+[0x1c0f9]
+size = 15
+content = 001001dt0023030
+
+[0x1c109]
+size = 48
+content = うん。　友だちのあなっちもいっしょでいいですか？
+
+[0x1c13a]
+size = 26
+content = って聞いたら帰っちゃった。
+
+[0x1c155]
+size = 24
+content = （……どうやら三日月は、
+
+[0x1c16e]
+size = 38
+content = 　ナンパだったとは気づいてないようだ。
+
+[0x1c195]
+size = 28
+content = 　その男の人も可哀想に……）
+
+[0x1c1b2]
+size = 15
+content = 001001dt0023040
+
+[0x1c1c2]
+size = 34
+content = さ～て、そんなことより、もう帰ろ？
+
+[0x1c1e5]
+size = 36
+content = 私、今日はちょっと泳ぎすぎたみたい。
+
+[0x1c20a]
+size = 18
+content = なんかだるいよ～。
+
+[0x1c21d]
+size = 36
+content = オレは、なんだか肌がヒリヒリする……
+
+[0x1c242]
+size = 28
+content = ちょっと日に焼きすぎたかな？
+
+[0x1c25f]
+size = 15
+content = 001001dt0023050
+
+[0x1c26f]
+size = 30
+content = あ～。　もしかして、あなっち、
+
+[0x1c28e]
+size = 28
+content = 日焼け止め塗ってなかったの？
+
+[0x1c2ab]
+size = 15
+content = 001001dt0023060
+
+[0x1c2bb]
+size = 24
+content = ということは……えいっ！
+
+[0x1c2d4]
+size = 28
+content = ぎゃああぁっ！　い、痛い～！
+
+[0x1c2f1]
+size = 34
+content = 三日月、そんなに強く叩かないでよ！
+
+[0x1c314]
+size = 15
+content = 001001dt0023070
+
+[0x1c324]
+size = 40
+content = えっ？　私、軽くしか叩いてないのに……。
+
+[0x1c34d]
+size = 46
+content = あなっち、ずいぶん日焼けしちゃったみたいだね。
+
+[0x1c37c]
+size = 15
+content = 001001dt0023080
+
+[0x1c38c]
+size = 36
+content = きっと今夜のお風呂は体にしみるよ～？
+
+[0x1c3b1]
+size = 28
+content = 覚悟しておいてね、あなっち。
+
+[0x1c3ce]
+size = 18
+content = はぁ……やれやれ。
+
+[0x1c3e1]
+size = 42
+content = そういえば、小さい頃も海に遊びに行くたびに
+
+[0x1c40c]
+size = 30
+content = こんな状態になってたなあ……。
+
+[0x1c42b]
+size = 15
+content = 001001dt0023090
+
+[0x1c43b]
+size = 20
+content = でも、いいじゃない！
+
+[0x1c450]
+size = 28
+content = 男の子なんだし、気にしない！
+
+[0x1c46d]
+size = 36
+content = ぎゃっ！？　だ、だから痛いってば～！
+
+[0x1c492]
+size = 15
+content = 001001dt0023100
+
+[0x1c4a2]
+size = 22
+content = えへへ、ごめんごめん。
+
+[0x1c4b9]
+size = 28
+content = ……さ、あなっち。　帰ろう！
+
+[0x1c4d6]
+size = 15
+content = 001890in0000220
+
+[0x1c4e6]
+size = 18
+content = それじゃ、ここで。
+
+[0x1c4f9]
+size = 20
+content = めぐデート８月サブ３
+

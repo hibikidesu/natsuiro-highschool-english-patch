@@ -1,0 +1,64 @@
+[0x4e30]
+size = 8
+content = Prologue
+
+[0x4e3b]
+size = 6
+content = ？？？
+
+[0x4e42]
+size = 40
+content = ２０ＸＸ年７月７日、午前８時１６分なう。
+
+[0x4e6c]
+size = 18
+content = 父の仕事の都合で、
+
+[0x4e7f]
+size = 46
+content = 今日から新しい高校へ通う事になったのだが……。
+
+[0x4eae]
+size = 46
+content = たぶん、クラスに馴染む前に夏休みに入るだろうし
+
+[0x4edd]
+size = 48
+content = ぶっちゃけ今度の学校も９月下旬までの在籍予定だ。
+
+[0x4f0e]
+size = 38
+content = 約３ヶ月の腰掛け、そんな気分でいた方が
+
+[0x4f35]
+size = 46
+content = 出て行く時も後腐れなくて気楽じゃないかと思う。
+
+[0x4f64]
+size = 28
+content = ただ、頭ではそう思っていても
+
+[0x4f81]
+size = 46
+content = 新しい出会いや新しい環境に少しワクワクしている
+
+[0x4fb0]
+size = 32
+content = 自分がいるのも事実だったり……。
+
+[0x4fd1]
+size = 44
+content = この先の小さな島にある、私立夢ヶ島高等学校。
+
+[0x4ffe]
+size = 38
+content = それがオレが通う事になる学校の名前だ。
+
+[0x5025]
+size = 24
+content = 短い間だけど、よろしく。
+
+[0x503e]
+size = 12
+content = プロローグ２
+

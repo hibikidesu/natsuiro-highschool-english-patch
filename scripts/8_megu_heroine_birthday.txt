@@ -1,0 +1,1008 @@
+[0xd7a0]
+size = 18
+content = めぐヒロイン誕生日
+
+[0xd7b3]
+size = 15
+content = chr001_mail0071
+
+[0xd7c3]
+size = 10
+content = 大丈夫だよ
+
+[0xd7ce]
+size = 15
+content = chr001_mail0072
+
+[0xd7de]
+size = 10
+content = 空いてるよ
+
+[0xd7e9]
+size = 12
+content = ○○○○○○
+
+[0xd7f6]
+size = 42
+content = ええと……待ち合わせは駅前で合ってたよな？
+
+[0xd821]
+size = 30
+content = 三日月はまだ来てないのか……。
+
+[0xd841]
+size = 4
+content = めぐ
+
+[0xd846]
+size = 15
+content = 001001bd0010010
+
+[0xd856]
+size = 36
+content = ……あっ、あなっち！　もう来てたの？
+
+[0xd87b]
+size = 28
+content = ごめん、待たせちゃったかな？
+
+[0xd898]
+size = 12
+content = 大丈夫だよ。
+
+[0xd8a5]
+size = 28
+content = オレもいま来たばかりだから。
+
+[0xd8c2]
+size = 15
+content = 001001bd0010020
+
+[0xd8d2]
+size = 44
+content = わざわざ呼び出しちゃってごめんね、あなっち。
+
+[0xd8ff]
+size = 32
+content = 他に用事とかなかった？　大丈夫？
+
+[0xd920]
+size = 34
+content = 別にないし、そんなの気にしないで。
+
+[0xd943]
+size = 34
+content = だって、今日は三日月の誕生日だろ？
+
+[0xd966]
+size = 26
+content = 誕生日おめでとう、三日月！
+
+[0xd981]
+size = 15
+content = 001001bd0010030
+
+[0xd991]
+size = 24
+content = えっ……ちょ、ちょっと、
+
+[0xd9aa]
+size = 36
+content = お祝いを言うのが早いよ、あなっち～！
+
+[0xd9cf]
+size = 15
+content = 001001bd0010040
+
+[0xd9df]
+size = 38
+content = もっとこう……話の流れとか、段取りとか
+
+[0xda06]
+size = 42
+content = 場の空気的なものを盛り上げる、みたいな……
+
+[0xda31]
+size = 15
+content = 001001bd0010050
+
+[0xda41]
+size = 26
+content = あ～もうなんかそういうの、
+
+[0xda5c]
+size = 44
+content = 自分で言うのもホントはどうかなって思うけど、
+
+[0xda89]
+size = 40
+content = せめて場所くらい移動してからにしてよ～。
+
+[0xdab2]
+size = 22
+content = そ……それもそうだね。
+
+[0xdac9]
+size = 44
+content = こんなところで出会いがしらはなかったな……。
+
+[0xdaf6]
+size = 34
+content = お祝いを言うってのも難しいんだね。
+
+[0xdb19]
+size = 42
+content = じゃ、お祝いはまた後で改めてって事で……。
+
+[0xdb44]
+size = 15
+content = 001001bd0010060
+
+[0xdb54]
+size = 18
+content = うん、ありがとう！
+
+[0xdb67]
+size = 32
+content = じゃあ、さっきのは忘れておくね！
+
+[0xdb88]
+size = 15
+content = 001001bd0010070
+
+[0xdb98]
+size = 46
+content = さぁ～っ！　今日は私に付き合ってもらうからね。
+
+[0xdbc7]
+size = 32
+content = 行き先も、実はもう決めてるんだ。
+
+[0xdbe8]
+size = 30
+content = ……私のお気に入りの場所なの。
+
+[0xdc07]
+size = 34
+content = へぇ～、どんなところか楽しみだな。
+
+[0xdc2a]
+size = 22
+content = 案内よろしく、三日月。
+
+[0xdc41]
+size = 15
+content = 001001bd0010080
+
+[0xdc51]
+size = 20
+content = はーい、あなっち君。
+
+[0xdc66]
+size = 40
+content = 遅れないでちゃんとついて来るんですよ～。
+
+[0xdc8f]
+size = 32
+content = ここが三日月のお気に入りの場所？
+
+[0xdcb0]
+size = 15
+content = 001001bd0010090
+
+[0xdcc0]
+size = 16
+content = うん、そうなの。
+
+[0xdcd1]
+size = 15
+content = 001001bd0010100
+
+[0xdce1]
+size = 26
+content = ……ほら、見て、あなっち！
+
+[0xdcfc]
+size = 20
+content = すごくいい天気……！
+
+[0xdd11]
+size = 40
+content = 海の向こうの外国まで見えちゃいそうだよ！
+
+[0xdd3a]
+size = 24
+content = ははは、それはないって。
+
+[0xdd53]
+size = 24
+content = それにそっちは本土だよ。
+
+[0xdd6c]
+size = 50
+content = ……でもまぁ、そう言いたくなる気持ちはわかるけど。
+
+[0xdd9f]
+size = 15
+content = 001001bd0010110
+
+[0xddaf]
+size = 30
+content = ……私ね、１人でここに来ると、
+
+[0xddce]
+size = 42
+content = いつもあなっちのことを思い出してたんだよ？
+
+[0xddf9]
+size = 34
+content = えっ……オレのことを？　どうして？
+
+[0xde1c]
+size = 15
+content = 001001bd0010120
+
+[0xde2c]
+size = 44
+content = うん……海を見てると、昔、住んでた町のことを
+
+[0xde59]
+size = 34
+content = 思いだして懐かしい気持ちになるの。
+
+[0xde7c]
+size = 15
+content = 001001bd0010130
+
+[0xde8c]
+size = 32
+content = でね、いろいろ思い出してるうちに
+
+[0xdead]
+size = 34
+content = あなっちは元気にしてるかな、とか、
+
+[0xded0]
+size = 44
+content = 私のこと覚えてるかな、とか考えちゃって……。
+
+[0xdefd]
+size = 15
+content = 001001bd0010140
+
+[0xdf0d]
+size = 42
+content = ……もしかすると、もう一生会えないのかな、
+
+[0xdf38]
+size = 34
+content = なんて考えた時もあったんだよ……。
+
+[0xdf5b]
+size = 12
+content = 三日月……。
+
+[0xdf68]
+size = 15
+content = 001001bd0010150
+
+[0xdf78]
+size = 50
+content = ……でも、今日はこうしてあなっちと２人でいっしょに
+
+[0xdfab]
+size = 24
+content = この海を見てるんだよね。
+
+[0xdfc4]
+size = 15
+content = 001001bd0010160
+
+[0xdfd4]
+size = 20
+content = ……なんか夢みたい。
+
+[0xdfe9]
+size = 16
+content = ……ぐすっ……。
+
+[0xdffa]
+size = 42
+content = （三日月……お互いに離ればなれだった間も、
+
+[0xe025]
+size = 44
+content = 　ずっとオレのことを考えてくれてたのか……）
+
+[0xe052]
+size = 28
+content = 三日月……ほら、泣かないで。
+
+[0xe06f]
+size = 34
+content = そうだ。　ハンカチあるけど、使う？
+
+[0xe092]
+size = 15
+content = 001001bd0010170
+
+[0xe0a2]
+size = 16
+content = ううん、大丈夫。
+
+[0xe0b3]
+size = 48
+content = ……でも、ちゃんとハンカチを持ち歩いてるなんて、
+
+[0xe0e4]
+size = 26
+content = あなっちも大人になったね。
+
+[0xe0ff]
+size = 40
+content = ははは。　高校２年が大人かって言われると
+
+[0xe128]
+size = 24
+content = 微妙かもしれないけどね。
+
+[0xe141]
+size = 44
+content = 少なくとも、子供の頃よりは大人に近づいたよ。
+
+[0xe16e]
+size = 15
+content = 001001bd0010180
+
+[0xe17e]
+size = 38
+content = あっ、子供の頃っていえば……覚えてる？
+
+[0xe1a5]
+size = 34
+content = 昔、住んでた町でも、よくこうやって
+
+[0xe1c8]
+size = 22
+content = ２人で散歩してたよね？
+
+[0xe1df]
+size = 22
+content = ああ……探検のことか。
+
+[0xe1f6]
+size = 40
+content = 確か２人で近所をあちこち歩き回って……。
+
+[0xe21f]
+size = 15
+content = 001001bd0010190
+
+[0xe22f]
+size = 38
+content = そうそう……あ！　そう言えばあなっち、
+
+[0xe256]
+size = 28
+content = あのお店は今でも残ってるの？
+
+[0xe273]
+size = 44
+content = ほら、２人でよく買い物にいった駄菓子屋さん！
+
+[0xe2a0]
+size = 22
+content = ああ、まだ残ってるよ。
+
+[0xe2b7]
+size = 44
+content = まだっていうか、あそこのお婆ちゃん全然元気で
+
+[0xe2e4]
+size = 34
+content = 今でも昔と同じように店番してるよ。
+
+[0xe307]
+size = 15
+content = 001001bd0010200
+
+[0xe317]
+size = 22
+content = ええ～っ！　本当に！？
+
+[0xe32e]
+size = 36
+content = 駄菓子屋のお婆さん、懐かしいなぁ～。
+
+[0xe353]
+size = 15
+content = 001001bd0010210
+
+[0xe363]
+size = 30
+content = そっか～、まだ元気なんだ……。
+
+[0xe382]
+size = 10
+content = よかった！
+
+[0xe38d]
+size = 15
+content = 001001bd0010220
+
+[0xe39d]
+size = 28
+content = あ～あ、いいな～あなっちは。
+
+[0xe3ba]
+size = 40
+content = 私も、またあのお店に行ってみたいよ～っ！
+
+[0xe3e3]
+size = 40
+content = ははは……そう言えば、いつだったかオレが
+
+[0xe40c]
+size = 40
+content = お金を忘れた時に、三日月がチョコレートを
+
+[0xe435]
+size = 28
+content = 買ってくれた事があったよね。
+
+[0xe452]
+size = 15
+content = 001001bd0010230
+
+[0xe462]
+size = 34
+content = ふふっ……あったわね、そんなこと。
+
+[0xe485]
+size = 34
+content = 私も１０円しか持ってなかったから、
+
+[0xe4a8]
+size = 36
+content = ５円のチョコをふたつ買ったんだよね。
+
+[0xe4cd]
+size = 30
+content = あれっ？　……そういえばオレ、
+
+[0xe4ec]
+size = 36
+content = あの時の５円を返してないような……？
+
+[0xe511]
+size = 15
+content = 001001bd0010240
+
+[0xe521]
+size = 26
+content = もういいってば、そんなの。
+
+[0xe53c]
+size = 46
+content = あなっちったら、ヘンなところで律儀なんだから。
+
+[0xe56b]
+size = 34
+content = そ、そう？　なんだか申し訳ないな。
+
+[0xe58e]
+size = 32
+content = でも、じゃあ……ご馳走様でした。
+
+[0xe5af]
+size = 42
+content = （……なんてことを言ってる場合じゃないぞ。
+
+[0xe5da]
+size = 32
+content = 　今日は三日月の誕生日なんだし、
+
+[0xe5fb]
+size = 50
+content = 　このタイミングでプレゼントを渡さなくちゃ……！）
+
+[0xe62e]
+size = 16
+content = あのさ、三日月。
+
+[0xe63f]
+size = 48
+content = さっきの５円チョコのお礼ってわけじゃないんだけど
+
+[0xe670]
+size = 28
+content = これ、受け取ってくれるかな？
+
+[0xe68d]
+size = 22
+content = 手作りグミをプレゼント
+
+[0xe6a4]
+size = 15
+content = 001001bd0010250
+
+[0xe6b4]
+size = 38
+content = えっ、こ、これって……もしかして……。
+
+[0xe6db]
+size = 36
+content = （あれっ？　三日月の様子がヘンだぞ？
+
+[0xe700]
+size = 34
+content = 　なんだかちょっと震えてる……？）
+
+[0xe723]
+size = 48
+content = 手作りスイーツにチャレンジしてみたんだけど……。
+
+[0xe754]
+size = 34
+content = 女の子はグミとか好きっていうから、
+
+[0xe777]
+size = 32
+content = こういうのもいいかなって思って。
+
+[0xe798]
+size = 15
+content = 001001bd0010260
+
+[0xe7a8]
+size = 28
+content = あ……あな……あなっち……。
+
+[0xe7c5]
+size = 42
+content = あ、もしかして感激のあまり声も出ないとか？
+
+[0xe7f0]
+size = 38
+content = いやぁ、そんな大したものじゃないけど、
+
+[0xe817]
+size = 28
+content = 味の方はまぁまぁだと思うよ。
+
+[0xe834]
+size = 15
+content = 001001bd0010270
+
+[0xe844]
+size = 14
+content = ちっ、違うの！
+
+[0xe853]
+size = 30
+content = わ、私……虫は苦手だって……。
+
+[0xe872]
+size = 14
+content = え、虫が苦手？
+
+[0xe881]
+size = 28
+content = ああ、このグミの形のことか。
+
+[0xe89e]
+size = 26
+content = 三日月ってそうだったっけ？
+
+[0xe8b9]
+size = 30
+content = あちゃ～、それはマズったなぁ。
+
+[0xe8d8]
+size = 48
+content = ごめんごめん。　虫はダメだったかぁ～、あははは。
+
+[0xe909]
+size = 15
+content = 001001bd0010280
+
+[0xe919]
+size = 18
+content = 笑い事じゃないよ！
+
+[0xe92c]
+size = 24
+content = ひどいよ、あなっち……。
+
+[0xe945]
+size = 36
+content = 誕生日にこんなイヤがらせなんて……。
+
+[0xe96a]
+size = 30
+content = イヤがらせなんかじゃないって！
+
+[0xe989]
+size = 44
+content = 本当に知らなかったんだ。　信じてよ、三日月！
+
+[0xe9b6]
+size = 15
+content = 001001bd0010290
+
+[0xe9c6]
+size = 26
+content = ふんっ！　もう知らないっ！
+
+[0xe9e1]
+size = 10
+content = べぇ～だ！
+
+[0xe9ec]
+size = 20
+content = （こ、子供か……？）
+
+[0xea01]
+size = 22
+content = ごめんってば、三日月。
+
+[0xea18]
+size = 20
+content = ほら、機嫌直してよ。
+
+[0xea2d]
+size = 15
+content = 001001bd0010300
+
+[0xea3d]
+size = 12
+content = 知らな～い。
+
+[0xea4a]
+size = 10
+content = …………。
+
+[0xea55]
+size = 16
+content = （やれやれだな）
+
+[0xea66]
+size = 22
+content = パスケースをプレゼント
+
+[0xea7d]
+size = 15
+content = 001001bd0010310
+
+[0xea8d]
+size = 26
+content = えっ、これって……わぁっ！
+
+[0xeaa8]
+size = 28
+content = あなっち、これ、本当に私に？
+
+[0xeac5]
+size = 16
+content = ああ、もちろん。
+
+[0xead6]
+size = 24
+content = 気に入ってもらえたかな？
+
+[0xeaef]
+size = 15
+content = 001001bd0010320
+
+[0xeaff]
+size = 12
+content = もちろんよ！
+
+[0xeb0c]
+size = 24
+content = 本当にもらっていいの！？
+
+[0xeb25]
+size = 28
+content = まぁそのために選んだんだし。
+
+[0xeb42]
+size = 34
+content = 毎日使うものがいいかなぁと思って。
+
+[0xeb65]
+size = 24
+content = あ、三日月、それからさ。
+
+[0xeb7e]
+size = 34
+content = ……あらためて、誕生日おめでとう。
+
+[0xeba1]
+size = 15
+content = 001001bd0010330
+
+[0xebb1]
+size = 24
+content = あなっち……ありがとう。
+
+[0xebca]
+size = 26
+content = 大事に使わせてもらいます。
+
+[0xebe5]
+size = 18
+content = ははっ、よかった。
+
+[0xebf8]
+size = 15
+content = 001001bd0010340
+
+[0xec08]
+size = 12
+content = えへへ……。
+
+[0xec15]
+size = 38
+content = 今のタイミングは良かったよ、あなっち！
+
+[0xec3c]
+size = 38
+content = （ほっ、少しは名誉挽回できたかな……）
+
+[0xec63]
+size = 22
+content = ストラップをプレゼント
+
+[0xec7a]
+size = 15
+content = 001001bd0010350
+
+[0xec8a]
+size = 28
+content = これ……携帯用のストラップ？
+
+[0xeca7]
+size = 44
+content = うん、こんな安いものでどうかと思ったんだけど
+
+[0xecd4]
+size = 30
+content = 一応オレのとおそろいだからさ。
+
+[0xecf3]
+size = 15
+content = 001001bd0010360
+
+[0xed03]
+size = 20
+content = あなっちとおそろい？
+
+[0xed18]
+size = 16
+content = ホントに！！？？
+
+[0xed29]
+size = 16
+content = うん、本当だよ。
+
+[0xed3a]
+size = 10
+content = ほら……。
+
+[0xed45]
+size = 15
+content = 001001bd0010370
+
+[0xed55]
+size = 34
+content = うわぁ～、ホントにおそろいだぁ～。
+
+[0xed78]
+size = 24
+content = ありがとう、あなっち！！
+
+[0xed91]
+size = 32
+content = わっ……！？　ば、バカ、三日月！
+
+[0xedb2]
+size = 24
+content = いきなりなにするんだよ！
+
+[0xedcb]
+size = 30
+content = ちょ、ちょっと離れろって……。
+
+[0xedea]
+size = 44
+content = （そ、そんなに密着されたら、胸の感触が……！
+
+[0xee17]
+size = 46
+content = 　まずい、どうしても顔がニヤけてしまう……！）
+
+[0xee46]
+size = 15
+content = 001001bd0010380
+
+[0xee56]
+size = 24
+content = ……ご、ごめんなさいっ！
+
+[0xee6f]
+size = 34
+content = あんまり嬉しかったから、つい……。
+
+[0xee92]
+size = 38
+content = ……まあ、そんなに喜んでもらえたんなら
+
+[0xeeb9]
+size = 16
+content = 良かったけどさ。
+
+[0xeeca]
+size = 28
+content = ほんと、びっくりしたよ……。
+
+[0xeee7]
+size = 15
+content = 001001bd0010390
+
+[0xeef7]
+size = 22
+content = えへへ、ごめんなさい。
+
+[0xef0e]
+size = 48
+content = でも、あなっち、このプレゼントはポイント高いよ。
+
+[0xef3f]
+size = 12
+content = ははは……。
+
+[0xef4c]
+size = 30
+content = あ、それから……危ない危ない。
+
+[0xef6b]
+size = 20
+content = 忘れるところだった。
+
+[0xef80]
+size = 26
+content = 三日月、誕生日おめでとう！
+
+[0xef9b]
+size = 15
+content = 001001bd0010400
+
+[0xefab]
+size = 22
+content = ありがとうございます！
+
+[0xefc2]
+size = 15
+content = 001001bd0010410
+
+[0xefd2]
+size = 28
+content = ……うん、今のも良かったよ。
+
+[0xefef]
+size = 28
+content = 本当にありがとう、あなっち。
+
+[0xf00c]
+size = 26
+content = ははっ、どういたしまして。
+
+[0xf027]
+size = 15
+content = 001001bd0010420
+
+[0xf037]
+size = 32
+content = あ～あ～、もう駅に着いちゃった。
+
+[0xf058]
+size = 20
+content = 今日も終わりかぁ～。
+
+[0xf06d]
+size = 15
+content = 001001bd0010430
+
+[0xf07d]
+size = 44
+content = あなっち、今日は付き合ってくれてありがとう。
+
+[0xf0aa]
+size = 30
+content = いや、オレの方こそありがとう。
+
+[0xf0c9]
+size = 18
+content = 一日楽しかったよ。
+
+[0xf0dc]
+size = 15
+content = 001001bd0010440
+
+[0xf0ec]
+size = 30
+content = ……あっ、それから……その……
+
+[0xf10b]
+size = 32
+content = プレゼントを、どうもありがとう。
+
+[0xf12c]
+size = 32
+content = いや、そのことだったらもう……。
+
+[0xf14d]
+size = 15
+content = 001001bd0010450
+
+[0xf15d]
+size = 46
+content = ううん。　さっきくれたプレゼントじゃなくて……
+
+[0xf18c]
+size = 42
+content = あ、それももちろん嬉しかったんだけど……。
+
+[0xf1b7]
+size = 15
+content = 001001bd0010460
+
+[0xf1c7]
+size = 44
+content = １０年ぶりに、あなっちと再会できたことや……
+
+[0xf1f4]
+size = 44
+content = 今日、いっしょの時間を２人で過ごせたことが、
+
+[0xf221]
+size = 38
+content = 私にとって最高のプレゼントだったんだ。
+
+[0xf248]
+size = 44
+content = そんな風に言われるとちょっとくすぐったいよ。
+
+[0xf275]
+size = 15
+content = 001001bd0010470
+
+[0xf285]
+size = 28
+content = えへへ……でもそれが本当の、
+
+[0xf2a2]
+size = 28
+content = 正直な私の気持ちだから……。
+
+[0xf2bf]
+size = 15
+content = 001001bd0010480
+
+[0xf2cf]
+size = 20
+content = じゃあね、あなっち！
+
+[0xf2e4]
+size = 40
+content = 今日は本当にありがとう！　……バイバイ！
+
+[0xf30d]
+size = 30
+content = ああ。　気を付けて帰るんだよ。
+
+[0xf32c]
+size = 18
+content = またな～、三日月。
+

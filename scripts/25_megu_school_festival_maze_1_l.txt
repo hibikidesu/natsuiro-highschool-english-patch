@@ -1,0 +1,116 @@
+[0x21d60]
+size = 25
+content = めぐ学園祭ペア1迷路ゴール
+
+[0x21d7a]
+size = 27
+content = めぐ学園祭ペア1迷路リタイア
+
+[0x21d96]
+size = 27
+content = めぐ学園祭ペア1迷路スタート
+
+[0x21db2]
+size = 4
+content = めぐ
+
+[0x21db7]
+size = 15
+content = 001001fp0010160
+
+[0x21dc7]
+size = 40
+content = ……や、やった！　ゴールだよ、あなっち！
+
+[0x21df0]
+size = 28
+content = 私たち、無事に生還できたよ！
+
+[0x21e0e]
+size = 12
+content = ○○○○○○
+
+[0x21e1b]
+size = 42
+content = 大げさだなあ……にしても出られてよかった。
+
+[0x21e46]
+size = 18
+content = お疲れさま、めぐ。
+
+[0x21e59]
+size = 15
+content = 001001fp0010170
+
+[0x21e69]
+size = 36
+content = うん。　一時はどうなるかと思ったけど
+
+[0x21e8e]
+size = 40
+content = あなっちの機転のおかげで助かっちゃった。
+
+[0x21eb7]
+size = 40
+content = ところで、これって取材として成立してた？
+
+[0x21ee0]
+size = 44
+content = オレたち、単に迷路で遊んだだけのような……。
+
+[0x21f0d]
+size = 15
+content = 001001fp0010180
+
+[0x21f1d]
+size = 22
+content = そっ、そんな事ないよ！
+
+[0x21f34]
+size = 42
+content = 大丈夫！　これは立派な潜入取材だったって。
+
+[0x21f5f]
+size = 46
+content = 私、ちゃんと記者の視点で迷路を取材してたもん！
+
+[0x21f8e]
+size = 22
+content = へぇ、そうだったんだ？
+
+[0x21fa5]
+size = 44
+content = それにしては途中の落ち込み方がハンパなかった
+
+[0x21fd2]
+size = 24
+content = ように思うんだけど……。
+
+[0x21feb]
+size = 15
+content = 001001fp0010190
+
+[0x21ffb]
+size = 16
+content = そうだったっけ？
+
+[0x2200c]
+size = 32
+content = まぁ、細かいことは気にしないっ。
+
+[0x2202d]
+size = 15
+content = 001001fp0010200
+
+[0x2203d]
+size = 32
+content = ほら、早く次の取材に行かないと！
+
+[0x2205e]
+size = 8
+content = は～い。
+
+[0x22067]
+size = 38
+content = （今のでごまかしたつもりなのかな……）
+

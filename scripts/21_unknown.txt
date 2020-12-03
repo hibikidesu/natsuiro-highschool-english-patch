@@ -1,0 +1,244 @@
+[0x1f4a0]
+size = 12
+content = ○○○○○○
+
+[0x1f4ad]
+size = 42
+content = ふう……登山は下りの方が疲れるっていう話、
+
+[0x1f4d8]
+size = 46
+content = 本当みたいだな。　ちょっと足ががくがくするよ。
+
+[0x1f508]
+size = 4
+content = めぐ
+
+[0x1f50d]
+size = 15
+content = 001001dt0033010
+
+[0x1f51d]
+size = 20
+content = えっ、もう疲れたの？
+
+[0x1f532]
+size = 28
+content = あなっちったら情けないなあ。
+
+[0x1f54f]
+size = 30
+content = ちょっと運動不足なんじゃない？
+
+[0x1f56e]
+size = 24
+content = はいはい、すみませんね。
+
+[0x1f587]
+size = 42
+content = だったら、オレ、陸上部にでも移籍しようか？
+
+[0x1f5b2]
+size = 44
+content = その代わり、報道部は４人になっちゃうけどね。
+
+[0x1f5df]
+size = 15
+content = 001001dt0033020
+
+[0x1f5ef]
+size = 36
+content = もう、そんな意地悪を言わないでよ～。
+
+[0x1f614]
+size = 36
+content = ……それに、安心しなさい、あなっち。
+
+[0x1f639]
+size = 34
+content = 報道部にいたって運動はできるから。
+
+[0x1f65c]
+size = 15
+content = 001001dt0033030
+
+[0x1f66c]
+size = 22
+content = たとえば、そうだな……
+
+[0x1f683]
+size = 38
+content = カメラバッグを抱えてグラウンド１０周！
+
+[0x1f6aa]
+size = 38
+content = なんてのはどう？　報道部らしいでしょ？
+
+[0x1f6d1]
+size = 16
+content = ……らしいのか？
+
+[0x1f6e2]
+size = 36
+content = しかも、荷物持ちでランニングなんて、
+
+[0x1f707]
+size = 36
+content = 陸上部よりよっぽどハードじゃないか。
+
+[0x1f72c]
+size = 15
+content = 001001dt0033040
+
+[0x1f73c]
+size = 30
+content = でも、本で読んだことがあるよ。
+
+[0x1f75b]
+size = 32
+content = 本物のカメラマンって、体力作りに
+
+[0x1f77c]
+size = 28
+content = すごく気を遣ってるんだって。
+
+[0x1f799]
+size = 15
+content = 001001dt0033050
+
+[0x1f7a9]
+size = 44
+content = 体力がないと、事件の現場を走り回ることなんて
+
+[0x1f7d6]
+size = 16
+content = できないからね。
+
+[0x1f7e7]
+size = 15
+content = 001001dt0033060
+
+[0x1f7f7]
+size = 28
+content = ……う～ん。　そう考えると、
+
+[0x1f814]
+size = 46
+content = ランニングの導入を真面目に検討すべきかな……？
+
+[0x1f843]
+size = 46
+content = （まずい……なにやら余計なことを考え始めたぞ）
+
+[0x1f872]
+size = 40
+content = そ、それより、ほら！　景色がキレイだよ！
+
+[0x1f89b]
+size = 44
+content = 写真を撮ってあげるから、そこに立って、ね！？
+
+[0x1f8c8]
+size = 15
+content = 001001dt0033070
+
+[0x1f8d8]
+size = 34
+content = えっ？　ちょっと今、考え事が……。
+
+[0x1f8fb]
+size = 28
+content = そんなの帰ってからでいいよ。
+
+[0x1f918]
+size = 42
+content = それより今は、山での思い出を写真に残そう！
+
+[0x1f943]
+size = 26
+content = それが報道部員の務めだろ？
+
+[0x1f95e]
+size = 15
+content = 001001dt0033080
+
+[0x1f96e]
+size = 26
+content = そっか……うん、そうだね！
+
+[0x1f989]
+size = 20
+content = じゃ、撮影をお願い！
+
+[0x1f99e]
+size = 48
+content = あっ、ほら。　あの辺りをバックにしたらどうかな？
+
+[0x1f9cf]
+size = 38
+content = （よし、なんとかごまかせたようだ……）
+
+[0x1f9f6]
+size = 15
+content = 001001dt0033090
+
+[0x1fa06]
+size = 28
+content = えへへ……きれいに撮ってね？
+
+[0x1fa23]
+size = 38
+content = 任せとけ。　被写体がいいから、ばっちり
+
+[0x1fa4a]
+size = 32
+content = いい写真ができるに決まってるさ。
+
+[0x1fa6b]
+size = 15
+content = 001001dt0033100
+
+[0x1fa7b]
+size = 36
+content = や、やだ、なにを言い出すのよ、もう。
+
+[0x1faa0]
+size = 34
+content = そんなこと言われたら、恥ずかしくて
+
+[0x1fac3]
+size = 26
+content = カメラの方を向けない……。
+
+[0x1fade]
+size = 48
+content = 自分で「きれいに撮ってね」って言ったくせに……。
+
+[0x1fb0f]
+size = 34
+content = ほら、撮るぞ？　こっちを向いて……
+
+[0x1fb32]
+size = 15
+content = 001001dt0033110
+
+[0x1fb42]
+size = 20
+content = えへへ、ありがとう。
+
+[0x1fb57]
+size = 40
+content = あなっちの撮った写真、楽しみにしてるね。
+
+[0x1fb80]
+size = 28
+content = ……じゃ、そろそろ帰ろうか？
+
+[0x1fb9d]
+size = 20
+content = めぐデート９月サブ４
+
+[0x1fbb2]
+size = 20
+content = めぐデート９月サブ３
+

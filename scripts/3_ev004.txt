@@ -1,0 +1,880 @@
+[0x7b20]
+size = 23
+content = 共通EV004：理事長エンド
+
+[0x7b38]
+size = 12
+content = ○○○○○○
+
+[0x7b45]
+size = 12
+content = ん？　電話？
+
+[0x7b53]
+size = 12
+content = り、理事長？
+
+[0x7b60]
+size = 6
+content = 理事長
+
+[0x7b67]
+size = 15
+content = 363363sc0010010
+
+[0x7b77]
+size = 26
+content = ああ、○○○○○○君かね。
+
+[0x7b92]
+size = 8
+content = 私だよ。
+
+[0x7b9b]
+size = 26
+content = 理事長、どうしたんですか？
+
+[0x7bb6]
+size = 15
+content = 363363sc0010020
+
+[0x7bc6]
+size = 24
+content = こらこら、この連絡の時は
+
+[0x7bdf]
+size = 34
+content = ミスターＸだと言ってるじゃないか。
+
+[0x7c02]
+size = 26
+content = 間違えてもらっては困るよ。
+
+[0x7c1d]
+size = 32
+content = あっ、す、すみませんミスターＸ。
+
+[0x7c3e]
+size = 22
+content = それで、何の用ですか？
+
+[0x7c55]
+size = 15
+content = 363363sc0010030
+
+[0x7c65]
+size = 24
+content = 何の用かとはご挨拶だな。
+
+[0x7c7e]
+size = 40
+content = キミが転出の手続きに来たと聞いたのでね。
+
+[0x7ca7]
+size = 38
+content = ひとことはなむけを、と思ったわけだよ。
+
+[0x7cce]
+size = 42
+content = ああ、それはわざわざありがとうございます。
+
+[0x7cf9]
+size = 15
+content = 363363sc0010040
+
+[0x7d09]
+size = 46
+content = キミ、人のセリフを先に言わないでもらいたいね。
+
+[0x7d38]
+size = 6
+content = え！？
+
+[0x7d3f]
+size = 32
+content = …………あ、どうも失礼しました。
+
+[0x7d60]
+size = 15
+content = 363363sc0010050
+
+[0x7d70]
+size = 22
+content = それでは改めていくぞ。
+
+[0x7d87]
+size = 15
+content = 363363sc0010060
+
+[0x7d97]
+size = 30
+content = これまでの任務、ご苦労だった。
+
+[0x7db6]
+size = 28
+content = ありがとう、と言っておこう。
+
+[0x7dd3]
+size = 36
+content = はい、こちらこそお世話になりました。
+
+[0x7df8]
+size = 38
+content = 正直、役に立てたかどうかわかりませんが
+
+[0x7e1f]
+size = 42
+content = おかげで少しは楽しい学園生活が送れました。
+
+[0x7e4a]
+size = 15
+content = 363363sc0010070
+
+[0x7e5a]
+size = 28
+content = フォッフォッフォ、そうかね。
+
+[0x7e77]
+size = 18
+content = それはなによりだ。
+
+[0x7e8a]
+size = 15
+content = 363363sc0010080
+
+[0x7e9a]
+size = 40
+content = ところで、キミが次に行く学校の事だがね。
+
+[0x7ec3]
+size = 10
+content = はい……？
+
+[0x7ece]
+size = 15
+content = 363363sc0010090
+
+[0x7ede]
+size = 14
+content = 聞いているよ。
+
+[0x7eed]
+size = 34
+content = なかなか楽しそうな学校じゃないか。
+
+[0x7f10]
+size = 46
+content = キミもさぞ、期待に満ち満ちていることだろうね。
+
+[0x7f3f]
+size = 14
+content = は、はぁ……。
+
+[0x7f4e]
+size = 34
+content = （いったい何が言いたいんだろう？）
+
+[0x7f71]
+size = 15
+content = 363363sc0010100
+
+[0x7f81]
+size = 20
+content = 実はあそこの校長とは
+
+[0x7f96]
+size = 44
+content = 公私ともに懇意にさせてもらっている間柄でね。
+
+[0x7fc3]
+size = 24
+content = そ、そうなんですか……。
+
+[0x7fdc]
+size = 32
+content = （なにやらイヤな予感がするぞ？）
+
+[0x7ffd]
+size = 15
+content = 363363sc0010110
+
+[0x800d]
+size = 42
+content = 私の懐刀が今度そちらで厄介になると伝えたら
+
+[0x8038]
+size = 20
+content = とても喜んでいたよ。
+
+[0x804d]
+size = 10
+content = え！！？？
+
+[0x8058]
+size = 28
+content = どういうことですか、それは？
+
+[0x8075]
+size = 15
+content = 363363sc0010120
+
+[0x8085]
+size = 34
+content = まぁ、センベツというほどではないが
+
+[0x80a8]
+size = 38
+content = 私の方からも先方へ話を通しておいたから
+
+[0x80cf]
+size = 50
+content = あとはキミが着任次第、直接挨拶に行ってくれたまえ。
+
+[0x8102]
+size = 44
+content = いや、だからいったい何の話をしてるんですか？
+
+[0x812f]
+size = 46
+content = 話を通すとか、着任とか、全然話が見えませんよ。
+
+[0x815e]
+size = 15
+content = 363363sc0010130
+
+[0x816e]
+size = 40
+content = キミぃ～、話が目に見えるわけがなかろう。
+
+[0x8197]
+size = 26
+content = 寝言は寝てから言いたまえ。
+
+[0x81b2]
+size = 30
+content = （出たよ、お得意のセリフが！）
+
+[0x81d1]
+size = 32
+content = それはそうですね、失礼しました。
+
+[0x81f2]
+size = 15
+content = 363363sc0010140
+
+[0x8202]
+size = 16
+content = 素直でよろしい！
+
+[0x8213]
+size = 15
+content = 363363sc0010150
+
+[0x8223]
+size = 34
+content = 向こうでもぜひ頑張ってくれたまえ。
+
+[0x8246]
+size = 28
+content = キミの活躍を期待しているよ。
+
+[0x8263]
+size = 44
+content = では、ごきげんよう！　フォッフォッフォ……。
+
+[0x8290]
+size = 32
+content = …………なんだったんだいったい？
+
+[0x82b1]
+size = 24
+content = 全然意味がわからないぞ。
+
+[0x82ca]
+size = 44
+content = そして止めどなく押し寄せるこの不安の波……。
+
+[0x82f7]
+size = 40
+content = いったい次の学校でなにが待っているんだ？
+
+[0x8320]
+size = 44
+content = ……といっても、ここで悩んでても意味ないか。
+
+[0x834d]
+size = 12
+content = もう帰ろう。
+
+[0x835a]
+size = 32
+content = ここを通るのもこれで最後か……。
+
+[0x837b]
+size = 26
+content = うわっ、びっくりした……。
+
+[0x8396]
+size = 26
+content = なんだ、また理事長か……。
+
+[0x83b1]
+size = 16
+content = はい、もしもし。
+
+[0x83c2]
+size = 18
+content = 今度はなんですか？
+
+[0x83d5]
+size = 15
+content = 363363sc0010160
+
+[0x83e5]
+size = 22
+content = なんだとはご挨拶だな。
+
+[0x83fc]
+size = 18
+content = うしろを見たまえ。
+
+[0x840f]
+size = 20
+content = え？　うしろですか？
+
+[0x8424]
+size = 18
+content = うわぁ～っ！！！！
+
+[0x8437]
+size = 32
+content = り、理事長！　どうしたんですか？
+
+[0x8458]
+size = 15
+content = 363363sc0010170
+
+[0x8468]
+size = 28
+content = こらこら、何度も言わせるな。
+
+[0x8485]
+size = 30
+content = 理事長ではなく、ミスターＸだ。
+
+[0x84a4]
+size = 34
+content = いや、もう本人登場しちゃってますし
+
+[0x84c7]
+size = 32
+content = どっちでもいいんじゃないですか？
+
+[0x84e8]
+size = 15
+content = 363363sc0010180
+
+[0x84f8]
+size = 20
+content = どっちでもよくない！
+
+[0x850d]
+size = 15
+content = 363363sc0010190
+
+[0x851d]
+size = 34
+content = こういうのは様式美が大事なのだよ。
+
+[0x8540]
+size = 22
+content = フォッフォッフォ……。
+
+[0x8557]
+size = 28
+content = わ、わかりましたよ理事長……
+
+[0x8574]
+size = 24
+content = じゃなくて、ミスターＸ。
+
+[0x858d]
+size = 15
+content = 363363sc0010200
+
+[0x859d]
+size = 46
+content = キミはそうやってわざとボケるのが趣味なのかね？
+
+[0x85cc]
+size = 30
+content = いちいちつっこむのは面倒なので
+
+[0x85eb]
+size = 34
+content = できれば自重してもらいたいのだが。
+
+[0x860e]
+size = 30
+content = いえ、全然わざとじゃないです。
+
+[0x862d]
+size = 32
+content = 素で間違えました。　すみません。
+
+[0x864e]
+size = 15
+content = 363363sc0010210
+
+[0x865e]
+size = 30
+content = ところで、さっきの話の続きが、
+
+[0x867d]
+size = 34
+content = 気になって眠れないのではないかね？
+
+[0x86a0]
+size = 38
+content = まだ昼間ですから眠くはないですけどね。
+
+[0x86c7]
+size = 30
+content = ものすごく気にはなってますよ。
+
+[0x86e6]
+size = 15
+content = 363363sc0010220
+
+[0x86f6]
+size = 28
+content = そうか、まだ眠くはないのか。
+
+[0x8713]
+size = 22
+content = フム、どうしたものか。
+
+[0x872a]
+size = 26
+content = それは重要な事なんですか？
+
+[0x8745]
+size = 34
+content = 詳しい話の方を聞かせてくださいよ。
+
+[0x8768]
+size = 26
+content = 何がどうなってるんですか？
+
+[0x8783]
+size = 15
+content = 363363sc0010230
+
+[0x8793]
+size = 20
+content = それはまたの機会に。
+
+[0x87a8]
+size = 34
+content = ……オレ、今日が最後なんですけど？
+
+[0x87cb]
+size = 15
+content = 363363sc0010240
+
+[0x87db]
+size = 20
+content = うむ、承知している。
+
+[0x87f0]
+size = 38
+content = それじゃ、またの機会っていつですか！？
+
+[0x8817]
+size = 32
+content = 今教えてくださいよ、今この場で。
+
+[0x8838]
+size = 15
+content = 363363sc0010250
+
+[0x8848]
+size = 36
+content = ははは、キミはかなりせっかちだねぇ。
+
+[0x886d]
+size = 32
+content = 心に余裕のない男子はモテないぞ。
+
+[0x888e]
+size = 22
+content = 大きなお世話ですっ！！
+
+[0x88a5]
+size = 32
+content = ダメだ……話が空回っている……。
+
+[0x88c6]
+size = 40
+content = このまま理事長ペースにはのせられないぞ。
+
+[0x88ef]
+size = 15
+content = 363363sc0010260
+
+[0x88ff]
+size = 48
+content = キミキミ、理事長ではなくミスターＸだと何回言えば
+
+[0x8930]
+size = 14
+content = わかるのかね？
+
+[0x893f]
+size = 50
+content = ふふふ、ではあなたが理事長ではなくミスターＸである
+
+[0x8972]
+size = 38
+content = ということを、他に誰か証明できますか？
+
+[0x8999]
+size = 15
+content = 363363sc0010270
+
+[0x89a9]
+size = 34
+content = ん？　急に何を言い出すのだキミは？
+
+[0x89cc]
+size = 48
+content = あなたはミスターＸのふりをした理事長かもしれない
+
+[0x89fd]
+size = 18
+content = ということですよ。
+
+[0x8a10]
+size = 15
+content = 363363sc0010280
+
+[0x8a20]
+size = 24
+content = ますます意味がわからん。
+
+[0x8a39]
+size = 26
+content = キミ、頭の方は大丈夫かね？
+
+[0x8a54]
+size = 10
+content = ご安心を。
+
+[0x8a5f]
+size = 24
+content = 至って健康かつ正常です！
+
+[0x8a78]
+size = 50
+content = なんならそこの病院でＭＲＩでも撮ってもらいますか？
+
+[0x8aab]
+size = 15
+content = 363363sc0010290
+
+[0x8abb]
+size = 22
+content = いや、それには及ばん。
+
+[0x8ad2]
+size = 34
+content = 私のスーパーマグネティックアイで、
+
+[0x8af5]
+size = 34
+content = 今すぐキミをスキャンしてあげよう。
+
+[0x8b18]
+size = 8
+content = え……？
+
+[0x8b21]
+size = 15
+content = 363363sc0010300
+
+[0x8b31]
+size = 20
+content = フムフム、なるほど。
+
+[0x8b46]
+size = 40
+content = 若い脳は萎縮もほとんどなくて、いいねぇ。
+
+[0x8b6f]
+size = 34
+content = あの、本当に脳が見えてるんですか？
+
+[0x8b92]
+size = 15
+content = 363363sc0010310
+
+[0x8ba2]
+size = 34
+content = バカな。　見えるわけがないだろう。
+
+[0x8bc5]
+size = 20
+content = 私は生身の人間だぞ？
+
+[0x8bda]
+size = 32
+content = でもさっき、スーパーなんとかって
+
+[0x8bfb]
+size = 20
+content = 言ってませんでした？
+
+[0x8c10]
+size = 15
+content = 363363sc0010320
+
+[0x8c20]
+size = 36
+content = スーパーマグネティックアイのことか？
+
+[0x8c45]
+size = 16
+content = そう、それです。
+
+[0x8c56]
+size = 24
+content = なんなんですか、それは？
+
+[0x8c6f]
+size = 15
+content = 363363sc0010330
+
+[0x8c7f]
+size = 20
+content = キミの想像に任せる。
+
+[0x8c94]
+size = 10
+content = ……はい？
+
+[0x8c9f]
+size = 34
+content = （やっぱりこの人、絶対におかしい）
+
+[0x8cc2]
+size = 15
+content = 363363sc0010340
+
+[0x8cd2]
+size = 26
+content = ところで、私に何の用かね？
+
+[0x8ced]
+size = 28
+content = いやいやいや、理事長の方から
+
+[0x8d0a]
+size = 34
+content = 電話をかけてきたんじゃないですか。
+
+[0x8d2d]
+size = 15
+content = 363363sc0010350
+
+[0x8d3d]
+size = 16
+content = キミぃっ！！！！
+
+[0x8d4e]
+size = 32
+content = あ……ミスターＸの方から、です。
+
+[0x8d6f]
+size = 15
+content = 363363sc0010360
+
+[0x8d7f]
+size = 30
+content = 電話の事など、私は知らないぞ。
+
+[0x8d9e]
+size = 24
+content = キミの思い込みか空想か、
+
+[0x8db7]
+size = 28
+content = はたまた幻覚ではないのかね？
+
+[0x8dd4]
+size = 44
+content = ……その言葉、そっくりそのままお返しします。
+
+[0x8e01]
+size = 15
+content = 363363sc0010370
+
+[0x8e11]
+size = 16
+content = なん……だと！？
+
+[0x8e22]
+size = 15
+content = 363363sc0010380
+
+[0x8e32]
+size = 18
+content = ほほぅ、フムフム。
+
+[0x8e45]
+size = 32
+content = キミも少しは成長したようだねぇ。
+
+[0x8e66]
+size = 50
+content = り……ミスターＸはどうしてここへいらしたんですか？
+
+[0x8e99]
+size = 15
+content = 363363sc0010390
+
+[0x8ea9]
+size = 22
+content = なに、ただの気紛れだ。
+
+[0x8ec0]
+size = 32
+content = いやいや、礼には及ばんよ礼には。
+
+[0x8ee1]
+size = 15
+content = 363363sc0010400
+
+[0x8ef1]
+size = 50
+content = 新しい学校でも、是非今まで通り頑張ってくれたまえ。
+
+[0x8f24]
+size = 38
+content = キミのこれからの活躍に期待しているよ。
+
+[0x8f4b]
+size = 34
+content = 結局何も教えてもらえないんですね。
+
+[0x8f6e]
+size = 10
+content = はぁ～っ。
+
+[0x8f79]
+size = 15
+content = 363363sc0010410
+
+[0x8f89]
+size = 34
+content = もし困った時には私に相談したまえ。
+
+[0x8fac]
+size = 20
+content = いつでも歓迎するよ。
+
+[0x8fc1]
+size = 26
+content = あ、ありがとうございます。
+
+[0x8fdc]
+size = 48
+content = （万一、困っても理事長には相談しないと思うけど）
+
+[0x900d]
+size = 38
+content = そ、それじゃあそろそろ電車の時間なので
+
+[0x9034]
+size = 18
+content = これで失礼します。
+
+[0x9047]
+size = 15
+content = 363363sc0010420
+
+[0x9057]
+size = 6
+content = うむ。
+
+[0x905e]
+size = 10
+content = 達者でな！
+
+[0x9069]
+size = 15
+content = 363363sc0010430
+
+[0x9079]
+size = 28
+content = ○○○○○○君、バンザーイ！
+
+[0x9096]
+size = 26
+content = バンザーイ！　バンザーイ！
+
+[0x90b1]
+size = 22
+content = ははは……ど、どうも。
+
+[0x90c8]
+size = 28
+content = （なんだこの罰ゲームは……）
+
+[0x90e5]
+size = 50
+content = こうして、新しい高校へ編入したオレに待っていたのは
+
+[0x9118]
+size = 36
+content = 校長直轄のエージェントの任務だった。
+
+[0x913d]
+size = 44
+content = 今度の校長も、あの理事長の知り合いだけあって
+
+[0x916a]
+size = 30
+content = 一癖も二癖もある人物だったが、
+
+[0x9189]
+size = 44
+content = 理事長で経験済みのオレにはなんてことはない。
+
+[0x91b6]
+size = 46
+content = なにより、赤点免除と最上級の内申書という条件は
+
+[0x91e5]
+size = 38
+content = オレにとっては願ってもない報酬だった。
+
+[0x920c]
+size = 20
+content = しかしここでオレは、
+
+[0x9221]
+size = 36
+content = 夢高時代とは比べものにならないほどの
+
+[0x9246]
+size = 42
+content = 大事件や怪現象に立ち向かう羽目になるのだが
+
+[0x9271]
+size = 42
+content = それは本編とはまた別な物語なので割愛する。
+
+[0x929c]
+size = 40
+content = ではみなさん、またお目にかかりましょう。
+

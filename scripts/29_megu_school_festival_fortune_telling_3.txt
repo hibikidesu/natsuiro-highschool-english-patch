@@ -1,0 +1,680 @@
+[0x27740]
+size = 24
+content = めぐ学園祭ペア３占いの館
+
+[0x27759]
+size = 4
+content = めぐ
+
+[0x2775e]
+size = 15
+content = 001001fp0030010
+
+[0x2776e]
+size = 34
+content = あなっち！　「占いの館」があるよ！
+
+[0x27791]
+size = 38
+content = 面白そう！　私たちも占ってもらおうよ！
+
+[0x277b9]
+size = 12
+content = ○○○○○○
+
+[0x277c6]
+size = 38
+content = 女の子って、本当に占いが好きだなあ……
+
+[0x277ed]
+size = 28
+content = しょうがない。　付き合うよ。
+
+[0x2780a]
+size = 6
+content = 占い師
+
+[0x27811]
+size = 15
+content = 339001fp0030020
+
+[0x27821]
+size = 16
+content = いらっしゃい……
+
+[0x27832]
+size = 30
+content = ようこそ、我が占いの館へ……。
+
+[0x27851]
+size = 15
+content = 001001fp0030030
+
+[0x27861]
+size = 46
+content = わぁ、本格的～！　雰囲気があるねえ、あなっち！
+
+[0x27890]
+size = 46
+content = そうだね。　これは思ったよりも期待できそうだ。
+
+[0x278bf]
+size = 50
+content = ……それで、ここではなにを占ってもらえるんですか？
+
+[0x278f2]
+size = 15
+content = 339001fp0030040
+
+[0x27902]
+size = 32
+content = どのような分野でも占いますが……
+
+[0x27923]
+size = 48
+content = 一番人気があるのは、やはり恋愛関係の占いですね。
+
+[0x27954]
+size = 15
+content = 339001fp0030050
+
+[0x27964]
+size = 32
+content = せっかくお２人で来たのですから、
+
+[0x27985]
+size = 28
+content = 相性占いなどはいかがですか？
+
+[0x279a2]
+size = 15
+content = 001001fp0030070
+
+[0x279b2]
+size = 38
+content = 相性占いか……面白そうだね、あなっち！
+
+[0x279d9]
+size = 40
+content = でも、オレたちの相性ってどうなんだろう？
+
+[0x27a02]
+size = 30
+content = 自分ではよくわからないな……。
+
+[0x27a21]
+size = 15
+content = 001001fp0030060
+
+[0x27a31]
+size = 30
+content = きっと相性ばっちりだと思うよ！
+
+[0x27a50]
+size = 34
+content = そうでなきゃ、こうして１０年ぶりの
+
+[0x27a73]
+size = 34
+content = 再会なんてできなかったと思うもん！
+
+[0x27a96]
+size = 42
+content = だといいけどね……もしも悪い結果になっても
+
+[0x27ac1]
+size = 26
+content = あんまり落ち込まないでよ？
+
+[0x27adc]
+size = 15
+content = 001001fp0030080
+
+[0x27aec]
+size = 16
+content = 大丈夫、大丈夫！
+
+[0x27afd]
+size = 42
+content = じゃ、私たち２人の相性占い、お願いします！
+
+[0x27b28]
+size = 15
+content = 339001fp0030090
+
+[0x27b38]
+size = 16
+content = わかりました……
+
+[0x27b49]
+size = 24
+content = では、我が守護天使の声に
+
+[0x27b62]
+size = 26
+content = 耳を傾けてみましょう……。
+
+[0x27b7d]
+size = 15
+content = 339001fp0030100
+
+[0x27b8d]
+size = 18
+content = ……ブツブツ……。
+
+[0x27ba0]
+size = 15
+content = 001001fp0030110
+
+[0x27bb0]
+size = 16
+content = （ドキドキ……）
+
+[0x27bc1]
+size = 15
+content = 339001fp0030120
+
+[0x27bd1]
+size = 40
+content = ……ここに、３枚のカードが残りました……
+
+[0x27bfa]
+size = 50
+content = さあ、最後はあなたの手で運命を選び取ってください。
+
+[0x27c2d]
+size = 36
+content = えっ？　オレがカードを引くんですか？
+
+[0x27c52]
+size = 36
+content = 占い師さんが占ってくれるんじゃ……？
+
+[0x27c77]
+size = 15
+content = 339001fp0030130
+
+[0x27c87]
+size = 26
+content = 私は３つの道を示すだけ……
+
+[0x27ca2]
+size = 32
+content = 決断を下すのは、あなた自身です。
+
+[0x27cc3]
+size = 15
+content = 001001fp0030140
+
+[0x27cd3]
+size = 26
+content = ……がんばって、あなっち！
+
+[0x27cee]
+size = 34
+content = 絶対にいいカードを引き当ててね！？
+
+[0x27d11]
+size = 10
+content = 右のカード
+
+[0x27d1c]
+size = 36
+content = じゃあ、オレは……このカードを選ぶ！
+
+[0x27d41]
+size = 15
+content = 339001fp0030150
+
+[0x27d51]
+size = 14
+content = わかりました。
+
+[0x27d60]
+size = 30
+content = では、そのカードをこちらへ……
+
+[0x27d7f]
+size = 32
+content = むむっ！　……こ、これは……！？
+
+[0x27da0]
+size = 15
+content = 001001fp0030160
+
+[0x27db0]
+size = 20
+content = ど、どうでしたか！？
+
+[0x27dc5]
+size = 15
+content = 339001fp0030170
+
+[0x27dd5]
+size = 28
+content = これは……最高のカードです！
+
+[0x27df2]
+size = 36
+content = あなたたちは、まさに天使に祝福された
+
+[0x27e17]
+size = 26
+content = カップルと言えるでしょう！
+
+[0x27e32]
+size = 15
+content = 339001fp0030180
+
+[0x27e42]
+size = 36
+content = あなたたちの絆は、何者にも断ち切れる
+
+[0x27e67]
+size = 38
+content = ものではありません。　私が保証します！
+
+[0x27e8e]
+size = 15
+content = 001001fp0030190
+
+[0x27e9e]
+size = 40
+content = や、やったぁ～っ！　聞いた、あなっち！？
+
+[0x27ec7]
+size = 20
+content = だから言ったでしょ？
+
+[0x27edc]
+size = 30
+content = 私たちの相性はばっちりだって！
+
+[0x27efb]
+size = 20
+content = 喜びすぎだよ、めぐ。
+
+[0x27f10]
+size = 34
+content = 廊下にまで声が響いてるじゃないか。
+
+[0x27f33]
+size = 32
+content = ……でもまあ、悪い気はしないね。
+
+[0x27f54]
+size = 15
+content = 001001fp0030200
+
+[0x27f64]
+size = 24
+content = 占い師さん、ありがとう！
+
+[0x27f7d]
+size = 34
+content = おかげで素敵な思い出ができました！
+
+[0x27fa0]
+size = 15
+content = 339001fp0030210
+
+[0x27fb0]
+size = 44
+content = そこまで喜んでもらえると、私も嬉しいですよ。
+
+[0x27fdd]
+size = 18
+content = あなたがた２人に、
+
+[0x27ff0]
+size = 42
+content = 今後も守護天使の導きがありますように……。
+
+[0x2801b]
+size = 44
+content = （やれやれ……子供みたいにはしゃいじゃって。
+
+[0x28048]
+size = 40
+content = 　……でも、なんだかオレも気分がいいや。
+
+[0x28071]
+size = 34
+content = 　ここに遊びに来てよかったな……）
+
+[0x28094]
+size = 14
+content = 真ん中のカード
+
+[0x280a3]
+size = 22
+content = じゃあ……これを選ぶ！
+
+[0x280ba]
+size = 15
+content = 339001fp0030220
+
+[0x280ca]
+size = 24
+content = 真ん中のカードですね……
+
+[0x280e3]
+size = 30
+content = では、結果を見てみましょう……
+
+[0x28102]
+size = 18
+content = こ、これは……！？
+
+[0x28115]
+size = 15
+content = 001001fp0030210
+
+[0x28125]
+size = 34
+content = えっ……ど、どうなったんですか！？
+
+[0x28148]
+size = 15
+content = 339001fp0030240
+
+[0x28158]
+size = 36
+content = ……残念ながら、最悪のカードです……
+
+[0x2817d]
+size = 32
+content = つまり、あなたたちの相性も最悪。
+
+[0x2819e]
+size = 40
+content = これは、すぐにでも別れた方がいいですね。
+
+[0x281c7]
+size = 20
+content = えっ、そうなの……？
+
+[0x281dc]
+size = 46
+content = あちゃ～、変なカード引いちゃったなあ、ははは。
+
+[0x2820b]
+size = 15
+content = 001001fp0030230
+
+[0x2821b]
+size = 34
+content = ははは、じゃないでしょぉ～っっ！？
+
+[0x2823e]
+size = 34
+content = なんてカードを引いてくれたのよ！？
+
+[0x28261]
+size = 32
+content = うわ～、あなっちのバカバカ～っ！
+
+[0x28282]
+size = 34
+content = い、痛い痛い！　頭を叩くなってば！
+
+[0x282a5]
+size = 36
+content = オレだってなにも、わざと悪いカードを
+
+[0x282ca]
+size = 20
+content = 引いたわけじゃ……。
+
+[0x282df]
+size = 15
+content = 001001fp0030240
+
+[0x282ef]
+size = 42
+content = だって、だって……こんな結果、ひどいよ～！
+
+[0x2831a]
+size = 10
+content = うわ～ん！
+
+[0x28325]
+size = 15
+content = 339001fp0030270
+
+[0x28335]
+size = 50
+content = さっそく２人の間に不穏な空気が流れていますね……。
+
+[0x28368]
+size = 48
+content = やはり守護天使様のお告げは当たっていたようです。
+
+[0x28399]
+size = 30
+content = ていうか、アンタの占いのせいで
+
+[0x283b8]
+size = 30
+content = こんなことになってるんだけど！
+
+[0x283d7]
+size = 15
+content = 339001fp0030280
+
+[0x283e7]
+size = 24
+content = 私の責任ではありません。
+
+[0x28400]
+size = 36
+content = 運命を切り開くのはあなた自身ですよ。
+
+[0x28425]
+size = 15
+content = 001001fp0030270
+
+[0x28435]
+size = 44
+content = うぅ～……だったら私、こんな占いは信じない！
+
+[0x28462]
+size = 38
+content = だいたい、私たちの相性が悪いだなんて、
+
+[0x28489]
+size = 22
+content = 絶対にありえないもん！
+
+[0x284a0]
+size = 15
+content = 001001fp0030280
+
+[0x284b0]
+size = 28
+content = あなっちと私は、小さい頃から
+
+[0x284cd]
+size = 34
+content = ずっとずっと仲良しだったんだから！
+
+[0x284f0]
+size = 24
+content = そうでしょ、あなっち！？
+
+[0x28509]
+size = 22
+content = あ、うん……そうだね。
+
+[0x28520]
+size = 36
+content = （……だったら、はじめから占いなんて
+
+[0x28545]
+size = 28
+content = 　頼まなければいいのに……）
+
+[0x28562]
+size = 38
+content = ……とにかく、占いはこれで終わりだね。
+
+[0x28589]
+size = 14
+content = さあ、行こう！
+
+[0x28598]
+size = 10
+content = 左のカード
+
+[0x285a3]
+size = 38
+content = よし、じゃあ……これ！　左のカードだ！
+
+[0x285ca]
+size = 15
+content = 339001fp0030310
+
+[0x285da]
+size = 18
+content = おや、これは……。
+
+[0x285ed]
+size = 15
+content = 001001fp0030300
+
+[0x285fd]
+size = 14
+content = （ゴクリ……）
+
+[0x2860c]
+size = 15
+content = 339001fp0030330
+
+[0x2861c]
+size = 18
+content = ……普通、ですね。
+
+[0x2862f]
+size = 40
+content = 良くもなく悪くもない、一般的な相性です。
+
+[0x28658]
+size = 42
+content = これからも平凡な友だち関係が続くでしょう。
+
+[0x28683]
+size = 15
+content = 001001fp0030320
+
+[0x28693]
+size = 28
+content = えぇ～っ、そんなはずは……。
+
+[0x286b0]
+size = 44
+content = 占い師さん、なにかの間違いじゃないんですか？
+
+[0x286dd]
+size = 15
+content = 339001fp0030350
+
+[0x286ed]
+size = 20
+content = ……ご安心ください。
+
+[0x28702]
+size = 40
+content = 私が占ったのは、あくまで現状の運勢です。
+
+[0x2872b]
+size = 15
+content = 339001fp0030360
+
+[0x2873b]
+size = 32
+content = あなたたちの努力次第では、今後、
+
+[0x2875c]
+size = 44
+content = ２人の関係は大きく変動していくことでしょう。
+
+[0x28789]
+size = 28
+content = 要するに本人次第ってことか。
+
+[0x287a6]
+size = 20
+content = まあ、当然の話だな。
+
+[0x287bb]
+size = 15
+content = 001001fp0030350
+
+[0x287cb]
+size = 32
+content = でも、最高の結果じゃなかったのは
+
+[0x287ec]
+size = 24
+content = ちょっと残念だなあ……。
+
+[0x28805]
+size = 40
+content = やれやれ。　めぐって、意外に占いの結果を
+
+[0x2882e]
+size = 26
+content = 気にする性格だったんだね。
+
+[0x28849]
+size = 36
+content = 大丈夫だって！　占いなんていうのは、
+
+[0x2886e]
+size = 36
+content = いい結果だけ信じていればいいんだよ。
+
+[0x28893]
+size = 15
+content = 001001fp0030360
+
+[0x288a3]
+size = 28
+content = あなっち……うん、わかった。
+
+[0x288c0]
+size = 36
+content = 私、もう占いの結果なんて気にしない！
+
+[0x288e5]
+size = 15
+content = 001001fp0030370
+
+[0x288f5]
+size = 32
+content = 私たちの絆の強さは、私たち自身が
+
+[0x28916]
+size = 38
+content = 一番よく知ってるもんね。　そうでしょ？
+
+[0x2893d]
+size = 34
+content = えっ？　あ、ああ、まあ、そうだね。
+
+[0x28960]
+size = 30
+content = そんな風にはっきり言われると、
+
+[0x2897f]
+size = 28
+content = なんだか恥ずかしいけど……。
+
+[0x2899c]
+size = 15
+content = 001001fp0030380
+
+[0x289ac]
+size = 26
+content = えへへ……じゃあ、行こう！
+

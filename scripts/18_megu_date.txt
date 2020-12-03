@@ -1,0 +1,136 @@
+[0x1ca80]
+size = 20
+content = めぐデート９月メイン
+
+[0x1ca95]
+size = 15
+content = chr001_mail0240
+
+[0x1caa5]
+size = 12
+content = 予定はないよ
+
+[0x1cab2]
+size = 15
+content = chr001_mail0242
+
+[0x1cac2]
+size = 10
+content = 行く行く！
+
+[0x1cacd]
+size = 12
+content = ○○○○○○
+
+[0x1cada]
+size = 26
+content = ……よし、忘れ物はないな。
+
+[0x1caf5]
+size = 26
+content = ハイキングの準備は万端だ。
+
+[0x1cb11]
+size = 4
+content = めぐ
+
+[0x1cb16]
+size = 15
+content = 001001dt0030010
+
+[0x1cb26]
+size = 40
+content = あっ、いたいた！　あなっち、おはよう～！
+
+[0x1cb4f]
+size = 40
+content = えへへ、今日は絶好のハイキング日和だね！
+
+[0x1cb78]
+size = 16
+content = ああ、そうだね。
+
+[0x1cb89]
+size = 44
+content = これならきっと、山の空気も澄んでると思うよ。
+
+[0x1cbb6]
+size = 15
+content = 001001dt0030020
+
+[0x1cbc6]
+size = 50
+content = うん！　……ところで、どうして急にハイキングなの？
+
+[0x1cbf9]
+size = 36
+content = あなっちって、登山が趣味だったっけ？
+
+[0x1cc1e]
+size = 28
+content = そういうわけでもないけど……
+
+[0x1cc3b]
+size = 16
+content = せっかくだから、
+
+[0x1cc4c]
+size = 34
+content = 夢ヶ島の自然を楽しもうと思ってさ。
+
+[0x1cc6f]
+size = 36
+content = それに、報道部のカメラマンとしては、
+
+[0x1cc94]
+size = 36
+content = 山の風景も写真に収めておきたいしね。
+
+[0x1ccb9]
+size = 15
+content = 001001dt0030030
+
+[0x1ccc9]
+size = 10
+content = なるほど！
+
+[0x1ccd4]
+size = 32
+content = じゃ、報道部のカメラマンとして、
+
+[0x1ccf5]
+size = 36
+content = 母岳の自然をしっかり記録に残してね。
+
+[0x1cd1a]
+size = 15
+content = 001001dt0030040
+
+[0x1cd2a]
+size = 48
+content = その代わり、頂上についたらおやつをあげるからさ。
+
+[0x1cd5b]
+size = 50
+content = 今日は私、カップケーキとクッキーを作ってきたんだ！
+
+[0x1cd8e]
+size = 36
+content = へえ、手作りか、　それは楽しみだな。
+
+[0x1cdb3]
+size = 40
+content = じゃ、張り切って頂上を目指すとしようか！
+
+[0x1cddc]
+size = 15
+content = 001001dt0030050
+
+[0x1cdec]
+size = 6
+content = うん！
+
+[0x1cdf3]
+size = 22
+content = それじゃ、レッツゴー！
+

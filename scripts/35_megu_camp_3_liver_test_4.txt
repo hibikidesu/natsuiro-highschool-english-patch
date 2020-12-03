@@ -1,0 +1,184 @@
+[0x2f400]
+size = 22
+content = めぐ合宿ペア３肝試し４
+
+[0x2f417]
+size = 22
+content = めぐ合宿ペア３肝試し１
+
+[0x2f42e]
+size = 28
+content = 報道部合宿肝試しタイムアップ
+
+[0x2f44b]
+size = 12
+content = ○○○○○○
+
+[0x2f458]
+size = 40
+content = ……おっ、美術室のドアが少し開いてるよ。
+
+[0x2f482]
+size = 4
+content = めぐ
+
+[0x2f487]
+size = 15
+content = 001001gp0030220
+
+[0x2f497]
+size = 28
+content = ど、どうする？　入ってみる？
+
+[0x2f4b4]
+size = 34
+content = ……うっ。　夜の美術室っていうのも
+
+[0x2f4d7]
+size = 22
+content = なんだか怖いなあ……。
+
+[0x2f4ee]
+size = 15
+content = 001001gp0030230
+
+[0x2f4fe]
+size = 36
+content = ひゃっ！？　あ、あなっち、あれ……！
+
+[0x2f523]
+size = 18
+content = あそこにある胸像、
+
+[0x2f536]
+size = 34
+content = いま、こっちに振りかえらなかった？
+
+[0x2f559]
+size = 38
+content = ば、バカなことを言わないでよ、三日月。
+
+[0x2f580]
+size = 38
+content = いくら弥生先輩でも、そこまでの仕掛けは
+
+[0x2f5a7]
+size = 36
+content = 用意してないはずだ。　目の錯覚だよ。
+
+[0x2f5cc]
+size = 22
+content = （とは言ったものの……
+
+[0x2f5e3]
+size = 40
+content = 　なんだか、オレまで怖くなってきた……）
+
+[0x2f60c]
+size = 15
+content = 001001gp0030240
+
+[0x2f61c]
+size = 48
+content = ……そう言えば、あなっち。　こんな話を知ってる？
+
+[0x2f64d]
+size = 36
+content = 昔、ある学校に、絵を描くのが大好きな
+
+[0x2f672]
+size = 16
+content = 女の子がいたの。
+
+[0x2f683]
+size = 15
+content = 001001gp0030250
+
+[0x2f693]
+size = 36
+content = だけど、彼女はある日、急な事故で命を
+
+[0x2f6b8]
+size = 20
+content = 落としてしまって……
+
+[0x2f6cd]
+size = 15
+content = 001001gp0030260
+
+[0x2f6dd]
+size = 34
+content = 絵を完成させられなかった無念から、
+
+[0x2f700]
+size = 36
+content = 彼女は死後も毎晩、美術室に現れ……。
+
+[0x2f725]
+size = 22
+content = ちょ、ちょっと待って！
+
+[0x2f73c]
+size = 22
+content = なんでこのタイミングで
+
+[0x2f753]
+size = 22
+content = そんな話を始めるの！？
+
+[0x2f76a]
+size = 15
+content = 001001gp0030270
+
+[0x2f77a]
+size = 14
+content = だ、だって～。
+
+[0x2f789]
+size = 22
+content = 怖い怖いと思ってると、
+
+[0x2f7a0]
+size = 36
+content = 怖いことばかり頭に浮かんじゃって……
+
+[0x2f7c5]
+size = 15
+content = 001001gp0030280
+
+[0x2f7d5]
+size = 28
+content = だからあなっちを怖がらせたら
+
+[0x2f7f2]
+size = 34
+content = 少しは怖くなくなるかと思って……。
+
+[0x2f815]
+size = 14
+content = なんだよそれ！
+
+[0x2f824]
+size = 28
+content = ２人とも怖くなっちゃったら、
+
+[0x2f841]
+size = 24
+content = 誰が三日月を守るんだよ？
+
+[0x2f85a]
+size = 15
+content = 001001gp0030290
+
+[0x2f86a]
+size = 16
+content = ご、ごめんね……
+
+[0x2f87b]
+size = 32
+content = じゃあ、気をとりなおして美術室を
+
+[0x2f89c]
+size = 14
+content = 探索しようか？
+

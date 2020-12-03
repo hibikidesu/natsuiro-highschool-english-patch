@@ -1,0 +1,160 @@
+[0x2d740]
+size = 4
+content = めぐ
+
+[0x2d745]
+size = 15
+content = 001001gp0030010
+
+[0x2d755]
+size = 22
+content = よろしくね、あなっち！
+
+[0x2d76c]
+size = 36
+content = もしもオバケが出たら、カメラに収めて
+
+[0x2d791]
+size = 34
+content = 報道部ＮＥＷＳで発表しちゃおうね！
+
+[0x2d7b4]
+size = 12
+content = ○○○○○○
+
+[0x2d7c1]
+size = 36
+content = はしゃぐのはいいけど、転ばないように
+
+[0x2d7e6]
+size = 40
+content = 気をつけろよ？　夜の校舎は暗いんだから。
+
+[0x2d810]
+size = 15
+content = 001001gp0030020
+
+[0x2d820]
+size = 36
+content = 平気、平気！　さ、行くよ、あなっち！
+
+[0x2d845]
+size = 18
+content = 私について来て！！
+
+[0x2d858]
+size = 15
+content = 001001gp0030030
+
+[0x2d868]
+size = 30
+content = ま、待ってよ、あなっちぃ～……
+
+[0x2d887]
+size = 28
+content = 置いてかないでってば～……。
+
+[0x2d8a4]
+size = 28
+content = もっと早く歩いてよ、三日月。
+
+[0x2d8c1]
+size = 38
+content = さっきまでの元気はどこに行ったんだい？
+
+[0x2d8e8]
+size = 15
+content = 001001gp0030040
+
+[0x2d8f8]
+size = 30
+content = だ、だって、夜の学校がこんなに
+
+[0x2d917]
+size = 26
+content = 怖いものだったなんて……。
+
+[0x2d932]
+size = 15
+content = 001001gp0030050
+
+[0x2d942]
+size = 42
+content = あなっち、お願い。　私と手をつないでいて！
+
+[0x2d96d]
+size = 30
+content = 絶対に離しちゃダメだからね！？
+
+[0x2d98c]
+size = 26
+content = やれやれ……しかたないな。
+
+[0x2d9a7]
+size = 28
+content = この肝試しの間だけだからね？
+
+[0x2d9c4]
+size = 15
+content = 001001gp0030060
+
+[0x2d9d4]
+size = 24
+content = う、うん……ありがとう。
+
+[0x2d9ed]
+size = 34
+content = それより、大神先輩が置いたっていう
+
+[0x2da10]
+size = 18
+content = 目印はどこだろう？
+
+[0x2da23]
+size = 15
+content = 001001gp0030070
+
+[0x2da33]
+size = 38
+content = そうだね……目印がどんなものなのかは、
+
+[0x2da5a]
+size = 36
+content = 弥生先輩も教えてくれなかったし……。
+
+[0x2da7f]
+size = 36
+content = 自分たちで探すしかないってことか……
+
+[0x2daa4]
+size = 38
+content = でも、この広い校舎の中からどうやって？
+
+[0x2dacb]
+size = 15
+content = 001001gp0030080
+
+[0x2dadb]
+size = 48
+content = わからないけど……とにかく、前に進むしかないよ！
+
+[0x2db0c]
+size = 30
+content = （言ってることは勇ましいけど、
+
+[0x2db2b]
+size = 30
+content = 　足が震えてるんだよなあ……）
+
+[0x2db4a]
+size = 15
+content = 001001gp0030090
+
+[0x2db5a]
+size = 34
+content = じゃ、まずはどの部屋から回ろうか？
+
+[0x2db7d]
+size = 22
+content = めぐ合宿ペア３肝試し１
+

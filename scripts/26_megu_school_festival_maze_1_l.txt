@@ -1,0 +1,176 @@
+[0x22590]
+size = 33
+content = めぐ学園祭ペア1迷路逆追従スタート
+
+[0x225b2]
+size = 23
+content = めぐ学園祭ペア1迷路迷子
+
+[0x225ca]
+size = 25
+content = めぐ学園祭ペア1迷路ゴール
+
+[0x225e4]
+size = 27
+content = めぐ学園祭ペア1迷路リタイア
+
+[0x22600]
+size = 4
+content = めぐ
+
+[0x22605]
+size = 15
+content = 001001fp0010070
+
+[0x22615]
+size = 14
+content = はぁ、はぁ……
+
+[0x22624]
+size = 26
+content = ゴ、ゴールはどこなの……？
+
+[0x22640]
+size = 12
+content = ○○○○○○
+
+[0x2264d]
+size = 8
+content = あれれ？
+
+[0x22656]
+size = 40
+content = さっきまでの元気はどうしたんだよ、めぐ。
+
+[0x2267f]
+size = 15
+content = 001001fp0010080
+
+[0x2268f]
+size = 36
+content = だ、だって……こんなに広い迷路だとは
+
+[0x226b4]
+size = 26
+content = 思わなかったんだもん……。
+
+[0x226cf]
+size = 15
+content = 001001fp0010090
+
+[0x226df]
+size = 34
+content = この迷路、もしかすると夢ヶ島よりも
+
+[0x22702]
+size = 18
+content = 広いんじゃないの？
+
+[0x22715]
+size = 20
+content = そんなわけないって！
+
+[0x2272a]
+size = 44
+content = めぐが同じところをぐるぐる回ってるだけだよ。
+
+[0x22757]
+size = 20
+content = 気のせい、気のせい。
+
+[0x2276c]
+size = 15
+content = 001001fp0010100
+
+[0x2277c]
+size = 36
+content = そんなぁ……じゃあ、私、このまま一生
+
+[0x227a1]
+size = 30
+content = この迷路から出られないのかな？
+
+[0x227c0]
+size = 15
+content = 001001fp0010110
+
+[0x227d0]
+size = 38
+content = ああっ……だんだん目も霞んできた……。
+
+[0x227f7]
+size = 40
+content = あなっち……今まで本当にありがとう……。
+
+[0x22820]
+size = 36
+content = 時々は私のことも、思い出してね……。
+
+[0x22845]
+size = 36
+content = ……なにを勝手に盛り上がってるんだ。
+
+[0x2286a]
+size = 42
+content = 夢高祭の迷路で遭難なんかするわけないだろ？
+
+[0x22895]
+size = 15
+content = 001001fp0010120
+
+[0x228a5]
+size = 46
+content = うぅ……でも、どうやったらここから出られるのか
+
+[0x228d4]
+size = 28
+content = 見当もつかないんだもん……。
+
+[0x228f1]
+size = 32
+content = やみくもに走り回るんじゃなくて、
+
+[0x22912]
+size = 44
+content = 空や周りの風景も参考にしたらいいんじゃない？
+
+[0x2293f]
+size = 15
+content = 001001fp0010130
+
+[0x2294f]
+size = 14
+content = あ……そっか。
+
+[0x2295e]
+size = 38
+content = あの山がこっちの方向に見えるってことは
+
+[0x22985]
+size = 24
+content = ……ふむふむ、なるほど。
+
+[0x2299e]
+size = 15
+content = 001001fp0010140
+
+[0x229ae]
+size = 22
+content = ありがとう、あなっち！
+
+[0x229c5]
+size = 40
+content = 私、ゴールまで行けそうな気がしてきたよ！
+
+[0x229ee]
+size = 46
+content = それじゃ、いっしょにクリア目指してがんばろう！
+
+[0x22a1d]
+size = 15
+content = 001001fp0010150
+
+[0x22a2d]
+size = 26
+content = 了解です！　あなっち隊長！
+

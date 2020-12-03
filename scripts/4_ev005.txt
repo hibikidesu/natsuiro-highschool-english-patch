@@ -1,0 +1,140 @@
+[0x99f0]
+size = 27
+content = 共通EV005：親友エンド（１）
+
+[0x9a0c]
+size = 4
+content = シゲ
+
+[0x9a11]
+size = 15
+content = 218000co0050010
+
+[0x9a21]
+size = 22
+content = よぉ！　□□□□□□。
+
+[0x9a39]
+size = 8
+content = 淵谷豊作
+
+[0x9a42]
+size = 15
+content = 220000co0050020
+
+[0x9a52]
+size = 12
+content = ど、どうも。
+
+[0x9a5f]
+size = 12
+content = ○○○○○○
+
+[0x9a6c]
+size = 30
+content = シゲ、淵谷君、どうしてここへ？
+
+[0x9a8b]
+size = 15
+content = 218000co0050030
+
+[0x9a9b]
+size = 24
+content = 今日で最後なんだってな。
+
+[0x9ab4]
+size = 24
+content = 水臭いじゃねーか、オイ！
+
+[0x9acd]
+size = 15
+content = 220000co0050040
+
+[0x9add]
+size = 18
+content = ステルス転校禁止！
+
+[0x9af0]
+size = 12
+content = ごめん……。
+
+[0x9afd]
+size = 34
+content = どうしても言い出せなくて……オレ。
+
+[0x9b20]
+size = 15
+content = 218000co0050050
+
+[0x9b30]
+size = 22
+content = ま、気持ちはわかるぜ。
+
+[0x9b47]
+size = 24
+content = だから、謝るのはナシだ。
+
+[0x9b60]
+size = 15
+content = 220000co0050060
+
+[0x9b70]
+size = 14
+content = 駅まで送るぉ。
+
+[0x9b7f]
+size = 12
+content = ありがとう！
+
+[0x9b8c]
+size = 16
+content = シゲ！　淵谷君！
+
+[0x9b9d]
+size = 15
+content = 218000co0050070
+
+[0x9bad]
+size = 26
+content = 夢高祭、楽しかったよなぁ。
+
+[0x9bc8]
+size = 15
+content = 220000co0050080
+
+[0x9bd8]
+size = 40
+content = 来年もいっしょに面白い事やりたかったぉ。
+
+[0x9c01]
+size = 15
+content = 218000co0050090
+
+[0x9c11]
+size = 16
+content = そうだなぁ……。
+
+[0x9c22]
+size = 40
+content = あ、遊びに来れそうだったら連絡しろよな。
+
+[0x9c4b]
+size = 4
+content = なし
+
+[0x9c50]
+size = 27
+content = 共通EV005：親友エンド（２）
+
+[0x9c6c]
+size = 27
+content = 共通EV005：親友エンド（３）
+
+[0x9c88]
+size = 27
+content = 共通EV005：親友エンド（４）
+
+[0x9ca4]
+size = 25
+content = 共通EV005：親友エンド（１
+

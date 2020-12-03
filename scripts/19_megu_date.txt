@@ -1,0 +1,132 @@
+[0x1d2f0]
+size = 20
+content = めぐデート９月サブ１
+
+[0x1d305]
+size = 20
+content = めぐデート９月メイン
+
+[0x1d31a]
+size = 12
+content = ○○○○○○
+
+[0x1d327]
+size = 40
+content = ふう……ちょうど半分くらいは登ったかな？
+
+[0x1d350]
+size = 30
+content = このあたりで少し休憩しようか。
+
+[0x1d370]
+size = 4
+content = めぐ
+
+[0x1d375]
+size = 15
+content = 001001dt0031010
+
+[0x1d385]
+size = 30
+content = うん！　じゃ、あそこで休もう！
+
+[0x1d3a4]
+size = 32
+content = う～ん……気温もちょうどいいし、
+
+[0x1d3c5]
+size = 24
+content = 今日は来てよかったなあ。
+
+[0x1d3de]
+size = 15
+content = 001001dt0031020
+
+[0x1d3ee]
+size = 36
+content = ふふっ。　夢ヶ島の自然は気に入った？
+
+[0x1d413]
+size = 28
+content = ああ。　夏には海、秋には山。
+
+[0x1d430]
+size = 44
+content = アウトドアを楽しむには最高の場所だと思うよ。
+
+[0x1d45d]
+size = 15
+content = 001001dt0031030
+
+[0x1d46d]
+size = 18
+content = それに、山の空気は
+
+[0x1d480]
+size = 26
+content = 海沿いとはまた違うでしょ？
+
+[0x1d49b]
+size = 32
+content = うん。　潮の匂いも悪くないけど、
+
+[0x1d4bc]
+size = 28
+content = 山の澄んだ空気も心地いいね。
+
+[0x1d4d9]
+size = 36
+content = この島は面白いものがたくさんあるよ。
+
+[0x1d4fe]
+size = 24
+content = 子供の頃のオレだったら、
+
+[0x1d517]
+size = 40
+content = 毎日、島じゅうを探検して回ってたかもな。
+
+[0x1d540]
+size = 15
+content = 001001dt0031040
+
+[0x1d550]
+size = 32
+content = ふふっ。今からだって遅くないよ。
+
+[0x1d571]
+size = 34
+content = あなっちが納得するまで、好きなだけ
+
+[0x1d594]
+size = 34
+content = 夢ヶ島を見て回ったらいいじゃない？
+
+[0x1d5b7]
+size = 16
+content = うん、そうだな。
+
+[0x1d5c8]
+size = 34
+content = じゃ、今日のところは母岳を探検だ。
+
+[0x1d5eb]
+size = 36
+content = さ、そろそろ休憩は終わりにしようか？
+
+[0x1d610]
+size = 15
+content = 001001dt0031050
+
+[0x1d620]
+size = 10
+content = ラジャー！
+
+[0x1d62b]
+size = 36
+content = それじゃ、頂上目指してがんばろう～！
+
+[0x1d650]
+size = 20
+content = めぐデート９月サブ２
+
