@@ -2,6 +2,7 @@ import json
 import os
 import configparser
 import tools
+from struct import pack
 from shutil import copyfile
 
 
@@ -38,12 +39,24 @@ def build_tutorial():
 
 def build_scripts():
     os.makedirs(os.path.join("translated", "npg11", "script"), exist_ok=True)
-    copyfile(os.path.join("script", "script.cat"), os.path.join("translated", "npg11", "script", "script.cat"))
+    new_cat = os.path.join("translated", "npg11", "script", "script.cat")
+    copyfile(os.path.join("script", "script.cat"), new_cat)
     for file in os.listdir("scripts"):
         config = configparser.ConfigParser()
         with open(os.path.join("scripts", file), "r", encoding="cp932") as f:
             config.read_file(f)
-        
+        # Patch cat
+        with open(new_cat, "r+b") as f:
+            for patch in list(config):
+                if patch.startswith("0x"):
+                    # Check if patch under limit
+                    size = config[patch]["size"]
+                    content = config[patch]["content"]
+                    if len(content) >= int(size):
+                        print(f"{file} @ {patch} oversize {len(content)}/{size}")
+                    else:
+                        f.seek(int(patch, 16))
+                        f.write(pack(f">{size}s", content.encode("cp932")))
 
 
 if __name__ == "__main__":
