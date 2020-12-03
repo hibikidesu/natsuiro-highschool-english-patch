@@ -1,6 +1,8 @@
 import json
 import os
+import configparser
 import tools
+from shutil import copyfile
 
 
 def build_text():
@@ -34,7 +36,18 @@ def build_tutorial():
     print("Created tutorial/Tutorial.bin")
 
 
+def build_scripts():
+    os.makedirs(os.path.join("translated", "npg11", "script"), exist_ok=True)
+    copyfile(os.path.join("script", "script.cat"), os.path.join("translated", "npg11", "script", "script.cat"))
+    for file in os.listdir("scripts"):
+        config = configparser.ConfigParser()
+        with open(os.path.join("scripts", file), "r", encoding="cp932") as f:
+            config.read_file(f)
+        
+
+
 if __name__ == "__main__":
     build_text()
     build_helptext()
     build_tutorial()
+    build_scripts()
