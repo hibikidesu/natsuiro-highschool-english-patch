@@ -18,7 +18,7 @@ The 1.01 patch causes scripts to be replaced with an updated package file making
 
 # TODO
 - script dump
-    - script.cat 2.78%
+    - script.cat 6.16%
     - script2.cat 0%
 - .gtf texture modding
 
