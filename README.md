@@ -17,7 +17,8 @@ The 1.01 patch causes scripts to be replaced with an updated package file making
 ![Title Screen](https://raw.githubusercontent.com/hibikidesu/natsuiro-highschool-english-patch/master/screenshots/1.png)
 
 # TODO
-- .cat file format dumping
+- script dump
+    - test
 - .gtf texture modding
 
 # File formats
