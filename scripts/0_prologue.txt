@@ -4,15 +4,15 @@ content = Prologue
 
 [0x4e3b]
 size = 6
-content = HHH
+content = ??????
 
 [0x4e42]
 size = 40
-content = ‚Q‚O‚w‚w”N‚VŒ‚V“úAŒß‘O‚W‚P‚U•ª‚È‚¤B
+content = It's now July the 7th, 20XX, 8:16am.
 
 [0x4e6c]
 size = 18
-content = •ƒ‚Ìd–‚Ì“s‡‚ÅA
+content = Because of my dads job
 
 [0x4e7f]
 size = 46
