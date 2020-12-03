@@ -4,6 +4,7 @@ import configparser
 
 
 # Name, Offset, Size
+# npg11.cpk -> script/script.cat
 offsets = [
     ["prologue", 0x4e30, 0x21c],
     ["ev002", 0x5780, 0x29f],
