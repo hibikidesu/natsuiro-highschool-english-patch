@@ -45,7 +45,8 @@ def dump_bin(data: bytes) -> configparser.ConfigParser:
 
     config["data"] = {
         "offset": bin_offset,
-        "size": file_size - bin_offset
+        "size": file_size - bin_offset,
+        "translated": 0
     }
     config["strings"] = {}
 
@@ -58,8 +59,9 @@ def dump_bin(data: bytes) -> configparser.ConfigParser:
 
 def dump_scripts(script_path: str):
     files = tools.extract_cat(script_path)
+    os.makedirs(os.path.join("scripts", "npg11"), exist_ok=True)
     for i, file in enumerate(files):
-        with open(os.path.join("scripts", f"{i}.ini"), "w", encoding="cp932") as f:
+        with open(os.path.join("scripts", "npg11", f"{i}.ini"), "w", encoding="cp932") as f:
             config = dump_bin(file)
             config.write(f)
         print(f"Extracted {i}")

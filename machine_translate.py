@@ -3,8 +3,9 @@ import json
 import random
 import googletrans
 from time import sleep
+from configparser import ConfigParser
 
-translator = googletrans.Translator()
+translator = googletrans.Translator(service_urls=["translate.googleapis.com"])
 
 
 def translate_text(text: str):
@@ -25,7 +26,8 @@ def translate_text(text: str):
         # Check if cp932 encodable
         translated.encode("cp932")
         return translated
-    except:
+    except Exception as e:
+        print(e)
         print(f"Failed to translate {text}")
         return text
 
@@ -112,6 +114,31 @@ def translate_tutorial_file():
         json.dump(new_data, f, indent=4)
 
 
+def translate_scripts():
+    for root, _, files in os.walk("scripts"):
+        for name in files:
+            fp = os.path.join(root, name)
+            config = ConfigParser()
+            modified = False
+            with open(fp, "r", encoding="cp932") as f:
+                config.read_file(f)
+                if int(config["data"]["translated"]) == 0:
+                    for i, string in enumerate(config["strings"]):
+                        s = config["strings"][string]
+                        if s:
+                            t = random.uniform(3, 7)
+                            translated = translate_text(s)
+                            config["strings"][string] = translated
+                            print(f"File: {name}, Old: {repr(s)}, New: {repr(translated)}, Done {i}/{len(config['strings'])}, Sleeping for {round(t, 2)}s")
+                            sleep(t)
+                    config["data"]["translated"] == 1
+                    modified = True
+            if modified:
+                with open(fp, "w", encoding="cp932") as f:
+                    config.write(f)
+            break
+
+
 if __name__ == "__main__":
     # Machine translate dumped text/ files
     translate_text_files()
@@ -121,3 +148,6 @@ if __name__ == "__main__":
 
     # Machine translate dumped tutorial/Tutorial.bin file
     translate_tutorial_file()
+
+    # Machine translate scripts
+    translate_scripts()
