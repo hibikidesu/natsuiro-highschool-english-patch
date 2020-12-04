@@ -39,6 +39,18 @@ Unknown data. From `0x10`, size of `0x20`. First `0x10` bytes look to be a key, 
 ## script/lsd.cat
 Unknown.
 ## script/script.cat && script/script2.cat
-Unknown format. looks easier to just extract all strings from it and replace it directly rather than rebuilding everything, other cat files are large in size, .cat could be a container for assets too? These scripts are the main scripts of the game
+| offset | size | notes |
+|--------|------|-------|
+| 0x00 | 0x04 | unknown, most are 0x0, some are 0x2000000 |
+| 0x04 | 0x04 | always 00 00 00 01 |
+| 0x08 | 0x08 | always 00 00 00 00 00 00 00 20 |
+| 0x10 | 0x04 | file size? |
+| 0x14 | 0x08 | file count |
+| 0x1c | 0x04 | always 00 00 00 00 |
+| 0x20 | 0x08 | file count again? | 
+| 0x28 | 0x08 | always 00 00 00 00 00 00 00 10 |
+| ?    |      | |
+| 0x38 | 0x04 | file offset descending |
+
 ## present/PresentList.bin
 File with a bunch of `0x01`'s `0x02`'s and `0x03`'s, unknown use.
