@@ -8,57 +8,57 @@ content = ??????
 
 [0x4e42]
 size = 40
-content = It's now July the 7th, 20XX, 8:16am.
+content = It's 8:16am, 7/7/20XX. 
 
 [0x4e6c]
 size = 18
-content = Because of my dads job
+content = My dad changed job
 
 [0x4e7f]
 size = 46
-content = 今日から新しい高校へ通う事になったのだが……。
+content = Which means I'll be attending a new highschool
 
 [0x4eae]
 size = 46
-content = たぶん、クラスに馴染む前に夏休みに入るだろうし
+content = Maybe it will take months before fitting in
 
 [0x4edd]
 size = 48
-content = ぶっちゃけ今度の学校も９月下旬までの在籍予定だ。
+content = To be honest I won't be enrolled until September
 
 [0x4f0e]
 size = 38
-content = 約３ヶ月の腰掛け、そんな気分でいた方が
+content = It would be easier to stay home
 
 [0x4f35]
 size = 46
-content = 出て行く時も後腐れなくて気楽じゃないかと思う。
+content = instead of worrying about my future.
 
 [0x4f64]
 size = 28
-content = ただ、頭ではそう思っていても
+content = But, I'm a little excited
 
 [0x4f81]
 size = 46
-content = 新しい出会いや新しい環境に少しワクワクしている
+content = to meet new people in this new place,
 
 [0x4fb0]
 size = 32
-content = 自分がいるのも事実だったり……。
+content = if I don't want to admit it.
 
 [0x4fd1]
 size = 44
-content = この先の小さな島にある、私立夢ヶ島高等学校。
+content = Yumegashima HS - located on a small island.
 
 [0x4ffe]
 size = 38
-content = それがオレが通う事になる学校の名前だ。
+content = I'll be there for a bit,
 
 [0x5025]
 size = 24
-content = 短い間だけど、よろしく。
+content = would be nice to see you
 
 [0x503e]
 size = 12
-content = プロローグ２
+content = Prologue 2
 
