@@ -37,26 +37,21 @@ def build_tutorial():
     print("Created tutorial/Tutorial.bin")
 
 
+def calcsize_scripts(lines: list):
+    c = 0
+    for line in lines:
+        c += len(line)
+    return (len(files) * 4) + c
+
+
 def build_scripts():
+    # ngp11.cpk
     os.makedirs(os.path.join("translated", "npg11", "script"), exist_ok=True)
-    new_cat = os.path.join("translated", "npg11", "script", "script.cat")
-    copyfile(os.path.join("script", "script.cat"), new_cat)
-    for file in os.listdir("scripts"):
-        config = configparser.ConfigParser()
-        with open(os.path.join("scripts", file), "r", encoding="cp932") as f:
-            config.read_file(f)
-        # Patch cat
-        with open(new_cat, "r+b") as f:
-            for patch in list(config):
-                if patch.startswith("0x"):
-                    # Check if patch under limit
-                    size = config[patch]["size"]
-                    content = config[patch]["content"]
-                    if len(content) > int(size):
-                        print(f"{file} @ {patch} oversize {len(content)}/{size}")
-                    else:
-                        f.seek(int(patch, 16))
-                        f.write(pack(f">{size}s", content.encode("cp932")))
+    orig_file = os.path.join("script", "script.cat")
+    files = []
+    for file in os.listdir(os.path.join("scripts", "npg11")):
+
+    tools.create_cat(os.path.join("translated", "npg11", "script", "script.cat"), files)
 
 
 if __name__ == "__main__":

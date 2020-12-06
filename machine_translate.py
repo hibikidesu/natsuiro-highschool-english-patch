@@ -1,11 +1,14 @@
 import os
 import json
 import random
-import googletrans
+import re
+#import googletrans
 from time import sleep
 from configparser import ConfigParser
+import translate
+from html import unescape
 
-translator = googletrans.Translator(service_urls=["translate.googleapis.com"])
+#translator = googletrans.Translator(service_urls=["translate.googleapis.com"])
 
 
 def translate_text(text: str):
@@ -22,7 +25,11 @@ def translate_text(text: str):
         Exception: if failed to encode or translate text
     """
     try:
-        translated = translator.translate(text, "en", "ja").text
+        # Contains cjk?
+        if not re.search(u"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]", text):
+            raise ValueError("no cjk")
+        #translated = translator.translate(text, "en", "ja").text
+        translated = unescape(translator.translate(text))
         # Check if cp932 encodable
         translated.encode("cp932")
         return translated
@@ -131,12 +138,11 @@ def translate_scripts():
                             config["strings"][string] = translated
                             print(f"File: {name}, Old: {repr(s)}, New: {repr(translated)}, Done {i}/{len(config['strings'])}, Sleeping for {round(t, 2)}s")
                             sleep(t)
-                    config["data"]["translated"] == 1
+                    config["data"]["translated"] = "1"
                     modified = True
             if modified:
                 with open(fp, "w", encoding="cp932") as f:
                     config.write(f)
-            break
 
 
 if __name__ == "__main__":
